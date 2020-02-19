@@ -1,0 +1,539 @@
+{
+	"title" : "KCI Sales",
+	"sections" : [
+		{
+			"type" : "SectionHeader",
+			"caption" : "KCI Sales Collateral",
+			"elements" : [
+				{
+					"type" : "ElementRoot",
+					"title" : "KCI Sales Collateral",
+					"subtitle" : "Brochures, PDFs, & Videos",
+					"image" : "AHSThumbnail.png",
+					"sections" : [
+						{
+							"type" : "SectionHeader",
+							"caption" : "V.A.C. Therapy",
+							"elements" : [
+								{
+									"type" : "ElementRoot",
+									"title" : "NPWT Products",
+									"image" : "AHSThumbnail.png",
+									"sections" : [
+										{
+											"type" : "SectionHeader",
+											"caption" : "NPWT Products",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "10 Points of Differentiation",
+													"subtitle" : "分化の10ポイント",
+													"documentfilename" : "130509_10_points_of_differentiation.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "ATS電源コード ActiV A C キャニスター取扱",
+													"subtitle" : "",
+													"documentfilename" : "ATSActiVACInstructions.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "NPWT Acti Rev iPad",
+													"subtitle" : "ActiV.A.C.型陰圧維持管理装置のご紹介",
+													"documentfilename" : "130513_Acti_Rev_iPad.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "NPWT ActiVAC FAQs",
+													"documentfilename" : "130513_ActiVAC_FAQs_V3.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "NPWT ActiVAC クイックリファレンスガイド",
+													"documentfilename" : "NPWT_ActiVAC_Quick_Reference_Guide.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "NPWT ActiVAC 単体リーフ",
+													"documentfilename" : "NPWT_ActiVAC_Single_Leaf.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "NPWT ActiVAC 製品総合-展開 web2",
+													"documentfilename" : "130417_ActiVAC_web2.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Battle Card Acti",
+													"documentfilename" : "130509_Battle_Card_Acti.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "NPWT Handling Objections why switch from Go to ActiVAC",
+													"documentfilename" : "130513_Handling_Objections_why_switch_from_Go_to_ActiVAC.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "NPWT グラニューフォームリーフ2P",
+													"documentfilename" : "NPWT_Granulated_Foam_2P.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "NPWT 説明会 ActiVAC iPad",
+													"documentfilename" : "130417_ActiVAC_iPad.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "TRAC Technology",
+													"documentfilename" : "Fin_TRAC_tech_1022.pdf"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "Videos",
+											"elements" : [
+												{	
+													"type" : "ElementVideo",
+													"title" : "VAC Application",
+													"documentfilename" : "VAC_Application.mov",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "VAC Mechanisms of Action",
+													"documentfilename" : "VAC_Mechanisms_of_Action.mov",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Competitive Benchmark",
+													"documentfilename" : "CompetitiveBenchmark.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "足開放骨折モデル装着",
+													"documentfilename" : "DA_OFracture_DSL_14_0296.JN.VID.1.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "足モデルシンプレイス装着",
+													"documentfilename" : "DA_SimpaceEX_DSL_14_0296.JN.VID.2.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "2014_社内資料_日本創傷・オストミー・失禁管理学会",
+													"documentfilename" : "2014_Luncheon_JWOCN_DSL_14_0295.JN.Internal_OnlyVID.4.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "2014_社内資料_日本血管外科学会",
+													"documentfilename" : "2014_Luncheon_CV_DSL_14_0295.JN.Internal_OnlyVID.3.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "2014 Summit-1",
+													"documentfilename" : "Summit2014_1.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "2014 Summit-2",
+													"documentfilename" : "Summit2014_2.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "2014 Summit-3",
+													"documentfilename" : "Summit2014_3.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "2013 第43回日本創傷治療学会",
+													"documentfilename" : "2013_第43回日本創傷治療学会.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "2013 VAC Summit 外科",
+													"documentfilename" : "2013_VAC_Summit_外科.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "2013 Nagoya V.A.C. Therapy Science Seminar",
+													"documentfilename" : "2013_Nagoya_V.A.C.Therapy_Science_Seminar.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "2013 VAC Summit 心臓血管外科",
+													"documentfilename" : "2013_VAC_Summit_心臓血管外科.mov",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "2013 第75回日本臨床外科学会",
+													"documentfilename" : "2013_75_ConfJapan.mp4",
+													"other" : "nonemailable"
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type" : "SectionHeader",
+							"caption" : "Case Reports",
+							"elements" : [
+								{
+									"type" : "ElementRoot",
+									"title" : "Case Reports",
+									"image" : "AHSThumbnail.png",
+									"sections" : [
+										{
+											"type" : "SectionHeader",
+											"caption" : "PDFs & Brochures",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "KCI vol1 iPad",
+													"documentfilename" : "130417_KCI_vol1_iPad.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "KCI vol2 iPad",
+													"documentfilename" : "130417_KCI_vol2_iPad.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "KCI vol3 iPad",
+													"documentfilename" : "130417_KCI_vol3_iPad.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "KCI vol4 iPad",
+													"documentfilename" : "130417_KCI_vol4_iPad.pdf"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"type" : "SectionHeader",
+			"caption" : "My Favorites / My Files",
+			"elements" : [
+				{
+					"type" : "ElementRoot",
+					"title" : "My Favorites",
+					"subtitle" : "View Files from Favorites Lists",
+					"image" : "Favorited.png",
+					"sections" : [
+						{
+							"type" : "SectionHeader",
+							"caption" : "My Favorites Lists"
+						}
+					]
+				},
+				{
+					"type" : "ElementRoot",
+					"title" : "My Files",
+					"subtitle" : "View User Installed Files",
+					"image" : "Myfiles.png",
+					"sections" : [
+						{
+							"type" : "SectionHeader",
+							"caption" : "My Files"
+						}
+					]
+				},
+				{
+					"type" : "ElementRoot",
+					"title" : "App Files",
+					"subtitle" : "View App Files",
+					"image" : "Myfiles.png",
+					"sections" : [
+						{
+							"type" : "SectionHeader",
+							"caption" : "App Files"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type" : "SectionHeader",
+			"caption" : "Support / Documentation",
+			"elements" : [
+				{
+					"type" : "ElementRoot",
+					"title" : "Help Documents & Videos",
+					"subtitle" : "App How-To Documents & Videos",
+					"image" : "Book.png",
+					"sections" : [
+						{
+							"type" : "SectionHeader",
+							"caption" : "Help Documents",
+							"elements" : [
+								{
+									"type" : "ElementRoot",
+									"title" : "View Help Documents",
+									"subtitle" : "Help Documents",
+									"image" : "Book.png",
+									"sections" : [
+										{
+											"type" : "SectionHeader",
+											"caption" : "Help Documents",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "Installation",
+													"subtitle" : "Installation Instructions",
+													"documentfilename" : "docs_00_Installation.pdf",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Quickstart Guide",
+													"subtitle" : "AHS App Quickstart",
+													"documentfilename" : "docs_01_AHS_QuickStart.pdf",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "What's New",
+													"subtitle" : "New App Features",
+													"documentfilename" : "docs_02_Whats_New.pdf",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Downloading Files",
+													"subtitle" : "How to Download Files",
+													"documentfilename" : "docs_03_Downloading_Files.pdf",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Viewing / Emailing Files",
+													"subtitle" : "Viewing & Emailing App Files",
+													"documentfilename" : "docs_04_Viewing_And_Emailing_Files.pdf",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Viewing Web Pages",
+													"subtitle" : "How to View Web Pages",
+													"documentfilename" : "docs_05_Viewing_Web_Page.pdf",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Viewing Videos",
+													"subtitle" : "How to View Videos",
+													"documentfilename" : "docs_06_Viewing_Video.pdf",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Advantage Center",
+													"subtitle" : "Contacting the Advantage Center",
+													"documentfilename" : "docs_07_Contacting_Advantage_Center.pdf",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Favorites",
+													"subtitle" : "Working with Favorites",
+													"documentfilename" : "docs_08_Favorites.pdf",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "My Files",
+													"subtitle" : "Custom Files",
+													"documentfilename" : "docs_09_My_Files.pdf",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Deleting KCI Files",
+													"subtitle" : "Removing KCI Media Files",
+													"documentfilename" : "docs_10_Deleting_KCI_Files.pdf",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Deleting My Files",
+													"subtitle" : "Removing Custom Files",
+													"documentfilename" : "docs_11_Deleting_My_Files.pdf",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Updates",
+													"subtitle" : "Checking for Updates",
+													"documentfilename" : "docs_12_Checking_for_Updates.pdf",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Troubleshooting",
+													"subtitle" : "Troubleshoot Common Issues",
+													"documentfilename" : "docs_13_Troubleshooting.pdf",
+													"other" : "nonemailable, nonfavorable"
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type" : "SectionHeader",
+							"caption" : "Help Videos",
+							"elements" : [
+								{
+									"type" : "ElementRoot",
+									"title" : "View Help Videos",
+									"subtitle" : "Help Videos",
+									"image" : "Video.png",
+									"sections" : [
+										{
+											"type" : "SectionHeader",
+											"caption" : "Help Videos",
+											"elements" : [
+												{	
+													"type" : "ElementVideo",
+													"title" : "Quick Start",
+													"subtitle" : "Quick Start Video",
+													"documentfilename" : "video_02_Quick_Start_iPhone-1.m4v",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "What's New",
+													"subtitle" : "New App Features",
+													"documentfilename" : "video_03_Whats_New2.m4v",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Downloading Files",
+													"subtitle" : "How to Download Files",
+													"documentfilename" : "video_04_Downloading_Files_2.m4v",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Viewing / Emailing Files",
+													"subtitle" : "Viewing & Emailing App Files",
+													"documentfilename" : "video_05_Viewing_Emailing_Docs_2.m4v",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Viewing Web Pages",
+													"subtitle" : "How to View Web Pages",
+													"documentfilename" : "video_06_Viewing_Web_Page_2.m4v",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Viewing Videos",
+													"subtitle" : "How to View Videos",
+													"documentfilename" : "video_07_Viewing_A_Video_2.m4v",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Favorites Lists",
+													"subtitle" : "How to Use Favorites",
+													"documentfilename" : "video_09_Favorites_Customizing_2.m4v",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Adding to Favorites",
+													"subtitle" : "Adding to Favorites Lists",
+													"documentfilename" : "video_10_Favorites_Add_To_2.m4v",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Editing Favorites",
+													"subtitle" : "Removing Files from Favorites",
+													"documentfilename" : "video_10_Favorites_Deleting_Files_2.m4v",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Adding User Files",
+													"subtitle" : "Adding Files from Email",
+													"documentfilename" : "video_11_Add_A_File_From_Email_2.m4v",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Removing KCI Files",
+													"subtitle" : "Removing KCI Media Files",
+													"documentfilename" : "video_12_Deleting_KCI_Files_2.m4v",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Removing User Files",
+													"subtitle" : "Removing User Files",
+													"documentfilename" : "video_13_Deleting_User_Files_2.m4v",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Checking for Updates",
+													"subtitle" : "Checking for App Updates",
+													"documentfilename" : "video_14_Check_for_Updates_2.m4v",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Working with Wi-Fi",
+													"subtitle" : "Enabling Wi-Fi on Your Phone",
+													"documentfilename" : "video_15_Wifi_Connect_2.m4v",
+													"other" : "nonemailable, nonfavorable"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type" : "ElementEmail",
+					"title" : "Submit Feedback",
+					"subtitle" : "Email Comments & Suggestions",
+					"documentfilename" : "sfdcus@kci1.com",
+					"other" : "KCI AHS Sales App Feedback"
+				},
+				{
+					"type" : "CreditsFooter",
+					"caption" : "2011 KCI Licensing, Inc. All rights reserved.\r All trademarks designated herein are\r property to KCI Licensing, Inc., its\r affiliates and/or licensors. 4/11."
+				}
+			]
+		}
+	]
+}

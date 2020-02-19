@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">iPhoneSimulator</Platform>
+    <ProjectGuid>{D01D6A00-E688-4A02-B397-B3F292EA391D}</ProjectGuid>
+    <ProjectTypeGuids>{FEACFBD2-3405-455C-9665-78FE426C6842};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>KCISalesApp</RootNamespace>
+    <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
+    <AssemblyName>KCISalesApp</AssemblyName>
+    <ReleaseVersion>4.5</ReleaseVersion>
+    <TargetFrameworkIdentifier>Xamarin.iOS</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v1.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhoneSimulator' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\iPhoneSimulator\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <MtouchLink>None</MtouchLink>
+    <ConsolePause>false</ConsolePause>
+    <MtouchDebug>true</MtouchDebug>
+    <MtouchI18n>
+    </MtouchI18n>
+    <MtouchArch>i386, x86_64</MtouchArch>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhoneSimulator' ">
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\iPhoneSimulator\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <MtouchLink>None</MtouchLink>
+    <ConsolePause>false</ConsolePause>
+    <MtouchI18n>
+    </MtouchI18n>
+    <MtouchArch>i386, x86_64</MtouchArch>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhone' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\iPhone\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <MtouchDebug>true</MtouchDebug>
+    <ConsolePause>false</ConsolePause>
+    <CodesignKey>iPhone Developer</CodesignKey>
+    <MtouchI18n>
+    </MtouchI18n>
+    <MtouchArch>ARMv7s, ARM64</MtouchArch>
+    <MtouchProfiling>true</MtouchProfiling>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhone' ">
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\iPhone\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodesignKey>iPhone Distribution: Kinetic Concepts</CodesignKey>
+    <ConsolePause>false</ConsolePause>
+    <CodesignProvision>A4D592CC-4EA0-4F95-BAA2-898C5A678344</CodesignProvision>
+    <MtouchI18n>
+    </MtouchI18n>
+    <MtouchArch>ARMv7s, ARM64</MtouchArch>
+    <IpaPackageName>
+    </IpaPackageName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Ad-Hoc|iPhone' ">
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\iPhone\Ad-Hoc</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodesignKey>iPhone Distribution</CodesignKey>
+    <BuildIpa>true</BuildIpa>
+    <ConsolePause>false</ConsolePause>
+    <CodesignProvision>Automatic:AdHoc</CodesignProvision>
+    <MtouchArch>ARMv7s, ARM64</MtouchArch>
+    <MtouchI18n>
+    </MtouchI18n>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'AppStore|iPhone' ">
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\iPhone\AppStore</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodesignKey>iPhone Distribution</CodesignKey>
+    <ConsolePause>false</ConsolePause>
+    <CodesignProvision>Automatic:AppStore</CodesignProvision>
+    <MtouchArch>ARMv7s, ARM64</MtouchArch>
+    <MtouchI18n>
+    </MtouchI18n>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'DebugDEV|iPhoneSimulator' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\iPhone\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <MtouchArch>i386, x86_64</MtouchArch>
+    <MtouchI18n>
+    </MtouchI18n>
+    <CodesignKey>iPhone Developer</CodesignKey>
+    <MtouchDebug>true</MtouchDebug>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'DebugDEV|iPhone' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\iPhone\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <MtouchArch>ARMv7s, ARM64</MtouchArch>
+    <MtouchI18n>
+    </MtouchI18n>
+    <CodesignKey>iPhone Developer</CodesignKey>
+    <MtouchDebug>true</MtouchDebug>
+    <MtouchProfiling>true</MtouchProfiling>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'DebugPROD|iPhoneSimulator' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\iPhone\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <MtouchArch>i386, x86_64</MtouchArch>
+    <MtouchI18n>
+    </MtouchI18n>
+    <CodesignKey>iPhone Developer</CodesignKey>
+    <MtouchDebug>true</MtouchDebug>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'DebugPROD|iPhone' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\iPhone\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <MtouchArch>ARMv7s, ARM64</MtouchArch>
+    <MtouchI18n>
+    </MtouchI18n>
+    <CodesignKey>iPhone Developer</CodesignKey>
+    <MtouchDebug>true</MtouchDebug>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="MonoTouch.Dialog-1" />
+    <Reference Include="Xamarin.iOS" />
+    <Reference Include="Calabash">
+      <HintPath>..\packages\Xamarin.TestCloud.Agent.0.21.9\lib\Xamarin.iOS\Calabash.dll</HintPath>
+    </Reference>
+    <Reference Include="MBProgressHUD">
+      <HintPath>..\Components\mbprogresshud-0.9.1.0\lib\ios-unified\MBProgressHUD.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.3\lib\netstandard2.0\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PLCrashReporterUnifiedBinding">
+      <HintPath>..\packages\Xamarin.Insights.1.12.3\lib\Xamarin.iOS10\PLCrashReporterUnifiedBinding.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Insights">
+      <HintPath>..\packages\Xamarin.Insights.1.12.3\lib\Xamarin.iOS10\Xamarin.Insights.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
+    <Folder Include="Images\" />
+    <Folder Include="Views\" />
+    <Folder Include="CustomClasses\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Info.plist" />
+    <None Include="SalesContent.json_CDN" />
+    <None Include="csr_list.csv_CDN" />
+    <None Include="ship_pending.csv_CDN" />
+    <None Include="gj_coverage.csv" />
+    <None Include="gj_coverage.csv_CDN" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Main.cs" />
+    <Compile Include="AppDelegate.cs" />
+    <Compile Include="Views\SectionHeader.cs" />
+    <Compile Include="Views\CustomDialogViewController.cs" />
+    <Compile Include="Views\CustomRootElement.cs" />
+    <Compile Include="Views\CustomDocumentInteractionDelegate.cs" />
+    <Compile Include="Views\CustomVideoPlayer.cs" />
+    <Compile Include="Views\CustomElementVideo.cs" />
+    <Compile Include="Views\CustomElementPhone.cs" />
+    <Compile Include="Views\CustomElementDocument.cs" />
+    <Compile Include="Views\CustomElementEmail.cs" />
+    <Compile Include="Views\CustomCellElement.cs" />
+    <Compile Include="Views\CustomCellRootElement.cs" />
+    <Compile Include="Views\CustomCell.cs" />
+    <Compile Include="CustomClasses\ElementType.cs" />
+    <Compile Include="Views\SectionCredits.cs" />
+    <Compile Include="CustomClasses\RackSpaceCDN.cs" />
+    <Compile Include="Views\CustomSectionCredits.cs" />
+    <Compile Include="Views\CustomElementWebView.cs" />
+    <Compile Include="Views\CustomWebView.cs" />
+    <Compile Include="Views\CustomElementPicture.cs" />
+    <Compile Include="Views\CustomPicture.cs" />
+    <Compile Include="CustomClasses\Favorites.cs" />
+    <Compile Include="Views\MyFilesCustomDialogViewController.cs" />
+    <Compile Include="Views\AppFilesCustomDialogViewController.cs" />
+    <Compile Include="Views\MyFavoritesListsCustomDialogViewController.cs" />
+    <Compile Include="Views\MyFavoriteListCustomDialogViewController.cs" />
+    <Compile Include="CustomClasses\VICSShipClasses.cs" />
+    <Compile Include="Views\CustomElementContact.cs" />
+    <Compile Include="Views\CustomElementDistrict.cs" />
+    <Compile Include="Views\CustomElementData.cs" />
+    <Compile Include="CustomClasses\Reachability.cs" />
+    <Compile Include="CustomClasses\CustomUIDocumentInteractionController.cs" />
+    <Compile Include="CustomClasses\DownloadFileMgr.cs" />
+    <Compile Include="Views\CustomTextContentView.cs" />
+    <Compile Include="Views\CustomElementTextContentView.cs" />
+    <Compile Include="Views\CustomElementProvider.cs" />
+    <Compile Include="CountryConfig.cs" />
+    <Compile Include="Views\CustomElementDocumentWebView.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Icon-72.png" />
+    <BundleResource Include="Resources\Icon%402x.png" />
+    <BundleResource Include="Resources\Icon-Small%402x.png" />
+    <BundleResource Include="Resources\Icon.png" />
+    <BundleResource Include="Resources\Icon-Small.png" />
+    <BundleResource Include="Resources\Default.png" />
+    <BundleResource Include="Images\ahs_background_ipad_h.jpg" />
+    <BundleResource Include="Images\ahs_background_ipad_v.jpg" />
+    <BundleResource Include="Images\ahs_background_iphone_h.jpg" />
+    <BundleResource Include="Images\ahs_background_iphone_v.jpg" />
+    <BundleResource Include="SalesContent.json" />
+    <BundleResource Include="Images\Favorite.png" />
+    <BundleResource Include="Resources\Default%402x.png" />
+    <BundleResource Include="Resources\Icon-72%402x.png" />
+    <BundleResource Include="Resources\Icon-Small-50%402x.png" />
+    <BundleResource Include="Resources\Icon-Small-50.png" />
+    <BundleResource Include="Resources\Default-Landscape.png" />
+    <BundleResource Include="Resources\Default-Landscape%402x.png" />
+    <BundleResource Include="Resources\Default-Portrait.png" />
+    <BundleResource Include="Resources\Default-Portrait%402x.png" />
+    <BundleResource Include="Resources\Default-568h%402x.png" />
+    <BundleResource Include="Images\ahs_background_iphone4in_v.jpg" />
+    <BundleResource Include="Images\ahs_background_iphone4in_h.jpg" />
+    <BundleResource Include="Images\AHSThumbnail.png" />
+    <BundleResource Include="Images\file.m4v" />
+    <BundleResource Include="Images\Favorited.png" />
+    <BundleResource Include="Images\Email.png" />
+    <BundleResource Include="Images\Pdf.png" />
+    <BundleResource Include="Images\Phone.png" />
+    <BundleResource Include="Images\Video.png" />
+    <BundleResource Include="Images\Aidkit.png" />
+    <BundleResource Include="Images\Search.png" />
+    <BundleResource Include="Images\Notepad.png" />
+    <BundleResource Include="Images\Myfiles.png" />
+    <BundleResource Include="Images\Book.png" />
+    <BundleResource Include="Images\Mic.png" />
+    <BundleResource Include="Images\Download.png" />
+    <BundleResource Include="Images\XLS.png" />
+    <BundleResource Include="Images\PPT.png" />
+    <BundleResource Include="Images\DOC.png" />
+    <BundleResource Include="Images\Youtube.png" />
+    <BundleResource Include="Images\KEY.png" />
+    <BundleResource Include="Images\Pages.png" />
+    <BundleResource Include="Images\Numbers.png" />
+    <BundleResource Include="Images\Selected.png" />
+    <BundleResource Include="Images\SelectedDelete.png" />
+    <BundleResource Include="Images\Select.png" />
+    <BundleResource Include="Images\ImgLoading.png" />
+    <BundleResource Include="csr_list.csv" />
+    <BundleResource Include="ship_pending.csv" />
+    <BundleResource Include="Images\Image.png" />
+    <BundleResource Include="Images\FlagGreen.png" />
+    <BundleResource Include="Images\FlagYellow.png" />
+    <BundleResource Include="Images\FlagRed.png" />
+    <BundleResource Include="Images\Contact.png" />
+    <BundleResource Include="Images\Team.png" />
+    <BundleResource Include="Images\GraftJacket.png" />
+    <BundleResource Include="Images\Background.png" />
+    <BundleResource Include="Images\ImgLoadingProgress.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ITunesArtwork Include="iTunesArtwork" />
+    <ITunesArtwork Include="iTunesArtwork%402x" />
+  </ItemGroup>
+  <ItemGroup>
+    <XamarinComponentReference Include="calabash">
+      <Version>16.2</Version>
+      <Visible>False</Visible>
+    </XamarinComponentReference>
+    <XamarinComponentReference Include="mbprogresshud">
+      <Version>0.9.1.0</Version>
+      <Visible>False</Visible>
+    </XamarinComponentReference>
+    <XamarinComponentReference Include="json.net">
+      <Version>7.0.1</Version>
+      <Visible>False</Visible>
+    </XamarinComponentReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
+  <Import Project="..\packages\Xamarin.Insights.1.12.3\build\Xamarin.iOS10\Xamarin.Insights.targets" Condition="Exists('..\packages\Xamarin.Insights.1.12.3\build\Xamarin.iOS10\Xamarin.Insights.targets')" />
+</Project>

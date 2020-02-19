@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">iPhoneSimulator</Platform>
+    <ProjectGuid>{9D516E5B-86E3-48D9-A061-CDB7B3E1E361}</ProjectGuid>
+    <ProjectTypeGuids>{FEACFBD2-3405-455C-9665-78FE426C6842};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>KCISalesAppUSA</RootNamespace>
+    <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
+    <AssemblyName>KCISalesAppUSA</AssemblyName>
+    <ReleaseVersion>4.5</ReleaseVersion>
+    <TargetFrameworkIdentifier>Xamarin.iOS</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v1.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhoneSimulator' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\iPhoneSimulator\Debug</OutputPath>
+    <DefineConstants>DEBUG;__MOBILE__;__IOS__;USA;DEV;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <MtouchLink>None</MtouchLink>
+    <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
+    <MtouchDebug>true</MtouchDebug>
+    <CodesignKey>iPhone Developer</CodesignKey>
+    <MtouchI18n>
+    </MtouchI18n>
+    <MtouchArch>i386, x86_64</MtouchArch>
+    <MtouchTlsProvider>Legacy</MtouchTlsProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhoneSimulator' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin\iPhoneSimulator\Release</OutputPath>
+    <DefineConstants>__MOBILE__;__IOS__;USA;PROD;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <MtouchLink>None</MtouchLink>
+    <ConsolePause>false</ConsolePause>
+    <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
+    <MtouchI18n>
+    </MtouchI18n>
+    <MtouchArch>i386, x86_64</MtouchArch>
+    <MtouchTlsProvider>Legacy</MtouchTlsProvider>
+    <CodesignKey>iPhone Developer</CodesignKey>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhone' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\iPhone\Debug</OutputPath>
+    <DefineConstants>DEBUG;__MOBILE__;__IOS__;USA;DEV;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <MtouchDebug>true</MtouchDebug>
+    <CodesignKey>iPhone Developer</CodesignKey>
+    <MtouchI18n>
+    </MtouchI18n>
+    <MtouchArch>ARMv7s, ARM64</MtouchArch>
+    <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
+    <CodesignProvision>dedd0150-b8b6-4745-99ec-3dff47d5144e</CodesignProvision>
+    <MtouchTlsProvider>Legacy</MtouchTlsProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhone' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin\iPhone\Release</OutputPath>
+    <DefineConstants>__MOBILE__;__IOS__;USA;PROD;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <CodesignKey>iPhone Distribution: Kinetic Concepts</CodesignKey>
+    <MtouchI18n>
+    </MtouchI18n>
+    <MtouchArch>ARMv7s, ARM64</MtouchArch>
+    <CodesignProvision>Automatic:InHouse</CodesignProvision>
+    <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
+    <MtouchUseLlvm>true</MtouchUseLlvm>
+    <MtouchUseThumb>true</MtouchUseThumb>
+    <MtouchTlsProvider>Legacy</MtouchTlsProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Ad-Hoc|iPhone' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin\iPhone\Ad-Hoc</OutputPath>
+    <DefineConstants>__MOBILE__;__IOS__;USA;DEV;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
+    <BuildIpa>true</BuildIpa>
+    <CodesignProvision>Automatic:InHouse</CodesignProvision>
+    <CodesignKey>iPhone Distribution</CodesignKey>
+    <MtouchUseLlvm>true</MtouchUseLlvm>
+    <MtouchUseThumb>true</MtouchUseThumb>
+    <MtouchI18n>
+    </MtouchI18n>
+    <MtouchArch>ARMv7s, ARM64</MtouchArch>
+    <MtouchTlsProvider>Legacy</MtouchTlsProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'AppStore|iPhone' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin\iPhone\AppStore</OutputPath>
+    <DefineConstants>__MOBILE__;__IOS__;USA;PROD;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
+    <CodesignProvision>Automatic:AppStore</CodesignProvision>
+    <CodesignKey>iPhone Distribution</CodesignKey>
+    <MtouchArch>ARMv7s, ARM64</MtouchArch>
+    <MtouchI18n>
+    </MtouchI18n>
+    <MtouchTlsProvider>Legacy</MtouchTlsProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'DebugDEV|iPhoneSimulator' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\iPhone\Debug</OutputPath>
+    <DefineConstants>DEBUG;__MOBILE__;__IOS__;USA;DEV;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <MtouchArch>i386, x86_64</MtouchArch>
+    <MtouchI18n>
+    </MtouchI18n>
+    <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
+    <CodesignKey>iPhone Developer</CodesignKey>
+    <CodesignProvision>dedd0150-b8b6-4745-99ec-3dff47d5144e</CodesignProvision>
+    <MtouchDebug>true</MtouchDebug>
+    <MtouchTlsProvider>Legacy</MtouchTlsProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'DebugDEV|iPhone' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\iPhone\Debug</OutputPath>
+    <DefineConstants>DEBUG;__MOBILE__;__IOS__;USA;DEV;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <MtouchArch>ARMv7s, ARM64</MtouchArch>
+    <MtouchI18n>
+    </MtouchI18n>
+    <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
+    <CodesignKey>iPhone Developer</CodesignKey>
+    <CodesignProvision>dedd0150-b8b6-4745-99ec-3dff47d5144e</CodesignProvision>
+    <MtouchDebug>true</MtouchDebug>
+    <MtouchProfiling>true</MtouchProfiling>
+    <MtouchTlsProvider>Legacy</MtouchTlsProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'DebugPROD|iPhoneSimulator' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\iPhone\Debug</OutputPath>
+    <DefineConstants>DEBUG;__MOBILE__;__IOS__;USA;PROD;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <MtouchArch>i386, x86_64</MtouchArch>
+    <MtouchI18n>
+    </MtouchI18n>
+    <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
+    <CodesignKey>iPhone Developer</CodesignKey>
+    <CodesignProvision>dedd0150-b8b6-4745-99ec-3dff47d5144e</CodesignProvision>
+    <MtouchDebug>true</MtouchDebug>
+    <MtouchTlsProvider>Legacy</MtouchTlsProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'DebugPROD|iPhone' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\iPhone\Debug</OutputPath>
+    <DefineConstants>DEBUG;__MOBILE__;__IOS__;USA;PROD;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <MtouchArch>ARMv7s, ARM64</MtouchArch>
+    <MtouchI18n>
+    </MtouchI18n>
+    <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
+    <CodesignKey>iPhone Developer</CodesignKey>
+    <CodesignProvision>dedd0150-b8b6-4745-99ec-3dff47d5144e</CodesignProvision>
+    <MtouchDebug>true</MtouchDebug>
+    <MtouchTlsProvider>Legacy</MtouchTlsProvider>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="MonoTouch.Dialog-1" />
+    <Reference Include="Xamarin.iOS" />
+    <Reference Include="Xamarin.Insights">
+      <HintPath>..\packages\Xamarin.Insights.1.11.1\lib\Xamarin.iOS10\Xamarin.Insights.dll</HintPath>
+    </Reference>
+    <Reference Include="PLCrashReporterUnifiedBinding">
+      <HintPath>..\packages\Xamarin.Insights.1.11.1\lib\Xamarin.iOS10\PLCrashReporterUnifiedBinding.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.7.0.1\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="MBProgressHUD">
+      <HintPath>..\Components\mbprogresshud-0.9.1.0\lib\ios-unified\MBProgressHUD.dll</HintPath>
+    </Reference>
+    <Reference Include="Calabash">
+      <HintPath>..\packages\Xamarin.TestCloud.Agent.0.16.2\lib\Xamarin.iOS10\Calabash.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="..\KCISalesApp\Images\AHSThumbnail.png">
+      <Link>Images\AHSThumbnail.png</Link>
+    </BundleResource>
+    <BundleResource Include="..\KCISalesApp\Images\Aidkit.png">
+      <Link>Images\Aidkit.png</Link>
+    </BundleResource>
+    <BundleResource Include="..\KCISalesApp\Images\Book.png">
+      <Link>Images\Book.png</Link>
+    </BundleResource>
+    <BundleResource Include="..\KCISalesApp\Images\Contact.png">
+      <Link>Images\Contact.png</Link>
+    </BundleResource>
+    <BundleResource Include="..\KCISalesApp\Images\DOC.png">
+      <Link>Images\DOC.png</Link>
+    </BundleResource>
+    <BundleResource Include="..\KCISalesApp\Images\Download.png">
+      <Link>Images\Download.png</Link>
+    </BundleResource>
+    <BundleResource Include="..\KCISalesApp\Images\Email.png">
+      <Link>Images\Email.png</Link>
+    </BundleResource>
+    <BundleResource Include="..\KCISalesApp\Images\Favorite.png">
+      <Link>Images\Favorite.png</Link>
+    </BundleResource>
+    <BundleResource Include="..\KCISalesApp\Images\Favorited.png">
+      <Link>Images\Favorited.png</Link>
+    </BundleResource>
+    <BundleResource Include="..\KCISalesApp\Images\FlagGreen.png">
+      <Link>Images\FlagGreen.png</Link>
+    </BundleResource>
+    <BundleResource Include="..\KCISalesApp\Images\FlagRed.png">
+      <Link>Images\FlagRed.png</Link>
+    </BundleResource>
+    <BundleResource Include="..\KCISalesApp\Images\FlagYellow.png">
+      <Link>Images\FlagYellow.png</Link>
+    </BundleResource>
+    <BundleResource Include="..\KCISalesApp\Images\GraftJacket.png">
+      <Link>Images\GraftJacket.png</Link>
+    </BundleResource>
+    <BundleResource Include="..\KCISalesApp\Images\Image.png">
+      <Link>Images\Image.png</Link>
+    </BundleResource>
+    <BundleResource Include="..\KCISalesApp\Images\ImgLoading.png">
+      <Link>Images\ImgLoading.png</Link>
+    </BundleResource>
+    <BundleResource Include="..\KCISalesApp\Images\KEY.png">
+      <Link>Images\KEY.png</Link>
+    </BundleResource>
+    <BundleResource Include="..\KCISalesApp\Images\Mic.png">
+      <Link>Images\Mic.png</Link>
+    </BundleResource>
+    <BundleResource Include="..\KCISalesApp\Images\Myfiles.png">
+      <Link>Images\Myfiles.png</Link>
+    </BundleResource>
+    <BundleResource Include="..\KCISalesApp\Images\Notepad.png">
+      <Link>Images\Notepad.png</Link>
+    </BundleResource>
+    <BundleResource Include="..\KCISalesApp\Images\Numbers.png">
+      <Link>Images\Numbers.png</Link>
+    </BundleResource>
+    <BundleResource Include="..\KCISalesApp\Images\PPT.png">
+      <Link>Images\PPT.png</Link>
+    </BundleResource>
+    <BundleResource Include="..\KCISalesApp\Images\Pages.png">
+      <Link>Images\Pages.png</Link>
+    </BundleResource>
+    <BundleResource Include="..\KCISalesApp\Images\Pdf.png">
+      <Link>Images\Pdf.png</Link>
+    </BundleResource>
+    <BundleResource Include="..\KCISalesApp\Images\Phone.png">
+      <Link>Images\Phone.png</Link>
+    </BundleResource>
+    <BundleResource Include="..\KCISalesApp\Images\Search.png">
+      <Link>Images\Search.png</Link>
+    </BundleResource>
+    <BundleResource Include="..\KCISalesApp\Images\Select.png">
+      <Link>Images\Select.png</Link>
+    </BundleResource>
+    <BundleResource Include="..\KCISalesApp\Images\Selected.png">
+      <Link>Images\Selected.png</Link>
+    </BundleResource>
+    <BundleResource Include="..\KCISalesApp\Images\SelectedDelete.png">
+      <Link>Images\SelectedDelete.png</Link>
+    </BundleResource>
+    <BundleResource Include="..\KCISalesApp\Images\Team.png">
+      <Link>Images\Team.png</Link>
+    </BundleResource>
+    <BundleResource Include="..\KCISalesApp\Images\Video.png">
+      <Link>Images\Video.png</Link>
+    </BundleResource>
+    <BundleResource Include="..\KCISalesApp\Images\XLS.png">
+      <Link>Images\XLS.png</Link>
+    </BundleResource>
+    <BundleResource Include="..\KCISalesApp\Images\Youtube.png">
+      <Link>Images\Youtube.png</Link>
+    </BundleResource>
+    <BundleResource Include="..\KCISalesApp\Images\ahs_background_ipad_h.jpg">
+      <Link>Images\ahs_background_ipad_h.jpg</Link>
+    </BundleResource>
+    <BundleResource Include="..\KCISalesApp\Images\ahs_background_ipad_v.jpg">
+      <Link>Images\ahs_background_ipad_v.jpg</Link>
+    </BundleResource>
+    <BundleResource Include="..\KCISalesApp\Images\ahs_background_iphone4in_h.jpg">
+      <Link>Images\ahs_background_iphone4in_h.jpg</Link>
+    </BundleResource>
+    <BundleResource Include="..\KCISalesApp\Images\ahs_background_iphone4in_v.jpg">
+      <Link>Images\ahs_background_iphone4in_v.jpg</Link>
+    </BundleResource>
+    <BundleResource Include="..\KCISalesApp\Images\ahs_background_iphone_h.jpg">
+      <Link>Images\ahs_background_iphone_h.jpg</Link>
+    </BundleResource>
+    <BundleResource Include="..\KCISalesApp\Images\ahs_background_iphone_v.jpg">
+      <Link>Images\ahs_background_iphone_v.jpg</Link>
+    </BundleResource>
+    <BundleResource Include="Info.plist" />
+    <BundleResource Include="SalesContent.json" />
+    <BundleResource Include="..\KCISalesApp\Images\Background.png">
+      <Link>Images\Background.png</Link>
+    </BundleResource>
+    <BundleResource Include="SalesContentDEV.json" />
+    <BundleResource Include="..\KCISalesApp\Images\ImgLoadingProgress.png">
+      <Link>Images\ImgLoadingProgress.png</Link>
+    </BundleResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\KCISalesApp\Images\file.m4v">
+      <Link>Images\file.m4v</Link>
+    </None>
+    <None Include="csr_list.csv" />
+    <None Include="csr_list.csv_CDN" />
+    <None Include="gj_coverage.csv" />
+    <None Include="gj_coverage.csv_CDN" />
+    <None Include="SalesContent.json_CDN" />
+    <None Include="ship_pending.csv" />
+    <None Include="ship_pending.csv_CDN" />
+    <None Include="Entitlements.plist" />
+    <None Include="SalesContentDEV.json_CDN" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
+  <Import Project="..\packages\Xamarin.Insights.1.11.1\build\Xamarin.iOS10\Xamarin.Insights.targets" Condition="Exists('..\packages\Xamarin.Insights.1.11.1\build\Xamarin.iOS10\Xamarin.Insights.targets')" />
+  <ItemGroup>
+    <Folder Include="CustomClasses\" />
+    <Folder Include="Images\" />
+    <Folder Include="Views\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\KCISalesApp\CustomClasses\CustomUIDocumentInteractionController.cs">
+      <Link>CustomClasses\CustomUIDocumentInteractionController.cs</Link>
+    </Compile>
+    <Compile Include="..\KCISalesApp\CustomClasses\DownloadFileMgr.cs">
+      <Link>CustomClasses\DownloadFileMgr.cs</Link>
+    </Compile>
+    <Compile Include="..\KCISalesApp\CustomClasses\ElementType.cs">
+      <Link>CustomClasses\ElementType.cs</Link>
+    </Compile>
+    <Compile Include="..\KCISalesApp\CustomClasses\Favorites.cs">
+      <Link>CustomClasses\Favorites.cs</Link>
+    </Compile>
+    <Compile Include="..\KCISalesApp\CustomClasses\RackSpaceCDN.cs">
+      <Link>CustomClasses\RackSpaceCDN.cs</Link>
+    </Compile>
+    <Compile Include="..\KCISalesApp\CustomClasses\Reachability.cs">
+      <Link>CustomClasses\Reachability.cs</Link>
+    </Compile>
+    <Compile Include="..\KCISalesApp\CustomClasses\VICSShipClasses.cs">
+      <Link>CustomClasses\VICSShipClasses.cs</Link>
+    </Compile>
+    <Compile Include="..\KCISalesApp\Views\AppFilesCustomDialogViewController.cs">
+      <Link>Views\AppFilesCustomDialogViewController.cs</Link>
+    </Compile>
+    <Compile Include="..\KCISalesApp\Views\CustomCell.cs">
+      <Link>Views\CustomCell.cs</Link>
+    </Compile>
+    <Compile Include="..\KCISalesApp\Views\CustomCellElement.cs">
+      <Link>Views\CustomCellElement.cs</Link>
+    </Compile>
+    <Compile Include="..\KCISalesApp\Views\CustomCellRootElement.cs">
+      <Link>Views\CustomCellRootElement.cs</Link>
+    </Compile>
+    <Compile Include="..\KCISalesApp\Views\CustomDialogViewController.cs">
+      <Link>Views\CustomDialogViewController.cs</Link>
+    </Compile>
+    <Compile Include="..\KCISalesApp\Views\CustomDocumentInteractionDelegate.cs">
+      <Link>Views\CustomDocumentInteractionDelegate.cs</Link>
+    </Compile>
+    <Compile Include="..\KCISalesApp\Views\CustomElementContact.cs">
+      <Link>Views\CustomElementContact.cs</Link>
+    </Compile>
+    <Compile Include="..\KCISalesApp\Views\CustomElementData.cs">
+      <Link>Views\CustomElementData.cs</Link>
+    </Compile>
+    <Compile Include="..\KCISalesApp\Views\CustomElementDistrict.cs">
+      <Link>Views\CustomElementDistrict.cs</Link>
+    </Compile>
+    <Compile Include="..\KCISalesApp\Views\CustomElementDocument.cs">
+      <Link>Views\CustomElementDocument.cs</Link>
+    </Compile>
+    <Compile Include="..\KCISalesApp\Views\CustomElementEmail.cs">
+      <Link>Views\CustomElementEmail.cs</Link>
+    </Compile>
+    <Compile Include="..\KCISalesApp\Views\CustomElementPhone.cs">
+      <Link>Views\CustomElementPhone.cs</Link>
+    </Compile>
+    <Compile Include="..\KCISalesApp\Views\CustomElementPicture.cs">
+      <Link>Views\CustomElementPicture.cs</Link>
+    </Compile>
+    <Compile Include="..\KCISalesApp\Views\CustomElementProvider.cs">
+      <Link>Views\CustomElementProvider.cs</Link>
+    </Compile>
+    <Compile Include="..\KCISalesApp\Views\CustomElementTextContentView.cs">
+      <Link>Views\CustomElementTextContentView.cs</Link>
+    </Compile>
+    <Compile Include="..\KCISalesApp\Views\CustomElementVideo.cs">
+      <Link>Views\CustomElementVideo.cs</Link>
+    </Compile>
+    <Compile Include="..\KCISalesApp\Views\CustomElementWebView.cs">
+      <Link>Views\CustomElementWebView.cs</Link>
+    </Compile>
+    <Compile Include="..\KCISalesApp\Views\CustomPicture.cs">
+      <Link>Views\CustomPicture.cs</Link>
+    </Compile>
+    <Compile Include="..\KCISalesApp\Views\CustomRootElement.cs">
+      <Link>Views\CustomRootElement.cs</Link>
+    </Compile>
+    <Compile Include="..\KCISalesApp\Views\CustomSectionCredits.cs">
+      <Link>Views\CustomSectionCredits.cs</Link>
+    </Compile>
+    <Compile Include="..\KCISalesApp\Views\CustomTextContentView.cs">
+      <Link>Views\CustomTextContentView.cs</Link>
+    </Compile>
+    <Compile Include="..\KCISalesApp\Views\CustomVideoPlayer.cs">
+      <Link>Views\CustomVideoPlayer.cs</Link>
+    </Compile>
+    <Compile Include="..\KCISalesApp\Views\CustomWebView.cs">
+      <Link>Views\CustomWebView.cs</Link>
+    </Compile>
+    <Compile Include="..\KCISalesApp\Views\MyFavoriteListCustomDialogViewController.cs">
+      <Link>Views\MyFavoriteListCustomDialogViewController.cs</Link>
+    </Compile>
+    <Compile Include="..\KCISalesApp\Views\MyFavoritesListsCustomDialogViewController.cs">
+      <Link>Views\MyFavoritesListsCustomDialogViewController.cs</Link>
+    </Compile>
+    <Compile Include="..\KCISalesApp\Views\MyFilesCustomDialogViewController.cs">
+      <Link>Views\MyFilesCustomDialogViewController.cs</Link>
+    </Compile>
+    <Compile Include="..\KCISalesApp\Views\SectionCredits.cs">
+      <Link>Views\SectionCredits.cs</Link>
+    </Compile>
+    <Compile Include="..\KCISalesApp\Views\SectionHeader.cs">
+      <Link>Views\SectionHeader.cs</Link>
+    </Compile>
+    <Compile Include="..\KCISalesApp\AppDelegate.cs">
+      <Link>AppDelegate.cs</Link>
+    </Compile>
+    <Compile Include="..\KCISalesApp\Main.cs">
+      <Link>Main.cs</Link>
+    </Compile>
+    <Compile Include="CountryConfig.cs" />
+    <Compile Include="..\KCISalesApp\Views\CustomElementDocumentWebView.cs">
+      <Link>Views\CustomElementDocumentWebView.cs</Link>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ITunesArtwork Include="iTunesArtwork" />
+    <ITunesArtwork Include="iTunesArtwork%402x" />
+  </ItemGroup>
+  <ItemGroup>
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Contents.json" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon%402x.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon-72.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon-72%402x.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon-Small.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon-Small%402x.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon-Small-50.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon-Small-50%402x.png" />
+    <ImageAsset Include="Resources\Images.xcassets\LaunchImage.launchimage\Contents.json" />
+    <ImageAsset Include="Resources\Images.xcassets\LaunchImage.launchimage\Default.png" />
+    <ImageAsset Include="Resources\Images.xcassets\LaunchImage.launchimage\Default%402x.png" />
+    <ImageAsset Include="Resources\Images.xcassets\LaunchImage.launchimage\Default-568h%402x.png" />
+    <ImageAsset Include="Resources\Images.xcassets\LaunchImage.launchimage\Default-Portrait.png" />
+    <ImageAsset Include="Resources\Images.xcassets\LaunchImage.launchimage\Default-Landscape.png" />
+    <ImageAsset Include="Resources\Images.xcassets\LaunchImage.launchimage\Default-Portrait%402x.png" />
+    <ImageAsset Include="Resources\Images.xcassets\LaunchImage.launchimage\Default-Landscape%402x.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon40.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon76.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon80-1.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon80.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon87.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon120-1.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon120-2.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon120.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon152.png" />
+    <ImageAsset Include="Resources\Images.xcassets\AppIcons.appiconset\Icon180.png" />
+    <ImageAsset Include="Resources\Images.xcassets\LaunchImage.launchimage\Portrait-640-960.png" />
+    <ImageAsset Include="Resources\Images.xcassets\LaunchImage.launchimage\Portrait-640-1136.png" />
+    <ImageAsset Include="Resources\Images.xcassets\LaunchImage.launchimage\Portrait-1242.png" />
+    <ImageAsset Include="Resources\Images.xcassets\LaunchImage.launchimage\Portrait-750.png" />
+    <ImageAsset Include="Resources\Images.xcassets\LaunchImage.launchimage\Portrait-768-1.png" />
+    <ImageAsset Include="Resources\Images.xcassets\LaunchImage.launchimage\Portrait-768.png" />
+    <ImageAsset Include="Resources\Images.xcassets\LaunchImage.launchimage\Portrait-1536-1.png" />
+    <ImageAsset Include="Resources\Images.xcassets\LaunchImage.launchimage\Portrait-1536.png" />
+    <ImageAsset Include="Resources\Images.xcassets\LaunchImage.launchimage\Landscape-1024-1.png" />
+    <ImageAsset Include="Resources\Images.xcassets\LaunchImage.launchimage\Landscape-1024.png" />
+    <ImageAsset Include="Resources\Images.xcassets\LaunchImage.launchimage\Landscape-2048-1.png" />
+    <ImageAsset Include="Resources\Images.xcassets\LaunchImage.launchimage\Landscape-2048.png" />
+    <ImageAsset Include="Resources\Images.xcassets\LaunchImage.launchimage\Landscape-2208.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <XamarinComponentReference Include="json.net">
+      <Version>7.0.1</Version>
+      <Visible>False</Visible>
+    </XamarinComponentReference>
+    <XamarinComponentReference Include="mbprogresshud">
+      <Version>0.9.1.0</Version>
+      <Visible>False</Visible>
+    </XamarinComponentReference>
+    <XamarinComponentReference Include="calabash">
+      <Version>16.2</Version>
+      <Visible>False</Visible>
+    </XamarinComponentReference>
+  </ItemGroup>
+</Project>

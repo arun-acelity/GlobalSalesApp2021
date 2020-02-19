@@ -1,0 +1,293 @@
+{
+	"title" : "KCI Sales",
+	"sections" : [
+		{
+			"type" : "SectionHeader",
+			"caption" : "Sales Collateral",
+			"elements" : [
+				{
+					"type" : "ElementRoot",
+					"title" : "KCI Sales Collateral",
+					"subtitle" : "Brochures, PDFs, & Videos",
+					"image" : "AHSThumbnail.png",
+					"sections" : [
+						{
+							"type" : "SectionHeader",
+							"caption" : "Brochures & PDFs",
+							"elements" : [
+								{
+									"type" : "ElementRoot",
+									"title" : "KCI Sales Collateral",
+									"image" : "AHSThumbnail.png",
+									"sections" : [
+										{
+											"type" : "SectionHeader",
+											"caption" : "ABThera & ABTAC",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "ABTAC Brochure",
+													"subtitle" : "",
+													"documentfilename" : "ABTACBrochure.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Abthera Case Series Brochure",
+													"subtitle" : "",
+													"documentfilename" : "ABTheraCaseSeriesBrochure.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Abthera Monograph",
+													"subtitle" : "",
+													"documentfilename" : "ABTheraMonograph.pdf"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "CelluTome",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "Cellutome Brochure",
+													"subtitle" : "",
+													"documentfilename" : "CellutomeBrochure.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Cellutome Case Study Booklet",
+													"subtitle" : "",
+													"documentfilename" : "CelluTomeCaseStudyBooklet.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Cellutome Graft Application Guideline",
+													"subtitle" : "",
+													"documentfilename" : "CelluTomeGraftApplicationGuideline.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Cellutome Procedure Guide",
+													"subtitle" : "",
+													"documentfilename" : "CelluTomeProcedureGuide.pdf"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "V.A.C.",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "ActiVAC Brochure",
+													"subtitle" : "",
+													"documentfilename" : "ActiVACBrochure.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC Benefits Overview Brochure",
+													"subtitle" : "",
+													"documentfilename" : "VACBenefitsOverviewBrochure.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC Dressing Application Guide",
+													"subtitle" : "",
+													"documentfilename" : "VACDressingApplicationGuide.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC Patient Education Guide",
+													"subtitle" : "",
+													"documentfilename" : "VACPatientEducationGuide.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC Therapy Technology Overview Brochure",
+													"subtitle" : "",
+													"documentfilename" : "VACTherapyTechnologyOverviewBrochure.pdf"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "V.A.C. Ulta",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC Ulta Brochure",
+													"subtitle" : "",
+													"documentfilename" : "VACUltaBrochure.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC Ulta Case Studies Brochure",
+													"subtitle" : "",
+													"documentfilename" : "VACUltaCaseStudiesBrochure.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC Ulta Monograph",
+													"subtitle" : "",
+													"documentfilename" : "VACUltaMonograph.pdf"
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type" : "SectionHeader",
+							"caption" : "Videos",
+							"elements" : [
+								{
+									"type" : "ElementRoot",
+									"title" : "Videos",
+									"image" : "Video.png",
+									"sections" : [
+										{
+											"type" : "SectionHeader",
+											"caption" : "Videos",
+											"elements" : [
+												{	
+													"type" : "ElementVideo", 
+													"title" : "ABThera Application Animation",
+													"image" : "Video.png",
+													"documentfilename" : "ABT_APP_VID.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo", 
+													"title" : "ABThera Ease of Use",
+													"image" : "Video.png",
+													"documentfilename" : "ABT_EASE_VID.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo", 
+													"title" : "ABThera MOA",
+													"image" : "Video.png",
+													"documentfilename" : "ABT_MOA_VID.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo", 
+													"title" : "ABThera OR Live Application",
+													"image" : "Video.png",
+													"documentfilename" : "ABT_ORLIVE_1MIN_VID.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo", 
+													"title" : "ABThera OR Live Full",
+													"image" : "Video.png",
+													"documentfilename" : "ABT_ORLIVE_VID.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo", 
+													"title" : "ABThera VPL Animation",
+													"image" : "Video.png",
+													"documentfilename" : "ABT_VPL_VID.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo", 
+													"title" : "ABThera Surgeon’s View",
+													"image" : "Video.png",
+													"documentfilename" : "ABTHERA_SHOW_SELL.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo", 
+													"title" : "CelluTome Live Application",
+													"image" : "Video.png",
+													"documentfilename" : "CelluTomeLiveApplicationVideo.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo", 
+													"title" : "VAC Dressing Application",
+													"image" : "Video.png",
+													"documentfilename" : "VACDressingApplicationVideo.mp4",
+													"other" : "nonemailable"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"type" : "SectionHeader",
+			"caption" : "My Favorites / My Files",
+			"elements" : [
+				{
+					"type" : "ElementRoot",
+					"title" : "My Favorites",
+					"subtitle" : "View Files from Favorites Lists",
+					"image" : "Favorited.png",
+					"sections" : [
+						{
+							"type" : "SectionHeader",
+							"caption" : "My Favorites Lists"
+						}
+					]
+				},
+				{
+					"type" : "ElementRoot",
+					"title" : "My Files",
+					"subtitle" : "View User Installed Files",
+					"image" : "Myfiles.png",
+					"sections" : [
+						{
+							"type" : "SectionHeader",
+							"caption" : "My Files"
+						}
+					]
+				},
+				{
+					"type" : "ElementRoot",
+					"title" : "App Files",
+					"subtitle" : "View App Files",
+					"image" : "Myfiles.png",
+					"sections" : [
+						{
+							"type" : "SectionHeader",
+							"caption" : "App Files"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type" : "SectionHeader",
+			"caption" : "Support / Documentation",
+			"elements" : [
+				{
+					"type" : "ElementPhone",
+					"title" : "KCI IT Service Desk",
+					"subtitle" : "+000-8000016361",
+					"other" : "0008000016361"
+				},
+				{
+					"type" : "ElementEmail",
+					"title" : "Submit Feedback",
+					"subtitle" : "Email Comments & Suggestions",
+					"documentfilename" : "sfdcus@kci1.com",
+					"other" : "KCI AHS Sales App Feedback"
+				},
+				{
+					"type" : "CreditsFooter",
+					"caption" : "2011 KCI Licensing, Inc. All rights reserved.\r All trademarks designated herein are\r property to KCI Licensing, Inc., its\r affiliates and/or licensors. 4/11."
+				}
+			]
+		}
+	]
+}

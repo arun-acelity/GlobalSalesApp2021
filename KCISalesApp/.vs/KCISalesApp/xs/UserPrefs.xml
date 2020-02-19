@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{9FBDB0A0-EA1F-4533-81CA-529E4EB23B91}|Default">
+  <MonoDevelop.Ide.ItemProperties.KCISalesAppChina automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="KCISalesApp/Views/CustomWebView.cs">
+    <Files>
+      <File FileName="KCISalesAppJapan/Info.plist" />
+      <File FileName="KCISalesApp/Views/CustomWebView.cs" Line="20" Column="13" />
+      <File FileName="KCISalesAppAustralia/Info.plist" />
+      <File FileName="KCISalesAppSingapore/Info.plist" />
+      <File FileName="KCISalesAppChina/Info.plist" />
+      <File FileName="KCISalesAppIndia/KCISalesAppIndia/Info.plist" />
+      <File FileName="KCISalesAppCanada/Info.plist" />
+      <File FileName="KCISalesApp/SalesContent.json" Line="1" Column="1" />
+      <File FileName="KCISalesAppJapan/SalesContent.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KCISalesApp" expanded="True">
+            <Node name="KCISalesApp" expanded="True">
+              <Node name="References" expanded="True">
+                <Node name="From Packages" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="KCISalesAppJapan" expanded="True">
+              <Node name="References" expanded="True">
+                <Node name="From Packages" expanded="True">
+                  <Node name="Xamarin.Insights" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Packages" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.KCISalesApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C0A7E5A7-55BA-4EFA-A7F4-29D3F9B6046C" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.KCISalesAppCanada automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.ItemProperties.KCISalesAppIndia automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.ItemProperties.KCISalesAppSingapore automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="AppStore|iPhone" />
+  <MonoDevelop.Ide.ItemProperties.KCISalesAppAustralia automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.ItemProperties.KCISalesAppJapan automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.KCISalesAppUSA PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+</Properties>

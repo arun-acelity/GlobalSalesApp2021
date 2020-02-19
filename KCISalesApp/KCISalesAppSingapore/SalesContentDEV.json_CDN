@@ -1,0 +1,476 @@
+{
+	"title" : "Acelity Sales",
+	"sections" : [
+		{
+			"type" : "SectionHeader",
+			"caption" : "Sales Collateral",
+			"elements" : [
+				{
+					"type" : "ElementRoot",
+					"title" : "Acelity Sales Collateral",
+					"subtitle" : "Brochures, PDFs, & Videos",
+					"image" : "AHSThumbnail.png",
+					"sections" : [
+						{
+							"type" : "SectionHeader",
+							"caption" : "Brochures & PDFs",
+							"elements" : [
+								{
+									"type" : "ElementRoot",
+									"title" : "KCI Sales Collateral",
+									"image" : "AHSThumbnail.png",
+									"sections" : [
+										{
+											"type" : "SectionHeader",
+											"caption" : "ABThera & ABTAC",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "Abthera SensaTrac",
+													"subtitle" : "",
+													"documentfilename" : "VAC_ABthera_SensaTrac.pdf"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "V.A.C. Therapy",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "V.A.C. Therapy Brochure",
+													"subtitle" : "Storyboard Brochure",
+													"documentfilename" : "VAC_Therapy_Storyboard_Brochure.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "V.A.C. Therapy Dressings",
+													"subtitle" : "Dressing Application Guide",
+													"documentfilename" : "VAC_Dressing_Application_Guide.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "V.A.C. Therapy Dressings",
+													"subtitle" : "Dressing Bridging",
+													"documentfilename" : "VAC_Dressing_Bridging.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "V.A.C. Therapy Dressings",
+													"subtitle" : "Dressing Mushroom",
+													"documentfilename" : "VAC_Dressing_Mushroom.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "V.A.C. Product Information Card",
+													"subtitle" : "Product Information Card",
+													"documentfilename" : "VAC_Product_Information_Card.pdf"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "ActiV.A.C.",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "ActiV.A.C. Brochure",
+													"subtitle" : "",
+													"documentfilename" : "ActiVAC_Brochure.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "ActiV.A.C. Troubleshooting Guide",
+													"subtitle" : "",
+													"documentfilename" : "ActiVAC_Trouble_Shooting_Guide.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "ActiV.A.C. Basic User Poster",
+													"subtitle" : "",
+													"documentfilename" : "ActiVAC_Basic_User_Poster.pdf"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "InfoV.A.C.",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "InfoV.A.C. Brochure",
+													"subtitle" : "",
+													"documentfilename" : "InfoVAC_Brochure.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "InfoV.A.C. Troubleshooting Guide",
+													"subtitle" : "",
+													"documentfilename" : "InfoVAC_Trouble_Shooting_Guide.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "InfoV.A.C. Basic User Poster",
+													"subtitle" : "",
+													"documentfilename" : "INFOVAC_Basic_User_Poster.pdf"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "Prevena",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "Prevena Evidence Brochure",
+													"subtitle" : "",
+													"documentfilename" : "Prevena_Evidence_Brochure.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Prevena Case Studies",
+													"subtitle" : "",
+													"documentfilename" : "Prevena_Case_Studies.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Prevena Peel-Place",
+													"subtitle" : "",
+													"documentfilename" : "Prevena_PeelPlace.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Prevena Customizable",
+													"subtitle" : "",
+													"documentfilename" : "Prevena_Customizable.pdf"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "CelluTome",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "Cellutome Procedure Chart",
+													"subtitle" : "",
+													"documentfilename" : "Cellutome_Procedure_Chart.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Cellutome Patient Tri-Fold",
+													"subtitle" : "",
+													"documentfilename" : "Cellutome_Patient_TriFold_Brochure.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Cellutome Detail Aid",
+													"subtitle" : "",
+													"documentfilename" : "CelluTome_Detail_Aid.pdf"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "Nanova",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "Nanova Patient Frequently Asked Questions",
+													"subtitle" : "",
+													"documentfilename" : "Nanova_Patient_FAQs.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Nanova Therapy System",
+													"subtitle" : "",
+													"documentfilename" : "Nanova_Brochure.pdf"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "V.A.C. Ulta",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "V.A.C.Ulta Brochure",
+													"subtitle" : "",
+													"documentfilename" : "VAC_Ulta_Brochure.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "V.A.C.VeraFlo Solutions",
+													"subtitle" : "",
+													"documentfilename" : "VAC_VeraFlo_Solutions.pdf"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type" : "ElementRoot",
+									"title" : "Systagenix Sales Collateral",
+									"image" : "AHSThumbnail.png",
+									"sections" : [
+										{
+											"type" : "SectionHeader",
+											"caption" : "Systagenix",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "Actisorb Plus 25",
+													"subtitle" : "5311 Actisorb Plus 25",
+													"documentfilename" : "5311_ACTISORB_PLUS_25_DA_SEA_AWNC.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Tielle Family",
+													"subtitle" : "5319 Tielle Family",
+													"documentfilename" : "5319_TIELLE_FAMILY_DA_SEA_AWNC.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Promogran & Promogran Prisma",
+													"subtitle" : "5314 Promogran P Prisma",
+													"documentfilename" : "5314_PROMOGRAN_P_PRISMA_LP_4pp_SEA_AWNC.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Inadine",
+													"subtitle" : "5315 Inadine",
+													"documentfilename" : "5315_INADINE_DA_SEA_AWNC.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Adaptic",
+													"subtitle" : "5316 Adaptic",
+													"documentfilename" : "5316_ADAPTIC_DA_SEA_AW_NC.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Adaptic Touch",
+													"subtitle" : "5317 Adaptic Touch",
+													"documentfilename" : "5317_ADAPTIC_TOUCH_DA_SEA_AW_NC.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Nu-Derm Hydrocolloid",
+													"subtitle" : "5318 Nu-Derm Hydrocolloid",
+													"documentfilename" : "5318_NU_DERM_Hydrocolloid_LP_SEA_AW_NC.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Tielle Plus",
+													"subtitle" : "5312 Tielle Plus",
+													"documentfilename" : "5312_TIELLE_PLUS_LP_SEA_AWNC.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Tielle Xtra",
+													"subtitle" : "5313 Tielle Xtra",
+													"documentfilename" : "5313_TIELLE_XTRA_LP_SEA_AWNC.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Silvercel Non-Adherent",
+													"subtitle" : "5320 Silvercel NA",
+													"documentfilename" : "5320_SILVERCEL_NA_DA_SEA_AW_NC.pdf"
+												}
+											]
+										},
+									]
+								},
+								{
+									"type" : "ElementRoot",
+									"title" : "KCI & Systagenix Sales Collateral",
+									"image" : "AHSThumbnail.png",
+									"sections" : [
+										{
+											"type" : "SectionHeader",
+											"caption" : "Acelity",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "DFU Brochure",
+													"subtitle" : "",
+													"documentfilename" : "DFU_Brochure.pdf"
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type" : "SectionHeader",
+							"caption" : "Videos",
+							"elements" : [
+								{
+									"type" : "ElementRoot",
+									"title" : "Videos",
+									"image" : "Video.png",
+									"sections" : [
+										{
+											"type" : "SectionHeader",
+											"caption" : "Videos",
+											"elements" : [
+												{	
+													"type" : "ElementVideo", 
+													"title" : "NPT System | SensaTRAC",
+													"image" : "Video.png",
+													"documentfilename" : "SensaTRAC.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo", 
+													"title" : "NPT System | Nanova",
+													"image" : "Video.png",
+													"documentfilename" : "Nanova.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo", 
+													"title" : "NPT System | Prevena Peel & Place Application",
+													"image" : "Video.png",
+													"documentfilename" : "Prevena_PeelPlace_Application.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo", 
+													"title" : "NPT System | Prevena vs PICO",
+													"image" : "Video.png",
+													"documentfilename" : "Prevena_VS_PICO.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo", 
+													"title" : "NPT System | ABThera Mechanism of Action",
+													"image" : "Video.png",
+													"documentfilename" : "NPTSystemABTheraMechanismOfAction.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo", 
+													"title" : "Prevena Animation Video - Mechanism of Action",
+													"image" : "Video.png",
+													"documentfilename" : "PrevenaAnimationVideoMechanismOfAction.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo", 
+													"title" : "Surgeon Overview: Prevena™ Therapy",
+													"image" : "Video.png",
+													"documentfilename" : "SurgeonOverviewPrevenaTherapy.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo", 
+													"title" : "V.A.C. Therapy Mechanisms of Action",
+													"image" : "Video.png",
+													"documentfilename" : "VACTherapyMechanismsOfAction.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo", 
+													"title" : "CelluTome Application",
+													"image" : "Video.png",
+													"documentfilename" : "CelluTomeApplication.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo", 
+													"title" : "Cellutome The Biology of Skin Grafting",
+													"image" : "Video.png",
+													"documentfilename" : "KCI_CellutomeMOA_Nov17_2015x.mp4",
+													"other" : "nonemailable"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "YouTube Channel Link",
+											"elements" : [
+												{	
+													"type" : "ElementWebView",
+													"title" : "YouTube Channel Link",
+													"image" : "Youtube.png",
+													"other" : "http://www.youtube.com/kciwoundcare"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"type" : "SectionHeader",
+			"caption" : "My Favorites / My Files",
+			"elements" : [
+				{
+					"type" : "ElementRoot",
+					"title" : "My Favorites",
+					"subtitle" : "View Files from Favorites Lists",
+					"image" : "Favorited.png",
+					"sections" : [
+						{
+							"type" : "SectionHeader",
+							"caption" : "My Favorites Lists"
+						}
+					]
+				},
+				{
+					"type" : "ElementRoot",
+					"title" : "My Files",
+					"subtitle" : "View User Installed Files",
+					"image" : "Myfiles.png",
+					"sections" : [
+						{
+							"type" : "SectionHeader",
+							"caption" : "My Files"
+						}
+					]
+				},
+				{
+					"type" : "ElementRoot",
+					"title" : "App Files",
+					"subtitle" : "View App Files",
+					"image" : "Myfiles.png",
+					"sections" : [
+						{
+							"type" : "SectionHeader",
+							"caption" : "App Files"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type" : "SectionHeader",
+			"caption" : "Support / Documentation",
+			"elements" : [
+				{
+					"type" : "ElementPhone",
+					"title" : "KCI IT Service Desk",
+					"subtitle" : "800-1 205 559",
+					"other" : "8001205559"
+				},
+				{
+					"type" : "ElementEmail",
+					"title" : "Submit Feedback",
+					"subtitle" : "Email Comments & Suggestions",
+					"documentfilename" : "servicedesk@kci1.com",
+					"other" : "KCI AHS Sales App Feedback"
+				},
+				{
+					"type" : "CreditsFooter",
+					"caption" : "2011 KCI Licensing, Inc. All rights reserved.\r All trademarks designated herein are\r property to KCI Licensing, Inc., its\r affiliates and/or licensors. 4/11."
+				}
+			]
+		}
+	]
+}

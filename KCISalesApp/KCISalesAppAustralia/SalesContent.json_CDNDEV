@@ -1,0 +1,396 @@
+{
+	"title" : "KCI Sales",
+	"sections" : [
+		{
+			"type" : "SectionHeader",
+			"caption" : "Sales Collateral",
+			"elements" : [
+				{
+					"type" : "ElementRoot",
+					"title" : "KCI Sales Collateral",
+					"subtitle" : "Brochures, PDFs, & Videos",
+					"image" : "AHSThumbnail.png",
+					"sections" : [
+						{
+							"type" : "SectionHeader",
+							"caption" : "Brochures & PDFs",
+							"elements" : [
+								{
+									"type" : "ElementRoot",
+									"title" : "KCI Sales Collateral",
+									"image" : "AHSThumbnail.png",
+									"sections" : [
+										{
+											"type" : "SectionHeader",
+											"caption" : "Brochures & PDFs",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "Armstrong Clinical Summary Sheet",
+													"subtitle" : "Lancet 2005; Vol 366: 1704-10",
+													"documentfilename" : "CSS_Armstrong_KCI_1024.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Ulta Case Studies",
+													"documentfilename" : "12_0469_US_Ulta_Case_Studies_FINAL_10_12.pdf"
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type" : "SectionHeader",
+							"caption" : "Videos",
+							"elements" : [
+								{
+									"type" : "ElementRoot",
+									"title" : "Videos",
+									"image" : "Video.png",
+									"sections" : [
+										{
+											"type" : "SectionHeader",
+											"caption" : "Videos",
+											"elements" : [
+												{	
+													"type" : "ElementVideo",
+													"title" : "Prevena Incision Management",
+													"subtitle" : "TBD",
+													"documentfilename" : "Prevena_AU_Master_6_14_13.mp4",
+													"other" : "nonemailable"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "YouTube Channel Link",
+											"elements" : [
+												{	
+													"type" : "ElementWebView",
+													"title" : "YouTube Channel Link",
+													"image" : "Youtube.png",
+													"other" : "http://www.youtube.com/kciwoundcare"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"type" : "SectionHeader",
+			"caption" : "My Favorites / My Files",
+			"elements" : [
+				{
+					"type" : "ElementRoot",
+					"title" : "My Favorites",
+					"subtitle" : "View Files from Favorites Lists",
+					"image" : "Favorited.png",
+					"sections" : [
+						{
+							"type" : "SectionHeader",
+							"caption" : "My Favorites Lists"
+						}
+					]
+				},
+				{
+					"type" : "ElementRoot",
+					"title" : "My Files",
+					"subtitle" : "View User Installed Files",
+					"image" : "Myfiles.png",
+					"sections" : [
+						{
+							"type" : "SectionHeader",
+							"caption" : "My Files"
+						}
+					]
+				},
+				{
+					"type" : "ElementRoot",
+					"title" : "App Files",
+					"subtitle" : "View App Files",
+					"image" : "Myfiles.png",
+					"sections" : [
+						{
+							"type" : "SectionHeader",
+							"caption" : "App Files"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type" : "SectionHeader",
+			"caption" : "Support / Documentation",
+			"elements" : [
+				{
+					"type" : "ElementPhone",
+					"title" : "KCI IT Service Desk",
+					"subtitle" : "+61 2 9422 4316",
+					"other" : "61294224316"
+				},
+				{
+					"type" : "ElementRoot",
+					"title" : "Help Documents & Videos",
+					"subtitle" : "App How-To Documents & Videos",
+					"image" : "Book.png",
+					"sections" : [
+						{
+							"type" : "SectionHeader",
+							"caption" : "Help Documents",
+							"elements" : [
+								{
+									"type" : "ElementRoot",
+									"title" : "View Help Documents",
+									"subtitle" : "Help Documents",
+									"image" : "Book.png",
+									"sections" : [
+										{
+											"type" : "SectionHeader",
+											"caption" : "Help Documents",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "Installation",
+													"subtitle" : "Installation Instructions",
+													"documentfilename" : "docs_00_Installation.pdf",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Quickstart Guide",
+													"subtitle" : "AHS App Quickstart",
+													"documentfilename" : "docs_01_AHS_QuickStart.pdf",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "What's New",
+													"subtitle" : "New App Features",
+													"documentfilename" : "docs_02_Whats_New.pdf",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Downloading Files",
+													"subtitle" : "How to Download Files",
+													"documentfilename" : "docs_03_Downloading_Files.pdf",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Viewing / Emailing Files",
+													"subtitle" : "Viewing & Emailing App Files",
+													"documentfilename" : "docs_04_Viewing_And_Emailing_Files.pdf",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Viewing Web Pages",
+													"subtitle" : "How to View Web Pages",
+													"documentfilename" : "docs_05_Viewing_Web_Page.pdf",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Viewing Videos",
+													"subtitle" : "How to View Videos",
+													"documentfilename" : "docs_06_Viewing_Video.pdf",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Advantage Center",
+													"subtitle" : "Contacting the Advantage Center",
+													"documentfilename" : "docs_07_Contacting_Advantage_Center.pdf",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Favorites",
+													"subtitle" : "Working with Favorites",
+													"documentfilename" : "docs_08_Favorites.pdf",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "My Files",
+													"subtitle" : "Custom Files",
+													"documentfilename" : "docs_09_My_Files.pdf",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Deleting KCI Files",
+													"subtitle" : "Removing KCI Media Files",
+													"documentfilename" : "docs_10_Deleting_KCI_Files.pdf",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Deleting My Files",
+													"subtitle" : "Removing Custom Files",
+													"documentfilename" : "docs_11_Deleting_My_Files.pdf",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Updates",
+													"subtitle" : "Checking for Updates",
+													"documentfilename" : "docs_12_Checking_for_Updates.pdf",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Troubleshooting",
+													"subtitle" : "Troubleshoot Common Issues",
+													"documentfilename" : "docs_13_Troubleshooting.pdf",
+													"other" : "nonemailable, nonfavorable"
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type" : "SectionHeader",
+							"caption" : "Help Videos",
+							"elements" : [
+								{
+									"type" : "ElementRoot",
+									"title" : "View Help Videos",
+									"subtitle" : "Help Videos",
+									"image" : "Video.png",
+									"sections" : [
+										{
+											"type" : "SectionHeader",
+											"caption" : "Help Videos",
+											"elements" : [
+												{	
+													"type" : "ElementVideo",
+													"title" : "Quick Start",
+													"subtitle" : "Quick Start Video",
+													"documentfilename" : "video_02_Quick_Start_iPhone-1.m4v",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "What's New",
+													"subtitle" : "New App Features",
+													"documentfilename" : "video_03_Whats_New2.m4v",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Downloading Files",
+													"subtitle" : "How to Download Files",
+													"documentfilename" : "video_04_Downloading_Files_2.m4v",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Viewing / Emailing Files",
+													"subtitle" : "Viewing & Emailing App Files",
+													"documentfilename" : "video_05_Viewing_Emailing_Docs_2.m4v",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Viewing Web Pages",
+													"subtitle" : "How to View Web Pages",
+													"documentfilename" : "video_06_Viewing_Web_Page_2.m4v",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Viewing Videos",
+													"subtitle" : "How to View Videos",
+													"documentfilename" : "video_07_Viewing_A_Video_2.m4v",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Favorites Lists",
+													"subtitle" : "How to Use Favorites",
+													"documentfilename" : "video_09_Favorites_Customizing_2.m4v",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Adding to Favorites",
+													"subtitle" : "Adding to Favorites Lists",
+													"documentfilename" : "video_10_Favorites_Add_To_2.m4v",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Editing Favorites",
+													"subtitle" : "Removing Files from Favorites",
+													"documentfilename" : "video_10_Favorites_Deleting_Files_2.m4v",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Adding User Files",
+													"subtitle" : "Adding Files from Email",
+													"documentfilename" : "video_11_Add_A_File_From_Email_2.m4v",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Removing KCI Files",
+													"subtitle" : "Removing KCI Media Files",
+													"documentfilename" : "video_12_Deleting_KCI_Files_2.m4v",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Removing User Files",
+													"subtitle" : "Removing User Files",
+													"documentfilename" : "video_13_Deleting_User_Files_2.m4v",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Checking for Updates",
+													"subtitle" : "Checking for App Updates",
+													"documentfilename" : "video_14_Check_for_Updates_2.m4v",
+													"other" : "nonemailable, nonfavorable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Working with Wi-Fi",
+													"subtitle" : "Enabling Wi-Fi on Your Phone",
+													"documentfilename" : "video_15_Wifi_Connect_2.m4v",
+													"other" : "nonemailable, nonfavorable"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type" : "ElementEmail",
+					"title" : "Submit Feedback",
+					"subtitle" : "Email Comments & Suggestions",
+					"documentfilename" : "sfdcus@kci1.com",
+					"other" : "KCI AHS Sales App Feedback"
+				},
+				{
+					"type" : "CreditsFooter",
+					"caption" : "2011 KCI Licensing, Inc. All rights reserved.\r All trademarks designated herein are\r property to KCI Licensing, Inc., its\r affiliates and/or licensors. 4/11."
+				}
+			]
+		}
+	]
+}

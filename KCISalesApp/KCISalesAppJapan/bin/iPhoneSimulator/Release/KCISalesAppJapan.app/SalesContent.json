@@ -1,0 +1,1288 @@
+{
+  "title": "KCI Sales",
+  "sections": [
+    {
+      "type": "SectionHeader",
+      "caption": "KCI Sales Collateral",
+      "elements": [
+        {
+          "type": "ElementRoot",
+          "title": "KCI Sales Collateral",
+          "subtitle": "Brochures, PDFs, & Videos",
+          "image": "AHSThumbnail.png",
+          "sections": [
+            {
+              "type": "SectionHeader",
+              "caption": "エビデンス",
+              "elements": [
+                {
+                  "type": "ElementRoot",
+                  "title": "エビデンス",
+                  "image": "AHSThumbnail.png",
+                  "sections": [
+                    {
+                      "type": "SectionHeader",
+                      "caption": "サマリー",
+                      "elements": [
+                        {
+                          "type": "ElementDocument",
+                          "title": "海外NPWT_RCTサマリー",
+                          "documentfilename": "海外NPWT_RCTサマリー2.pdf",
+                          "other": "nonemailable"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "SectionHeader",
+                      "caption": "国内文献",
+                      "elements": [
+
+                      ]
+                    },
+                    {
+                      "type": "SectionHeader",
+                      "caption": "ABTHERA",
+                      "elements": [
+                        {
+                          "type": "ElementDocument",
+                          "title": "1_ABTHERA®治療システムおよびBarker式VPC法適用後の臨床転帰に関するプロスペクティブ試験",
+                          "documentfilename": "1_ABTHERA®治療システムおよびBarker式VPC法適用後の臨床転帰に関するプロスペクティブ試験.pdf",
+                          "other": "nonemailable"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "2_NPT：一般外科の腹部開放管理における実行可能な選択肢",
+                          "documentfilename": "2_NPT：一般外科の腹部開放管理における実行可能な選択肢.pdf",
+                          "other": "nonemailable"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "3_腹部開放創の管理に市販の陰圧治療システムを導入する価値はあるか？",
+                          "documentfilename": "3_腹部開放創の管理に市販の陰圧治療システムを導入する価値はあるか？.pdf",
+                          "other": "nonemailable"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "4_簡易開腹術後の能動的ドレーン腹腔陰圧療法",
+                          "documentfilename": "4_簡易開腹術後の能動的ドレーン腹腔陰圧療法.pdf",
+                          "other": "nonemailable"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "SectionHeader",
+                      "caption": "V.A.C.ベラフロクレンズチョイスフォーム",
+                      "elements": [
+                        {
+                          "type": "ElementDocument",
+                          "title": "1_新開発のフォーム材を使用した局所陰圧洗浄療法による 粘稠性滲出液の除去",
+                          "documentfilename": "1_新開発のフォーム材を使用した局所陰圧洗浄療法による 粘稠性滲出液の除去.pdf",
+                          "other": "nonemailable"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "SectionHeader",
+              "caption": "症例報告（基礎・応用）",
+              "elements": [
+                {
+                  "type": "ElementRoot",
+                  "title": "症例報告（基礎・応用）",
+                  "image": "AHSThumbnail.png",
+                  "sections": [
+                    {
+                      "type": "SectionHeader",
+                      "caption": "（ADAPTIC）外傷",
+                      "elements": [
+                        {
+                          "type": "ElementDocument",
+                          "title": "☆急性14_四肢広範囲熱傷",
+                          "documentfilename": "☆急性14_四肢広範囲熱傷.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "SectionHeader",
+                      "caption": "ABTHERA",
+                      "elements": [
+                        {
+                          "type": "ElementDocument",
+                          "title": "1_結腸吻合部漏出後の重症腹膜炎に対する一時的腹部閉鎖",
+                          "documentfilename": "1_結腸吻合部漏出後の重症腹膜炎に対する一時的腹部閉鎖.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "2_腹部コンパートメント症候群（ACS）を伴う出血性膵炎",
+                          "documentfilename": "2_腹部コンパートメント症候群（ACS）を伴う出血性膵炎.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "3_自動車事故後の一時的閉鎖",
+                          "documentfilename": "3_自動車事故後の一時的閉鎖.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "4_壊死性軟部組織感染による多発性腸瘻を伴う前腹壁全層欠損に対する腹壁閉鎖",
+                          "documentfilename": "4_壊死性軟部組織感染による多発性腸瘻を伴う前腹壁全層欠損に対する腹壁閉鎖.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "5_貫通性外傷に対する一時的腹部閉鎖",
+                          "documentfilename": "5_貫通性外傷に対する一時的腹部閉鎖.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "SectionHeader",
+                      "caption": "（SNAP）外傷",
+                      "elements": [
+                        {
+                          "type": "ElementDocument",
+                          "title": "急性15_指尖部切断創",
+                          "documentfilename": "急性15_指尖部切断創.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "SectionHeader",
+                      "caption": "（SNAP）術後離開創",
+                      "elements": [
+                        {
+                          "type": "ElementDocument",
+                          "title": "亜急性13_足趾離開創",
+                          "documentfilename": "亜急性13_足趾離開創.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "亜急性14_腹部離開創",
+                          "documentfilename": "亜急性14_腹部離開創.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "SectionHeader",
+                      "caption": "（V.A.C.）コンパートメント",
+                      "elements": [
+                        {
+                          "type": "ElementDocument",
+                          "title": "亜急性7_左下腿コンパートメント症候群減張切開後",
+                          "documentfilename": "1_亜急性7_左下腿コンパートメント症候群減張切開後.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "Key Clinical Information 4_左下腿コンパートメント症候群減張切開後",
+                          "documentfilename": "2_KeyClinicalInformation4_左下腿コンパートメント症候群減張切開後.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "Key Clinical Information 5_両下肢コンパートメント症候群減張切開後",
+                          "documentfilename": "3_☆KeyClinicalInformation5_両下肢コンパートメント症候群減張切開後.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "SectionHeader",
+                      "caption": "（V.A.C.）下肢潰瘍",
+                      "elements": [
+                        {
+                          "type": "ElementDocument",
+                          "title": "慢性3_腓腹筋膿瘍",
+                          "documentfilename": "1_慢性3_腓腹筋膿瘍.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "慢性2_右足糖尿病性足潰瘍",
+                          "documentfilename": "2_慢性2_右足糖尿病性足潰瘍.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "慢性9_左足糖尿病性足潰瘍",
+                          "documentfilename": "3_慢性9_左足糖尿病性足潰瘍.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "☆急性8_右足第2趾切断術後（ASO）",
+                          "documentfilename": "4_☆急性8_右足第2趾切断術後（ASO）.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "慢性11_右足糖尿病性潰瘍足趾切断後",
+                          "documentfilename": "5_慢性11_右足糖尿病性潰瘍足趾切断後.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "Key Clinical Information 2_右足糖尿病性潰瘍切断後離開創",
+                          "documentfilename": "6_KeyClinicalInformation2_右足糖尿病性潰瘍切断後離開創.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "SectionHeader",
+                      "caption": "（V.A.C.）壊死性筋膜炎",
+                      "elements": [
+                        {
+                          "type": "ElementDocument",
+                          "title": "亜急性4_右前腕壊死性筋膜炎",
+                          "documentfilename": "1_亜急性4_右前腕壊死性筋膜炎.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "亜急性1_右下腿壊死性筋膜炎",
+                          "documentfilename": "2_亜急性1_右下腿壊死性筋膜炎.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "急性3_右足背壊死性筋膜炎",
+                          "documentfilename": "3_急性3_右足背壊死性筋膜炎.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "SectionHeader",
+                      "caption": "（V.A.C.）外傷",
+                      "elements": [
+                        {
+                          "type": "ElementDocument",
+                          "title": "急性1_左前腕外傷性皮膚欠損創",
+                          "documentfilename": "1_急性1_左前腕外傷性皮膚欠損創.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "Key Clinical Information 1_右前腕開放骨折・外傷性皮膚欠損創",
+                          "documentfilename": "2_KeyClinicalInformation1_右前腕開放骨折・外傷性皮膚欠損創.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "急性6_右肘部開放創",
+                          "documentfilename": "3_急性6_右肘部開放創.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "Key Clinical Information 3_右手交通外傷後皮膚壊死デブリードマン後",
+                          "documentfilename": "4_KeyClinicalInformation3_右手交通外傷後皮膚壊死デブリードマン後.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "☆急性12_大腿部広範囲外傷性皮膚欠損創",
+                          "documentfilename": "5_☆急性12_大腿部広範囲外傷性皮膚欠損創.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "亜急性9_左膝蓋部裂創",
+                          "documentfilename": "6_亜急性9_左膝蓋部裂創.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "☆急性7_左下腿デブリードマン後皮膚欠損創",
+                          "documentfilename": "7_☆急性7_左下腿デブリードマン後皮膚欠損創.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "☆急性5_右足外傷性皮膚欠損創",
+                          "documentfilename": "8_☆急性5_右足外傷性皮膚欠損創.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "亜急性10_右足部外傷性切断創",
+                          "documentfilename": "9_亜急性10_右足部外傷性切断創.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "急性2_左足挫滅デグロービング創",
+                          "documentfilename": "10_急性2_左足挫滅デグロービング創.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "☆急性13_3症例_左下肢挫滅創、右上腕挫滅創、背部熱傷",
+                          "documentfilename": "11_☆急性13_3症例_左下肢挫滅創、右上腕挫滅創、背部熱傷.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "SectionHeader",
+                      "caption": "（V.A.C.）褥瘡",
+                      "elements": [
+                        {
+                          "type": "ElementDocument",
+                          "title": "慢性5_右腰部褥瘡",
+                          "documentfilename": "1_慢性5_右腰部褥瘡.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "急性4_左殿部・大転子部褥瘡",
+                          "documentfilename": "2_急性4_左殿部・大転子部褥瘡.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "慢性6_左大転子・腰部褥瘡",
+                          "documentfilename": "3_慢性6_左大転子・腰部褥瘡.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "☆慢性10_右大転子部褥瘡",
+                          "documentfilename": "4_☆慢性10_右大転子部褥瘡.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "慢性1_仙骨部褥瘡",
+                          "documentfilename": "5_慢性1_仙骨部褥瘡.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "慢性4_仙骨部褥瘡",
+                          "documentfilename": "6_慢性4_仙骨部褥瘡.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "☆慢性7_仙骨部褥瘡",
+                          "documentfilename": "7_☆慢性7_仙骨部褥瘡.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "☆慢性8_仙骨部褥瘡",
+                          "documentfilename": "8_☆慢性8_仙骨部褥瘡.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "SectionHeader",
+                      "caption": "（V.A.C.）開放創・離開創",
+                      "elements": [
+                        {
+                          "type": "ElementDocument",
+                          "title": "亜急性8_深部縦隔炎",
+                          "documentfilename": "1_亜急性8_深部縦隔炎.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "Key Clinical Information 7_前胸部胸骨骨髄炎開創デブリードマン後",
+                          "documentfilename": "2_☆KeyClinicalInformation7_前胸部胸骨骨髄炎開創デブリードマン後.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "☆亜急性2_腹部離開創",
+                          "documentfilename": "3_☆亜急性2_腹部離開創.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "☆亜急性3_腹部離開創",
+                          "documentfilename": "4_☆亜急性3_腹部離開創.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "亜急性5_腹部離開創",
+                          "documentfilename": "5_亜急性5_腹部離開創.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "亜急性6_腹部離開創",
+                          "documentfilename": "6_亜急性6_腹部離開創.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "☆急性9_腹部開放創",
+                          "documentfilename": "7_☆急性9_腹部開放創_V2.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "亜急性12_腹部開放創",
+                          "documentfilename": "8_亜急性12_腹部開放創.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "Key Clinical Information 6_腹部開放創",
+                          "documentfilename": "9_☆KeyClinicalInformation6_腹部開放創.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "☆急性11_ストーマ閉鎖後術創",
+                          "documentfilename": "10_☆急性11_ストーマ閉鎖後術創.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "☆亜急性11_左鼠径部離開創",
+                          "documentfilename": "11_☆亜急性11_左鼠径部離開創.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "☆急性10_人工関節全置換術後感染創",
+                          "documentfilename": "12_☆急性10_人工関節全置換術後感染創.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "☆急性16_APR術後の会陰創",
+                          "documentfilename": "13_☆急性16_APR術後の会陰創.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "SectionHeader",
+                      "caption": "(V.A.C.ULTA）下肢潰瘍",
+                      "elements": [
+                        {
+                          "type": "ElementDocument",
+                          "title": "1_☆慢性12_右足趾糖尿病性潰瘍切断後",
+                          "documentfilename": "1_☆慢性12_右足趾糖尿病性潰瘍切断後.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "2_クレンズチョイス_糖尿病性足病変",
+                          "documentfilename": "2_クレンズチョイス_糖尿病性足病変.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "SectionHeader",
+                      "caption": "(V.A.C.ULTA）外傷",
+                      "elements": [
+                        {
+                          "type": "ElementDocument",
+                          "title": "1_クレンズチョイス_右前下腿部外傷性創傷",
+                          "documentfilename": "1_クレンズチョイス_右前下腿部外傷性創傷.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "SectionHeader",
+                      "caption": "(V.A.C.ULTA）開放創・離開創",
+                      "elements": [
+                        {
+                          "type": "ElementDocument",
+                          "title": "1_クレンズチョイス_胸部離開創",
+                          "documentfilename": "1_クレンズチョイス_胸部離開創.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "2_クレンズチョイス_腹部創傷",
+                          "documentfilename": "2_クレンズチョイス_腹部創傷.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "SectionHeader",
+                      "caption": "(V.A.C.ULTA）その他",
+                      "elements": [
+                        {
+                          "type": "ElementDocument",
+                          "title": "1_クレンズチョイス_皮下組織潰瘍",
+                          "documentfilename": "1_クレンズチョイス_皮下組織潰瘍.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "SectionHeader",
+                      "caption": "(V.A.C.ULTA）褥瘡",
+                      "elements": [
+                        {
+                          "type": "ElementDocument",
+                          "title": "慢性13_フルニエ壊疽合併仙骨部褥瘡",
+                          "documentfilename": "慢性13_フルニエ壊疽合併仙骨部褥瘡.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "慢性14_感染を伴う左坐骨褥瘡",
+                          "documentfilename": "慢性14_感染を伴う左坐骨褥瘡.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "1_クレンズチョイス_仙骨部褥瘡",
+                          "documentfilename": "1_クレンズチョイス_仙骨部褥瘡.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "2_クレンズチョイス_仙骨部褥瘡",
+                          "documentfilename": "2_クレンズチョイス_仙骨部褥瘡.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "3_クレンズチョイス_左肩褥瘡",
+                          "documentfilename": "3_クレンズチョイス_左肩褥瘡.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "SectionHeader",
+                      "caption": "V.A.C.基礎研究",
+                      "elements": [
+                        {
+                          "type": "ElementDocument",
+                          "title": "NPWT作用機序研究報告",
+                          "documentfilename": "NPWT作用機序研究報告2017.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "SectionHeader",
+                      "caption": "V.A.C.症例冊子・PPT",
+                      "elements": [
+                        {
+                          "type": "ElementDocument",
+                          "title": "（症例冊子）20150411_消化器外科医フォーカス講演会集",
+                          "documentfilename": "（症例冊子）20150411_消化器外科医フォーカス講演会集.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "（症例冊子）20161008_MakeBetterサミット記録集",
+                          "documentfilename": "（症例冊子）20161008_MakeBetterサミット記録集2017.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "（症例冊子）消化器外科領域概論",
+                          "documentfilename": "（症例冊子）消化器外科領域概論.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "（症例紹介PPT）APR術後の会陰創管理におけるV.A.C.療法",
+                          "documentfilename": "（症例紹介PPT）APR術後の会陰創管理におけるV.A.C.療法.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "（症例紹介PPT）stoma閉鎖術創へのNPWT",
+                          "documentfilename": "（症例紹介PPT）stoma閉鎖術創へのNPWT2017.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "（症例紹介PPT）熱傷および壊死性筋膜炎に対するNPWT",
+                          "documentfilename": "（症例紹介PPT）熱傷および壊死性筋膜炎に対するNPWT2017.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "消化器外科領域におけるNPWT座談会資料",
+                          "documentfilename": "消化器外科領域におけるNPWT座談会資料.pdf"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "SectionHeader",
+              "caption": "カタログ・リーフレット",
+              "elements": [
+                {
+                  "type": "ElementRoot",
+                  "title": "カタログ・リーフレット",
+                  "image": "AHSThumbnail.png",
+                  "sections": [
+                    {
+                      "type": "SectionHeader",
+                      "caption": "AWD",
+                      "elements": [
+                        {
+                          "type": "ElementDocument",
+                          "title": "アダプティックドレッシングリーフレット",
+                          "documentfilename": "アダプティックドレッシングリーフレット2.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "アダプティックフィンガートーリーフレット",
+                          "documentfilename": "アダプティックフィンガートーリーフレット2.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "ティエールリーフレット",
+                          "documentfilename": "ティエールリーフレット2.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "ティエール貼付の工夫",
+                          "documentfilename": "ティエール貼付の工夫2.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "バイオクルーシブPLUSリーフレット",
+                          "documentfilename": "バイオクルーシブPLUSリーフレット.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "SectionHeader",
+                      "caption": "ABTHERA",
+                      "elements": [
+                        {
+                          "type": "ElementDocument",
+                          "title": "ABTHERA クイックリファレンスガイド",
+                          "documentfilename": "ABTHERAクイックリファレンスガイド.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "ABTHERAリーフレット",
+                          "documentfilename": "ABTHERAリーフレット.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "ABTHERAカタログ",
+                          "documentfilename": "ABTHERAカタログ.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "SectionHeader",
+                      "caption": "SNAP",
+                      "elements": [
+                        {
+                          "type": "ElementDocument",
+                          "title": "SNAPセキュアリングリーフレット",
+                          "documentfilename": "SNAPセキュアリングリーフレット.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "SNAP取扱説明書",
+                          "documentfilename": "SNAP取扱説明書.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "SNAP患者用マニュアル",
+                          "documentfilename": "SNAP患者用マニュアル.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "SNAP総合カタログ",
+                          "documentfilename": "SNAP総合カタログ1.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "SectionHeader",
+                      "caption": "VAC",
+                      "elements": [
+                        {
+                          "type": "ElementDocument",
+                          "title": "ACTIV.A.C.クイックリファレンスガイド",
+                          "documentfilename": "ACTIV.A.C.クイックリファレンスガイド2.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "ACTIV.A.C.リーフレット",
+                          "documentfilename": "ACTIV.A.C.リーフレット2.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "ACTIV.A.C.取扱説明書",
+                          "documentfilename": "ACTIV.A.C.取扱説明書.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "INFOV.A.C.クイックリファレンスガイド",
+                          "documentfilename": "INFOV.A.C.クイックリファレンスガイド.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "INFOV.A.C.リーフレット",
+                          "documentfilename": "INFOV.A.C.リーフレット.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "INFOV.A.C.取扱説明書",
+                          "documentfilename": "INFOV.A.C.取扱説明書.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "INFOV.A.C.創傷画像分析リーフレット",
+                          "documentfilename": "INFOV.A.C.創傷画像分析リーフレット.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "SENSAT.R.A.C.テクノロジーリーフレット",
+                          "documentfilename": "SENSAT.R.A.C.テクノロジーリーフレット.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "V.A.C.ULTA クイックリファレンスガイド",
+                          "documentfilename": "V.A.C.ULTAクイックリファレンスガイド.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "V.A.C.ULTAリーフレット",
+                          "documentfilename": "V.A.C.ULTAリーフレット2.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "V.A.C.ULTA取扱説明書",
+                          "documentfilename": "V.A.C.ULTA_1.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "V.A.C.ULTA製品カタログ",
+                          "documentfilename": "V.A.C.ULTA製品カタログ.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "V.A.C.グラニューフォームXラージリーフレット",
+                          "documentfilename": "V.A.C.グラニューフォームXラージリーフレット.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "V.A.C.コンサイメントリーフレット",
+                          "documentfilename": "V.A.C.コンサイメントリーフレット.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "V.A.C.フォーム材リーフレット",
+                          "documentfilename": "V.A.C.フォーム材リーフレット.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "V.A.C.患者用リーフレット",
+                          "documentfilename": "V.A.C.患者用リーフレット.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "V.A.C.機器選定、ドレッシング選定・貼付の工夫",
+                          "documentfilename": "V.A.C.機器選定、ドレッシング選定・貼付の工夫.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "V.A.C.機器選定（ULTA入り）、ドレッシング選定・貼付の工夫",
+                          "documentfilename": "V.A.C.機器選定（ULTA入り）、ドレッシング選定・貼付の工夫.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "V.A.C.治療総合カタログ",
+                          "documentfilename": "V.A.C.治療総合カタログ.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "V.A.C.製品一覧",
+                          "documentfilename": "V.A.C.製品一覧.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "V.A.C.ベラフロクレンズチョイスフォームリーフレット",
+                          "documentfilename": "V.A.C.ベラフロクレンズチョイスフォームリーフレット.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "Y字連結管リーフレット",
+                          "documentfilename": "Y字連結管リーフレット.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "シンプル_ACTIV.A.C.リーフレット",
+                          "documentfilename": "シンプル_ACTIV.A.C.リーフレット.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "シンプル_V.A.C.グラニューフォームシンプレイスEXリーフレット",
+                          "documentfilename": "シンプル_V.A.C.グラニューフォームシンプレイスEXリーフレット.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "SectionHeader",
+                      "caption": "共通",
+                      "elements": [
+                        {
+                          "type": "ElementDocument",
+                          "title": "AWD_(R1年一部変更）H30年度診療報酬改定のお知らせ",
+                          "documentfilename": "AWD_(R1年一部変更）H30年度診療報酬改定のお知らせ.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "ABTHERA_H31年診療報酬のお知らせ",
+                          "documentfilename": "ABTHERA_H31年診療報酬のお知らせ.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "KCI製品総合カタログ（NPWT&AWD",
+                          "documentfilename": "KCI製品総合カタロク（NPWT&AWD.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "NPWT_(R1年一部変更）H30年度診療報酬改定のお知らせ",
+                          "documentfilename": "NPWT_(R1年一部変更）H30年度診療報酬改定のお知らせ.pdf"
+                        },
+                        {
+                          "type": "ElementDocument",
+                          "title": "創傷治癒リーフレット",
+                          "documentfilename": "創傷治癒リーフレット.pdf"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "SectionHeader",
+              "caption": "動画",
+              "elements": [
+                {
+                  "type": "ElementRoot",
+                  "title": "動画",
+                  "image": "AHSThumbnail.png",
+                  "sections": [
+                    {
+                      "type": "SectionHeader",
+                      "caption": "動画",
+                      "elements": [
+                        {
+                          "type": "ElementVideo",
+                          "title": "製品の歴史（KCI KK）",
+                          "documentfilename": "製品の歴史（KCIKK）.mp4",
+                          "other": "nonemailable"
+                        },
+                        {
+                          "type": "ElementVideo",
+                          "title": "ABTHERA_作用機序",
+                          "documentfilename": "ABTHERA_作用機序.mp4",
+                          "other": "nonemailable"
+                        },
+                        {
+                          "type": "ElementVideo",
+                          "title": "ABTHERA_適用方法",
+                          "documentfilename": "ABTHERA_適用方法.mp4",
+                          "other": "nonemailable"
+                        },
+                        {
+                          "type": "ElementVideo",
+                          "title": "VAC Application",
+                          "documentfilename": "VAC_Application.mov",
+                          "other": "nonemailable"
+                        },
+                        {
+                          "type": "ElementVideo",
+                          "title": "VAC Mechanisms of Action",
+                          "documentfilename": "VAC_Mechanisms_of_Action.mov",
+                          "other": "nonemailable"
+                        },
+                        {
+                          "type": "ElementVideo",
+                          "title": "Competitive Benchmark",
+                          "documentfilename": "CompetitiveBenchmark.mp4",
+                          "other": "nonemailable"
+                        },
+                        {
+                          "type": "ElementVideo",
+                          "title": "足開放骨折モデル装着",
+                          "documentfilename": "DA_OFracture_DSL_14_0296.JN.VID.1.mp4",
+                          "other": "nonemailable"
+                        },
+                        {
+                          "type": "ElementVideo",
+                          "title": "足モデルシンプレイス装着",
+                          "documentfilename": "DA_SimpaceEX_DSL_14_0296.JN.VID.2.mp4",
+                          "other": "nonemailable"
+                        },
+                        {
+                          "type": "ElementVideo",
+                          "title": "2014_社内資料_日本創傷・オストミー・失禁管理学会",
+                          "documentfilename": "2014_Luncheon_JWOCN_DSL_14_0295.JN.Internal_OnlyVID.4.mp4",
+                          "other": "nonemailable"
+                        },
+                        {
+                          "type": "ElementVideo",
+                          "title": "2014_社内資料_日本血管外科学会",
+                          "documentfilename": "2014_Luncheon_CV_DSL_14_0295.JN.Internal_OnlyVID.3.mp4",
+                          "other": "nonemailable"
+                        },
+                        {
+                          "type": "ElementVideo",
+                          "title": "2014 Summit-1",
+                          "documentfilename": "Summit2014_1.mp4",
+                          "other": "nonemailable"
+                        },
+                        {
+                          "type": "ElementVideo",
+                          "title": "2014 Summit-2",
+                          "documentfilename": "Summit2014_2.mp4",
+                          "other": "nonemailable"
+                        },
+                        {
+                          "type": "ElementVideo",
+                          "title": "2014 Summit-3",
+                          "documentfilename": "Summit2014_3.mp4",
+                          "other": "nonemailable"
+                        },
+                        {
+                          "type": "ElementVideo",
+                          "title": "2013 第43回日本創傷治療学会",
+                          "documentfilename": "2013_第43回日本創傷治療学会.mp4",
+                          "other": "nonemailable"
+                        },
+                        {
+                          "type": "ElementVideo",
+                          "title": "2013 VAC Summit 外科",
+                          "documentfilename": "2013_VAC_Summit_外科.mp4",
+                          "other": "nonemailable"
+                        },
+                        {
+                          "type": "ElementVideo",
+                          "title": "2013 Nagoya V.A.C. Therapy Science Seminar",
+                          "documentfilename": "2013_Nagoya_V.A.C.Therapy_Science_Seminar.mp4",
+                          "other": "nonemailable"
+                        },
+                        {
+                          "type": "ElementVideo",
+                          "title": "2013 VAC Summit 心臓血管外科",
+                          "documentfilename": "2013_VAC_Summit_心臓血管外科.mov",
+                          "other": "nonemailable"
+                        },
+                        {
+                          "type": "ElementVideo",
+                          "title": "2013 第75回日本臨床外科学会",
+                          "documentfilename": "2013_75_ConfJapan.mp4",
+                          "other": "nonemailable"
+                        },
+                        {
+                          "type": "ElementVideo",
+                          "title": "2014 Training Gastroenterological Surgery",
+                          "documentfilename": "2014GastroSurgeryTraining.mov",
+                          "other": "nonemailable"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "SectionHeader",
+              "caption": "製品添付文書",
+              "elements": [
+                {
+                  "type": "ElementRoot",
+                  "title": "製品添付文書",
+                  "image": "AHSThumbnail.png",
+                  "sections": [
+                    {
+                      "type": "SectionHeader",
+                      "caption": "ABTHERA ドレッシングキット",
+                      "elements": [
+                        {
+                          "type": "ElementRoot",
+                          "title": "ABTHERA ドレッシングキット",
+                          "image": "AHSThumbnail.png",
+                          "sections": [
+                            {
+                              "type": "SectionHeader",
+                              "caption": "ABTHERA ドレッシングキット",
+                              "elements": [
+                                {
+                                  "type": "ElementDocument",
+                                  "title": "ABTHERA ドレッシングキット",
+                                  "documentfilename": "ABTHERA ドレッシングキット.pdf"
+                                }
+
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "SectionHeader",
+                      "caption": "ActiV.A.C.治療システム",
+                      "elements": [
+                        {
+                          "type": "ElementRoot",
+                          "title": "ActiV.A.C.治療システム",
+                          "image": "AHSThumbnail.png",
+                          "sections": [
+                            {
+                              "type": "SectionHeader",
+                              "caption": "ActiV.A.C.治療システム",
+                              "elements": [
+                                {
+                                  "type": "ElementDocument",
+                                  "title": "ActiV.A.C.治療システム",
+                                  "documentfilename": "ActiV.A.C.型陰圧維持管理装置.pdf"
+                                }
+
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "SectionHeader",
+                      "caption": "InfoV.A.C.治療システム",
+                      "elements": [
+                        {
+                          "type": "ElementRoot",
+                          "title": "InfoV.A.C.治療システム",
+                          "image": "AHSThumbnail.png",
+                          "sections": [
+                            {
+                              "type": "SectionHeader",
+                              "caption": "InfoV.A.C.治療システム",
+                              "elements": [
+                                {
+                                  "type": "ElementDocument",
+                                  "title": "InfoV.A.C.型陰圧維持管理装置",
+                                  "documentfilename": "InfoV.A.C.型陰圧維持管理装置.pdf"
+                                },
+                                {
+                                  "type": "ElementDocument",
+                                  "title": "V.A.C.キャニスター",
+                                  "documentfilename": "V.A.C.キャニスター.pdf"
+                                },
+                                {
+                                  "type": "ElementDocument",
+                                  "title": "Y字連結管",
+                                  "documentfilename": "Y字連結管.pdf"
+                                },
+                                {
+                                  "type": "ElementDocument",
+                                  "title": "グラニュー／ホワイトフォーム",
+                                  "documentfilename": "グラニュー／ホワイトフォーム.pdf"
+                                }
+
+                              ]
+                            }
+
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "SectionHeader",
+                      "caption": "SNaP陰圧閉鎖療法システム",
+                      "elements": [
+                        {
+                          "type": "ElementRoot",
+                          "title": "SNaP陰圧閉鎖療法システム",
+                          "image": "AHSThumbnail.png",
+                          "sections": [
+                            {
+                              "type": "SectionHeader",
+                              "caption": "SNaP陰圧閉鎖療法システム",
+                              "elements": [
+                                {
+                                  "type": "ElementDocument",
+                                  "title": "SNaP 陰圧閉鎖療法システム",
+                                  "documentfilename": "SNaP 陰圧閉鎖療法システム.pdf"
+                                }
+
+                              ]
+                            }
+
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "SectionHeader",
+                      "caption": "V.A.C.Ulta治療システム",
+                      "elements": [
+                        {
+                          "type": "ElementRoot",
+                          "title": "V.A.C.Ulta治療システム",
+                          "image": "AHSThumbnail.png",
+                          "sections": [
+                            {
+                              "type": "SectionHeader",
+                              "caption": "V.A.C.Ulta治療システム",
+                              "elements": [
+                                {
+                                  "type": "ElementDocument",
+                                  "title": "V.A.C.Ulta治療システム",
+                                  "documentfilename": "V.A.C.Ulta治療システム.pdf"
+                                }
+
+                              ]
+                            }
+
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "SectionHeader",
+                      "caption": "V.A.C.治療システム",
+                      "elements": [
+                        {
+                          "type": "ElementRoot",
+                          "title": "V.A.C.治療システム",
+                          "image": "AHSThumbnail.png",
+                          "sections": [
+                            {
+                              "type": "SectionHeader",
+                              "caption": "V.A.C.治療システム",
+                              "elements": [
+                                {
+                                  "type": "ElementDocument",
+                                  "title": "ActiV.A.C.型陰圧維持管理装置",
+                                  "documentfilename": "V.A.C.治療システム_ActiV.A.C.型陰圧維持管理装置.pdf"
+                                }
+
+                              ]
+                            }
+
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "SectionHeader",
+                      "caption": "アダプティックドレッシング",
+                      "elements": [
+                        {
+                          "type": "ElementRoot",
+                          "title": "アダプティックドレッシング",
+                          "image": "AHSThumbnail.png",
+                          "sections": [
+                            {
+                              "type": "SectionHeader",
+                              "caption": "アダプティックドレッシング",
+                              "elements": [
+                                {
+                                  "type": "ElementDocument",
+                                  "title": "アダプティックドレッシング",
+                                  "documentfilename": "アダプティックドレッシング.pdf"
+                                }
+
+                              ]
+                            }
+
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "SectionHeader",
+                      "caption": "ティエール",
+                      "elements": [
+                        {
+                          "type": "ElementRoot",
+                          "title": "ティエール",
+                          "image": "AHSThumbnail.png",
+                          "sections": [
+                            {
+                              "type": "SectionHeader",
+                              "caption": "ティエール",
+                              "elements": [
+                                {
+                                  "type": "ElementDocument",
+                                  "title": "ティエール",
+                                  "documentfilename": "ティエール.pdf"
+                                }
+
+                              ]
+                            }
+
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "SectionHeader",
+                      "caption": "バイオクルーシブPlus",
+                      "elements": [
+                        {
+                          "type": "ElementRoot",
+                          "title": "バイオクルーシブPlus",
+                          "image": "AHSThumbnail.png",
+                          "sections": [
+                            {
+                              "type": "SectionHeader",
+                              "caption": "バイオクルーシブPlus",
+                              "elements": [
+                                {
+                                  "type": "ElementDocument",
+                                  "title": "バイオクルーシブPlus",
+                                  "documentfilename": "バイオクルーシブPlus.pdf"
+                                }
+
+                              ]
+                            }
+
+                          ]
+                        }
+                      ]
+                    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "SectionHeader",
+      "caption": "My Favorites / My Files",
+      "elements": [
+        {
+          "type": "ElementRoot",
+          "title": "My Favorites",
+          "subtitle": "View Files from Favorites Lists",
+          "image": "Favorited.png",
+          "sections": [
+            {
+              "type": "SectionHeader",
+              "caption": "My Favorites Lists"
+            }
+          ]
+        },
+        {
+          "type": "ElementRoot",
+          "title": "My Files",
+          "subtitle": "View User Installed Files",
+          "image": "Myfiles.png",
+          "sections": [
+            {
+              "type": "SectionHeader",
+              "caption": "My Files"
+            }
+          ]
+        },
+        {
+          "type": "ElementRoot",
+          "title": "App Files",
+          "subtitle": "View App Files",
+          "image": "Myfiles.png",
+          "sections": [
+            {
+              "type": "SectionHeader",
+              "caption": "App Files"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "SectionHeader",
+      "caption": "Support / Documentation",
+      "elements": [
+        {
+          "type": "ElementPhone",
+          "title": "KCI IT Service Desk",
+          "subtitle": "03 6362 8495",
+          "other": "0363628495"
+        },
+        {
+          "type": "ElementEmail",
+          "title": "Submit Feedback",
+          "subtitle": "Email Comments & Suggestions",
+          "documentfilename": "servicedesk@kci1.com",
+          "other": "KCI AHS Sales App Feedback"
+        },
+        {
+          "type": "CreditsFooter",
+          "caption": "2011 KCI Licensing, Inc. All rights reserved.\r All trademarks designated herein are\r property to KCI Licensing, Inc., its\r affiliates and/or licensors. 4/11."
+        }
+      ]
+    }
+  ]
+}

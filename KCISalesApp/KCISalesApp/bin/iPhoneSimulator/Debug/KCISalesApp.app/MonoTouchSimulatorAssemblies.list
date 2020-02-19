@@ -1,0 +1,13 @@
+mscorlib.dll
+System.dll
+System.Xml.dll
+System.Core.dll
+Mono.Dynamic.Interpreter.dll
+MBProgressHUD.dll
+Newtonsoft.Json.dll
+System.Runtime.Serialization.dll
+Xamarin.Insights.dll
+PLCrashReporter.dll
+Calabash.dll
+MonoTouch.Dialog-1.dll
+System.Json.dll

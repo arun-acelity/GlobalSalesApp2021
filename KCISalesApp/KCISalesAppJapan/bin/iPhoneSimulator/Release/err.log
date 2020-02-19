@@ -1,0 +1,5 @@
+MonoTouch: Could not install sigaction override, unexpected sigaction implementation.
+2019-09-09 11:56:45.911545+0530 KCISalesAppJapan[14506:4320093] libMobileGestalt MobileGestalt.c:890: MGIsDeviceOneOfType is not supported on this platform.
+2019-09-09 11:56:46.188989+0530 KCISalesAppJapan[14506:4320093] CDNStorageUrl: https://storage101.dfw1.clouddrive.com/v1/MossoCloudFS_182e1c06-cabd-46d9-9f99-4ac130dbec2b
+2019-09-09 11:56:46.316962+0530 KCISalesAppJapan[14506:4320093] -canOpenURL: failed for URL: "tel:0363628495" - error: "This app is not allowed to query for scheme tel"
+2019-09-09 11:56:46.608595+0530 KCISalesAppJapan[14506:4320093] OnActivated

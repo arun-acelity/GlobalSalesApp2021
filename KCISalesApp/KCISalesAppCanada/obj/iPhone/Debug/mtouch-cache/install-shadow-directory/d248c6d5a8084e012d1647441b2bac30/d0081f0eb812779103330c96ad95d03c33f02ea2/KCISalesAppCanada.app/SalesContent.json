@@ -1,0 +1,70 @@
+{
+	"title" : "KCI Sales",
+	"sections" : [
+		{
+			"type" : "SectionHeader",
+			"caption" : "My Favorites / My Files",
+			"elements" : [
+				{
+					"type" : "ElementRoot",
+					"title" : "My Favorites",
+					"subtitle" : "View Files from Favorites Lists",
+					"image" : "Favorited.png",
+					"sections" : [
+						{
+							"type" : "SectionHeader",
+							"caption" : "My Favorites Lists"
+						}
+					]
+				},
+				{
+					"type" : "ElementRoot",
+					"title" : "My Files",
+					"subtitle" : "View User Installed Files",
+					"image" : "Myfiles.png",
+					"sections" : [
+						{
+							"type" : "SectionHeader",
+							"caption" : "My Files"
+						}
+					]
+				},
+				{
+					"type" : "ElementRoot",
+					"title" : "App Files",
+					"subtitle" : "View App Files",
+					"image" : "Myfiles.png",
+					"sections" : [
+						{
+							"type" : "SectionHeader",
+							"caption" : "App Files"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type" : "SectionHeader",
+			"caption" : "Support / Documentation",
+			"elements" : [
+				{
+					"type" : "ElementPhone",
+					"title" : "KCI IT Service Desk",
+					"subtitle" : "Need phone number",
+					"other" : ""
+				},
+				{
+					"type" : "ElementEmail",
+					"title" : "Submit Feedback",
+					"subtitle" : "Email Comments & Suggestions",
+					"documentfilename" : "sfdcus@kci1.com",
+					"other" : "KCI AHS Sales App Feedback"
+				},
+				{
+					"type" : "CreditsFooter",
+					"caption" : "2011 KCI Licensing, Inc. All rights reserved.\r All trademarks designated herein are\r property to KCI Licensing, Inc., its\r affiliates and/or licensors. 4/11."
+				}
+			]
+		}
+	]
+}

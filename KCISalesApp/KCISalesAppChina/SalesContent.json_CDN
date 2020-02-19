@@ -1,0 +1,258 @@
+{
+	"title" : "KCI Sales",
+	"sections" : [
+		{
+			"type" : "SectionHeader",
+			"caption" : "KCI Sales Collateral",
+			"elements" : [
+				{
+					"type" : "ElementRoot",
+					"title" : "KCI Sales Collateral",
+					"subtitle" : "Brochures, PDFs, & Videos",
+					"image" : "AHSThumbnail.png",
+					"sections" : [
+						{
+							"type" : "SectionHeader",
+							"caption" : "AWD",
+							"elements" : [
+								{
+									"type" : "ElementRoot",
+									"title" : "AWD",
+									"image" : "AHSThumbnail.png",
+									"sections" : [
+										{
+											"type" : "SectionHeader",
+											"caption" : "AWD Adaptic Digit",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "ADAPTIC DIGIT",
+													"documentfilename" : "ADAPTIC_DIGIT.pdf",
+													"other" : "nonemailable"
+												},
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "AWD Adaptic Touch",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "ADAPTIC TOUCH 1",
+													"documentfilename" : "ADAPTIC_TOUCH_1.pdf",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "ADAPTIC TOUCH 2",
+													"documentfilename" : "ADAPTIC_TOUCH_2.pdf",
+													"other" : "nonemailable"
+												},
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "AWD Nuderm Alginate",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "NU-DERM Alginate",
+													"documentfilename" : "NU_DERM_Alginate.pdf",
+													"other" : "nonemailable"
+												},
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "AWD-Silvercel HA",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "Silvercel HA",
+													"documentfilename" : "Silvercel_HA.pdf",
+													"other" : "nonemailable"
+												},
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "AWD-Silvercel NA",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "SilvercelPlus NA",
+													"documentfilename" : "SilvercelPlus_NA.pdf",
+													"other" : "nonemailable"
+												},
+											]
+										},
+									]
+								},
+							]
+						},
+						{
+							"type" : "SectionHeader",
+							"caption" : "VAC",
+							"elements" : [
+								{
+									"type" : "ElementRoot",
+									"title" : "VAC",
+									"image" : "AHSThumbnail.png",
+									"sections" : [
+										{
+											"type" : "SectionHeader",
+											"caption" : "VAC Evidence CN",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "Blume P 2008 Apr Diabetes Care RCT",
+													"documentfilename" : "BlumeP_2008_Apr_DiabetesCare_RCT.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Leininger BE 2006",
+													"documentfilename" : "LeiningerBE_2006.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Morykwas MJ",
+													"documentfilename" : "MorykwasMJ.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Stannard JP 2009 Sept J Ortho Trauma Severe Fractures RCT",
+													"documentfilename" : "StannardJP_2009_Sept_JOrthoTrauma_SevereFractures_RCT.pdf"
+												},
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "VAC Therapy",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "ActiVAC Pocket Guideline",
+													"documentfilename" : "ActiVAC_Pocket_Guideline.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "BENEFITS Overview New",
+													"documentfilename" : "BENEFITS_Overview_New.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "InfoVAC Pocket Guideline",
+													"documentfilename" : "InfoVAC_Pocket_Guideline.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Orthopedic Case Series",
+													"documentfilename" : "Orthopedic_Case_Series.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Technology Overview New",
+													"documentfilename" : "Technology_Overview_New.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC Dressing Application Pocket Guideline",
+													"documentfilename" : "VAC_Dressing_Application_Pocket_Guideline.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC Essentials",
+													"documentfilename" : "VAC_Essentials.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC Machanism",
+													"documentfilename" : "VAC_Machanism.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC Patient Booklet",
+													"documentfilename" : "VAC_Patient_Booklet.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC Therapy System",
+													"documentfilename" : "VAC_Therapy_System.pdf"
+												},
+											]
+										},
+									]
+								}
+							]
+						},
+					]
+				}
+			]
+		},
+		{
+			"type" : "SectionHeader",
+			"caption" : "My Favorites / My Files",
+			"elements" : [
+				{
+					"type" : "ElementRoot",
+					"title" : "My Favorites",
+					"subtitle" : "View Files from Favorites Lists",
+					"image" : "Favorited.png",
+					"sections" : [
+						{
+							"type" : "SectionHeader",
+							"caption" : "My Favorites Lists"
+						}
+					]
+				},
+				{
+					"type" : "ElementRoot",
+					"title" : "My Files",
+					"subtitle" : "View User Installed Files",
+					"image" : "Myfiles.png",
+					"sections" : [
+						{
+							"type" : "SectionHeader",
+							"caption" : "My Files"
+						}
+					]
+				},
+				{
+					"type" : "ElementRoot",
+					"title" : "App Files",
+					"subtitle" : "View App Files",
+					"image" : "Myfiles.png",
+					"sections" : [
+						{
+							"type" : "SectionHeader",
+							"caption" : "App Files"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type" : "SectionHeader",
+			"caption" : "Support / Documentation",
+			"elements" : [
+				{
+					"type" : "ElementPhone",
+					"title" : "KCI IT Service Desk",
+					"subtitle" : "4009904848", 
+					"other" : "4009904848"
+				},
+				{
+					"type" : "ElementEmail",
+					"title" : "Submit Feedback",
+					"subtitle" : "Email Comments & Suggestions",
+					"documentfilename" : "servicedesk@kci1.com",
+					"other" : "KCI AHS Sales App Feedback"
+				},
+				{
+					"type" : "CreditsFooter",
+					"caption" : "2011 KCI Licensing, Inc. All rights reserved.\r All trademarks designated herein are\r property to KCI Licensing, Inc., its\r affiliates and/or licensors. 4/11."
+				}
+			]
+		}
+	]
+}

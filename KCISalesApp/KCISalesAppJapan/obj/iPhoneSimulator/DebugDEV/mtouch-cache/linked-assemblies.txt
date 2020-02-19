@@ -1,0 +1,13 @@
+/Users/GustavoGalan/Projects/subversion/mobile/trunk/SalesApp/KCISalesApp/KCISalesAppJapan/obj/iPhoneSimulator/DebugDEV/mtouch-cache/Link/System.dll
+/Users/GustavoGalan/Projects/subversion/mobile/trunk/SalesApp/KCISalesApp/KCISalesAppJapan/obj/iPhoneSimulator/DebugDEV/mtouch-cache/Link/System.Runtime.Serialization.dll
+/Users/GustavoGalan/Projects/subversion/mobile/trunk/SalesApp/KCISalesApp/KCISalesAppJapan/obj/iPhoneSimulator/DebugDEV/mtouch-cache/Link/System.Core.dll
+/Users/GustavoGalan/Projects/subversion/mobile/trunk/SalesApp/KCISalesApp/KCISalesAppJapan/obj/iPhoneSimulator/DebugDEV/mtouch-cache/Link/Newtonsoft.Json.dll
+/Users/GustavoGalan/Projects/subversion/mobile/trunk/SalesApp/KCISalesApp/KCISalesAppJapan/obj/iPhoneSimulator/DebugDEV/mtouch-cache/Link/MBProgressHUD.dll
+/Users/GustavoGalan/Projects/subversion/mobile/trunk/SalesApp/KCISalesApp/KCISalesAppJapan/obj/iPhoneSimulator/DebugDEV/mtouch-cache/Link/KCISalesAppJapan.exe
+/Users/GustavoGalan/Projects/subversion/mobile/trunk/SalesApp/KCISalesApp/KCISalesAppJapan/obj/iPhoneSimulator/DebugDEV/mtouch-cache/Link/PLCrashReporter.dll
+/Users/GustavoGalan/Projects/subversion/mobile/trunk/SalesApp/KCISalesApp/KCISalesAppJapan/obj/iPhoneSimulator/DebugDEV/mtouch-cache/Link/Xamarin.Insights.dll
+/Users/GustavoGalan/Projects/subversion/mobile/trunk/SalesApp/KCISalesApp/KCISalesAppJapan/obj/iPhoneSimulator/DebugDEV/mtouch-cache/Link/monotouch.dll
+/Users/GustavoGalan/Projects/subversion/mobile/trunk/SalesApp/KCISalesApp/KCISalesAppJapan/obj/iPhoneSimulator/DebugDEV/mtouch-cache/Link/mscorlib.dll
+/Users/GustavoGalan/Projects/subversion/mobile/trunk/SalesApp/KCISalesApp/KCISalesAppJapan/obj/iPhoneSimulator/DebugDEV/mtouch-cache/Link/System.Json.dll
+/Users/GustavoGalan/Projects/subversion/mobile/trunk/SalesApp/KCISalesApp/KCISalesAppJapan/obj/iPhoneSimulator/DebugDEV/mtouch-cache/Link/MonoTouch.Dialog-1.dll
+/Users/GustavoGalan/Projects/subversion/mobile/trunk/SalesApp/KCISalesApp/KCISalesAppJapan/obj/iPhoneSimulator/DebugDEV/mtouch-cache/Link/Calabash.dll

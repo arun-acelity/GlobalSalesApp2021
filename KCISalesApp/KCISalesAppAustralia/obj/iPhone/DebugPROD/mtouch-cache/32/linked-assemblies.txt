@@ -1,0 +1,15 @@
+/Users/GustavoGalan/Projects/subversion/mobile/trunk/SalesApp/KCISalesApp/KCISalesAppAustralia/obj/iPhone/DebugPROD/mtouch-cache/32/Link/System.Runtime.Serialization.dll
+/Users/GustavoGalan/Projects/subversion/mobile/trunk/SalesApp/KCISalesApp/KCISalesAppAustralia/obj/iPhone/DebugPROD/mtouch-cache/32/Link/System.dll
+/Users/GustavoGalan/Projects/subversion/mobile/trunk/SalesApp/KCISalesApp/KCISalesAppAustralia/obj/iPhone/DebugPROD/mtouch-cache/32/Link/Mono.Dynamic.Interpreter.dll
+/Users/GustavoGalan/Projects/subversion/mobile/trunk/SalesApp/KCISalesApp/KCISalesAppAustralia/obj/iPhone/DebugPROD/mtouch-cache/32/Link/Newtonsoft.Json.dll
+/Users/GustavoGalan/Projects/subversion/mobile/trunk/SalesApp/KCISalesApp/KCISalesAppAustralia/obj/iPhone/DebugPROD/mtouch-cache/32/Link/PLCrashReporterUnifiedBinding.dll
+/Users/GustavoGalan/Projects/subversion/mobile/trunk/SalesApp/KCISalesApp/KCISalesAppAustralia/obj/iPhone/DebugPROD/mtouch-cache/32/Link/System.Net.Http.dll
+/Users/GustavoGalan/Projects/subversion/mobile/trunk/SalesApp/KCISalesApp/KCISalesAppAustralia/obj/iPhone/DebugPROD/mtouch-cache/32/Link/MBProgressHUD.dll
+/Users/GustavoGalan/Projects/subversion/mobile/trunk/SalesApp/KCISalesApp/KCISalesAppAustralia/obj/iPhone/DebugPROD/mtouch-cache/32/Link/Calabash.dll
+/Users/GustavoGalan/Projects/subversion/mobile/trunk/SalesApp/KCISalesApp/KCISalesAppAustralia/obj/iPhone/DebugPROD/mtouch-cache/32/Link/KCISalesAppAustralia.exe
+/Users/GustavoGalan/Projects/subversion/mobile/trunk/SalesApp/KCISalesApp/KCISalesAppAustralia/obj/iPhone/DebugPROD/mtouch-cache/32/Link/Xamarin.iOS.dll
+/Users/GustavoGalan/Projects/subversion/mobile/trunk/SalesApp/KCISalesApp/KCISalesAppAustralia/obj/iPhone/DebugPROD/mtouch-cache/32/Link/Xamarin.Insights.dll
+/Users/GustavoGalan/Projects/subversion/mobile/trunk/SalesApp/KCISalesApp/KCISalesAppAustralia/obj/iPhone/DebugPROD/mtouch-cache/32/Link/System.Core.dll
+/Users/GustavoGalan/Projects/subversion/mobile/trunk/SalesApp/KCISalesApp/KCISalesAppAustralia/obj/iPhone/DebugPROD/mtouch-cache/32/Link/mscorlib.dll
+/Users/GustavoGalan/Projects/subversion/mobile/trunk/SalesApp/KCISalesApp/KCISalesAppAustralia/obj/iPhone/DebugPROD/mtouch-cache/32/Link/System.Json.dll
+/Users/GustavoGalan/Projects/subversion/mobile/trunk/SalesApp/KCISalesApp/KCISalesAppAustralia/obj/iPhone/DebugPROD/mtouch-cache/32/Link/MonoTouch.Dialog-1.dll

@@ -1,0 +1,13 @@
+/Users/GustavoGalan/Projects/TFS2008Projects/XamarinMobileApps/AHSSalesApp/KCISalesAppCanada/obj/iPhone/Debug/mtouch-cache/Link/System.Core.dll
+/Users/GustavoGalan/Projects/TFS2008Projects/XamarinMobileApps/AHSSalesApp/KCISalesAppCanada/obj/iPhone/Debug/mtouch-cache/Link/KCISalesAppCanada.exe
+/Users/GustavoGalan/Projects/TFS2008Projects/XamarinMobileApps/AHSSalesApp/KCISalesAppCanada/obj/iPhone/Debug/mtouch-cache/Link/MonoTouch.Dialog-1.dll
+/Users/GustavoGalan/Projects/TFS2008Projects/XamarinMobileApps/AHSSalesApp/KCISalesAppCanada/obj/iPhone/Debug/mtouch-cache/Link/mscorlib.dll
+/Users/GustavoGalan/Projects/TFS2008Projects/XamarinMobileApps/AHSSalesApp/KCISalesAppCanada/obj/iPhone/Debug/mtouch-cache/Link/monotouch.dll
+/Users/GustavoGalan/Projects/TFS2008Projects/XamarinMobileApps/AHSSalesApp/KCISalesAppCanada/obj/iPhone/Debug/mtouch-cache/Link/Xamarin.Insights.dll
+/Users/GustavoGalan/Projects/TFS2008Projects/XamarinMobileApps/AHSSalesApp/KCISalesAppCanada/obj/iPhone/Debug/mtouch-cache/Link/PLCrashReporter.dll
+/Users/GustavoGalan/Projects/TFS2008Projects/XamarinMobileApps/AHSSalesApp/KCISalesAppCanada/obj/iPhone/Debug/mtouch-cache/Link/Calabash.dll
+/Users/GustavoGalan/Projects/TFS2008Projects/XamarinMobileApps/AHSSalesApp/KCISalesAppCanada/obj/iPhone/Debug/mtouch-cache/Link/System.Json.dll
+/Users/GustavoGalan/Projects/TFS2008Projects/XamarinMobileApps/AHSSalesApp/KCISalesAppCanada/obj/iPhone/Debug/mtouch-cache/Link/MBProgressHUD.dll
+/Users/GustavoGalan/Projects/TFS2008Projects/XamarinMobileApps/AHSSalesApp/KCISalesAppCanada/obj/iPhone/Debug/mtouch-cache/Link/Newtonsoft.Json.dll
+/Users/GustavoGalan/Projects/TFS2008Projects/XamarinMobileApps/AHSSalesApp/KCISalesAppCanada/obj/iPhone/Debug/mtouch-cache/Link/System.dll
+/Users/GustavoGalan/Projects/TFS2008Projects/XamarinMobileApps/AHSSalesApp/KCISalesAppCanada/obj/iPhone/Debug/mtouch-cache/Link/System.Runtime.Serialization.dll

@@ -1,0 +1,11 @@
+MonoTouch: Could not install sigaction override, unexpected sigaction implementation.
+2019-05-20 18:52:50.473276+0530 KCISalesAppAustralia[60406:1831113] CDNStorageUrl: https://storage101.dfw1.clouddrive.com/v1/MossoCloudFS_182e1c06-cabd-46d9-9f99-4ac130dbec2b
+2019-05-20 18:52:50.629379+0530 KCISalesAppAustralia[60406:1831113] -canOpenURL: failed for URL: "tel:1800080214" - error: "This app is not allowed to query for scheme tel"
+2019-05-20 18:52:51.095641+0530 KCISalesAppAustralia[60406:1831113] OnActivated
+2019-05-20 18:52:56.070930+0530 KCISalesAppAustralia[60406:1831234] CDNContainer: iOS_KCI_AUS_App
+2019-05-20 18:52:57.088329+0530 KCISalesAppAustralia[60406:1831113] -canOpenURL: failed for URL: "tel:1800080214" - error: "This app is not allowed to query for scheme tel"
+2019-05-20 18:53:15.793990+0530 KCISalesAppAustralia[60406:1831113] Adjust UIScreen: {X=0,Y=0,Width=375,Height=667}
+2019-05-20 18:53:15.794160+0530 KCISalesAppAustralia[60406:1831113] NavigationBar:   {X=0,Y=20,Width=375,Height=44}
+2019-05-20 18:53:19.197824+0530 KCISalesAppAustralia[60406:1831246] CDNContainer: iOS_KCI_AUS_App
+2019-05-20 18:53:21.248430+0530 KCISalesAppAustralia[60406:1831113] Adjust UIScreen: {X=0,Y=0,Width=375,Height=667}
+2019-05-20 18:53:21.248727+0530 KCISalesAppAustralia[60406:1831113] NavigationBar:   {X=0,Y=20,Width=375,Height=44}

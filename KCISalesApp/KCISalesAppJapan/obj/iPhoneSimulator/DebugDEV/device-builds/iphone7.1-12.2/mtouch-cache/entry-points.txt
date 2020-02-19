@@ -1,0 +1,37 @@
+Function=xamarin_timezone_get_data
+	/Users/developer/Documents/SalesAppNew/KCISalesApp/KCISalesAppJapan/obj/iPhoneSimulator/DebugDEV/device-builds/iphone7.1-12.2/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/developer/Documents/SalesAppNew/KCISalesApp/KCISalesAppJapan/obj/iPhoneSimulator/DebugDEV/device-builds/iphone7.1-12.2/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/developer/Documents/SalesAppNew/KCISalesApp/KCISalesAppJapan/obj/iPhoneSimulator/DebugDEV/device-builds/iphone7.1-12.2/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/developer/Documents/SalesAppNew/KCISalesApp/KCISalesAppJapan/obj/iPhoneSimulator/DebugDEV/device-builds/iphone7.1-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/developer/Documents/SalesAppNew/KCISalesApp/KCISalesAppJapan/obj/iPhoneSimulator/DebugDEV/device-builds/iphone7.1-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/developer/Documents/SalesAppNew/KCISalesApp/KCISalesAppJapan/obj/iPhoneSimulator/DebugDEV/device-builds/iphone7.1-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/developer/Documents/SalesAppNew/KCISalesApp/KCISalesAppJapan/obj/iPhoneSimulator/DebugDEV/device-builds/iphone7.1-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_start_wwan
+	/Users/developer/Documents/SalesAppNew/KCISalesApp/KCISalesAppJapan/obj/iPhoneSimulator/DebugDEV/device-builds/iphone7.1-12.2/mtouch-cache/1-Link/System.dll
+Function=CreateZStream
+	/Users/developer/Documents/SalesAppNew/KCISalesApp/KCISalesAppJapan/obj/iPhoneSimulator/DebugDEV/device-builds/iphone7.1-12.2/mtouch-cache/1-Link/System.dll
+Function=CloseZStream
+	/Users/developer/Documents/SalesAppNew/KCISalesApp/KCISalesAppJapan/obj/iPhoneSimulator/DebugDEV/device-builds/iphone7.1-12.2/mtouch-cache/1-Link/System.dll
+Function=Flush
+	/Users/developer/Documents/SalesAppNew/KCISalesApp/KCISalesAppJapan/obj/iPhoneSimulator/DebugDEV/device-builds/iphone7.1-12.2/mtouch-cache/1-Link/System.dll
+Function=ReadZStream
+	/Users/developer/Documents/SalesAppNew/KCISalesApp/KCISalesAppJapan/obj/iPhoneSimulator/DebugDEV/device-builds/iphone7.1-12.2/mtouch-cache/1-Link/System.dll
+Function=WriteZStream
+	/Users/developer/Documents/SalesAppNew/KCISalesApp/KCISalesAppJapan/obj/iPhoneSimulator/DebugDEV/device-builds/iphone7.1-12.2/mtouch-cache/1-Link/System.dll
+ObjectiveCClass=OBJC_CLASS_$_MBProgressHUD
+	/Users/developer/Documents/SalesAppNew/KCISalesApp/KCISalesAppJapan/obj/iPhoneSimulator/DebugDEV/device-builds/iphone7.1-12.2/mtouch-cache/1-Link/MBProgressHUD.dll
+ObjectiveCClass=OBJC_CLASS_$_MBRoundProgressView
+	/Users/developer/Documents/SalesAppNew/KCISalesApp/KCISalesAppJapan/obj/iPhoneSimulator/DebugDEV/device-builds/iphone7.1-12.2/mtouch-cache/1-Link/MBProgressHUD.dll
+ObjectiveCClass=OBJC_CLASS_$_MBBarProgressView
+	/Users/developer/Documents/SalesAppNew/KCISalesApp/KCISalesAppJapan/obj/iPhoneSimulator/DebugDEV/device-builds/iphone7.1-12.2/mtouch-cache/1-Link/MBProgressHUD.dll
+Function=mono_pmip
+Function=xamarin_dyn_objc_msgSend
+Function=xamarin_dyn_objc_msgSendSuper
+Function=xamarin_dyn_objc_msgSend_stret
+Function=xamarin_dyn_objc_msgSendSuper_stret

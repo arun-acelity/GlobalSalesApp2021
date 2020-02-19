@@ -1,0 +1,1031 @@
+{
+	"title" : "KCI Sales",
+	"sections" : [
+		{
+			"type" : "SectionHeader",
+			"caption" : "Sales Collateral",
+			"elements" : [
+				{
+					"type" : "ElementRoot",
+					"title" : "KCI Sales Collateral",
+					"subtitle" : "Brochures, PDFs, & Videos",
+					"image" : "AHSThumbnail.png",
+					"sections" : [
+						{
+							"type" : "SectionHeader",
+							"caption" : "Brochures & PDFs",
+							"elements" : [
+								{
+									"type" : "ElementRoot",
+									"title" : "KCI Sales Collateral",
+									"image" : "AHSThumbnail.png",
+									"sections" : [
+										{
+											"type" : "SectionHeader",
+											"caption" : "ABThera",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "Frazee ABTHERA Clinical Summary",
+													"subtitle" : "",
+													"documentfilename" : "Frazee_ABTHERA_Clinical_Summary.pdf"
+												},
+												{	 
+													"type" : "ElementDocument",
+													"title" : "ABTAC ABThera Clinical Summary",
+													"subtitle" : "",
+													"documentfilename" : "ABTAC_ABThera_Clinical_Summary.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "ABThera Economic Benefits",
+													"subtitle" : "",
+													"documentfilename" : "ABThera_economic_benefits.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "ABThera SensaTrac",
+													"subtitle" : "",
+													"documentfilename" : "ABThera_SensaTrac.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "ABThera Brochure",
+													"subtitle" : "",
+													"documentfilename" : "ABTAC_Brochure.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "ABThera Case Series Brochure",
+													"subtitle" : "",
+													"documentfilename" : "ABThera_Case_Series_Broch.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "ABThera Clinical Guidelines",
+													"subtitle" : "",
+													"documentfilename" : "ABTheraClinicalGuidelines.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "ABThera Clinical Summary",
+													"subtitle" : "",
+													"documentfilename" : "ABThera_Clinical_Summary.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "ABThera Monograph Booklet",
+													"subtitle" : "",
+													"documentfilename" : "ABThera_Monograph_Booklet.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "ABThera Sell Sheet",
+													"subtitle" : "",
+													"documentfilename" : "ABThera_Sell_Sheet.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "ABThera OR Poster",
+													"subtitle" : "",
+													"documentfilename" : "ABThera_OR_Poster.pdf"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "CelluTome",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "CelluTome Brochure",
+													"subtitle" : "",
+													"documentfilename" : "CelluTome_Brochure.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "CelluTome Monograph",
+													"subtitle" : "",
+													"documentfilename" : "CelluTome_Monograph.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Epidermal Skin Grafting Poster",
+													"subtitle" : "",
+													"documentfilename" : "Epidermal_Skin_Grafting_Poster.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "CT Case Study Book",
+													"subtitle" : "",
+													"documentfilename" : "CT_Case_Study_Book.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "CT Data Collection Form",
+													"subtitle" : "",
+													"documentfilename" : "CT_Data_Collection_Form.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "CT Patient Tri-fold Brochure",
+													"subtitle" : "",
+													"documentfilename" : "CT_Patient_Tri_Fold_Brochure.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "CT Patient Information Sheet",
+													"subtitle" : "",
+													"documentfilename" : "CT_Patient_Information_Sheet.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "CT Kirsner Best Practices",
+													"subtitle" : "CT Kirsner Best Practices Guidelines",
+													"documentfilename" : "CT_Kirsner_Best_Practice_Guidelines.pdf"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "Nanova",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "Nanova Brochure",
+													"subtitle" : "Nov 2016",
+													"documentfilename" : "NANOVA_brochure_Nov2016.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Australian Nanova Case Studies",
+													"subtitle" : "Studies in Wounds International",
+													"documentfilename" : "Australian_Nanova_Cases_Studies_in_Wounds_International.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Nanova Case Studies",
+													"subtitle" : "",
+													"documentfilename" : "Nanova_Case_Studies_Oct_2015.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Nanova Patient FAQs",
+													"subtitle" : "",
+													"documentfilename" : "Nanova_Patient_FAQs.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Nanova Round Table",
+													"subtitle" : "",
+													"documentfilename" : "Nanova_Round_Table.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Nanova Tips Poster",
+													"subtitle" : "",
+													"documentfilename" : "Nanova_Tips_Poster.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "NANOVA UK Natal Cleft",
+													"subtitle" : "UK Case Study Natal Cleft",
+													"documentfilename" : "NANOVA_UK_Case_Study_Natal_Cleft.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "NANOVA UK Long-Standing Burn",
+													"subtitle" : "UK Case Study Long-Standing Burn",
+													"documentfilename" : "NANOVA_UK_Case_Study_LongStanding_Burn_Case.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "NANOVA UK Breast Sinus",
+													"subtitle" : "UK Case Breast Sinus",
+													"documentfilename" : "NANOVA_UK_Case_Breast_Sinus.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "NANOVA UK Blunt Trauma",
+													"subtitle" : "UK Case Study Blunt Trauma",
+													"documentfilename" : "NANOVA_UK_Case_Study_Blunt_Trauma_.pdf"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "Prevena",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "Prevena OR Poster Brochure",
+													"subtitle" : "",
+													"documentfilename" : "Prevena_OR_Poster.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Prevena Case Studies",
+													"subtitle" : "",
+													"documentfilename" : "Prevena_Case_Studies.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Prevena vs PICO",
+													"subtitle" : "Demo",
+													"documentfilename" : "Prevena_vs_PICO_demo.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Prevena Plus Brochure",
+													"subtitle" : "",
+													"documentfilename" : "PREVENA_PLUS_brochure.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Prevena Family Brochure",
+													"subtitle" : "",
+													"documentfilename" : "PREVENA_family_brochure.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Prevena Brochure",
+													"subtitle" : "",
+													"documentfilename" : "PREVENA_brochure.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Prevena Plus Evidence Brochure",
+													"subtitle" : "",
+													"documentfilename" : "PREVENA_PLUS_Evidence_Brochure.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Prevena Evidence Comparison",
+													"subtitle" : "",
+													"documentfilename" : "PrevenaEvidenceComparison.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Prevena Monograph Booklet",
+													"subtitle" : "",
+													"documentfilename" : "Prevena_Monograph_Booklet.pdf"
+												}
+											] 
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "Prevena Clinical Summary",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "Closed Incision Guidelines",
+													"subtitle" : "Kaiser",
+													"documentfilename" : "Closed_Incision_Guidelines_Kaiser.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "PREVENA Article Summary",
+													"subtitle" : "Cooper",
+													"documentfilename" : "PREVENA_Article_Summary_Cooper.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "PREVENA Article Summary",
+													"subtitle" : "Gabriel Postmastectomy",
+													"documentfilename" : "PREVENA_Article_Summary_Gabriel_postmastectomy.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "PREVENA Clinical Summary",
+													"subtitle" : "Blackham",
+													"documentfilename" : "PREVENA_Clinical_Summary_Blackham.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Prevena Clinical Summary ",
+													"subtitle" : "Grauhan",
+													"documentfilename" : "Prevena_Clinical_Summary_Grauhan.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "PREVENA Clinical Summary",
+													"subtitle" : "Sevyan",
+													"documentfilename" : "PREVENA_Clinical_Summary_Sevyan.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Prevena Clinical Summary",
+													"subtitle" : "Swift",
+													"documentfilename" : "Prevena_Clinical_Summary_Swift.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Prevena_Economic_Summary",
+													"subtitle" : "Conde Green",
+													"documentfilename" : "Prevena_Economic_Summary_Conde_Green.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Prevena Economic Summary",
+													"subtitle" : "DiMuzio PREVENA Groin",
+													"documentfilename" : "Prevena_Economic_Summary_DiMuzio_PREVENA_groin.pdf"
+												},
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "SNAP Therapy System",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "SNAP Brochure",
+													"subtitle" : "",
+													"documentfilename" : "ACE1117218_PRA_PM_AU_00022_12_17_SNAP_core_brochure_web_file2.pdf"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "VAC Therapy",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC Therapy Clinical Guidelines",
+													"subtitle" : "",
+													"documentfilename" : "Clinical_Guidelines.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC Therapy Sternal Clinical Guidelines",
+													"subtitle" : "",
+													"documentfilename" : "VACTherapySternalClinicalGuidelines.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "ActiVAC Basic Use Brochure",
+													"subtitle" : "",
+													"documentfilename" : "ActiVAC_Basic_Use_Broch.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Discharge Pack Checklist",
+													"subtitle" : "",
+													"documentfilename" : "Discharge_Pack_Chklist.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "InfoVAC Brochure",
+													"subtitle" : "",
+													"documentfilename" : "InfoVAC_Brochure.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "INFOVAC Troubleshooting Card",
+													"subtitle" : "",
+													"documentfilename" : "INFOVAC_Troubleshooting_Card.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Patient Info Brochure",
+													"subtitle" : "",
+													"documentfilename" : "Patient_Info_Brochure.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Silver Brochure",
+													"subtitle" : "",
+													"documentfilename" : "Silver_Brochure.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC Continuum of Care Booklet",
+													"subtitle" : "",
+													"documentfilename" : "VAC_Continuum_Of_Care_Booklet.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC SensaTRAC Essential",
+													"subtitle" : "",
+													"documentfilename" : "VAC_SensaTRAC_Essential.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC Differentiation Brochure",
+													"subtitle" : "",
+													"documentfilename" : "VAC_Differentiation_Brochure.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "ACTIVAC Trouble Shooting Guide",
+													"subtitle" : "",
+													"documentfilename" : "ACTIVAC_Trouble_Shooting_Guide.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "ActiVAC Brochure",
+													"subtitle" : "2016",
+													"documentfilename" : "ActiVAC_Brochure_2016.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC Bridge XG",
+													"subtitle" : "Poster Brochure",
+													"documentfilename" : "VAC_Bridge_XG_poster_brochure.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC Competitive Brochure",
+													"subtitle" : "",
+													"documentfilename" : "VAC_Competitive_Brochure.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC Simplace EX Product Flyer",
+													"subtitle" : "",
+													"documentfilename" : "VAC_Simplace_EX_Product_flyer.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC WhiteFoam Brochure",
+													"subtitle" : "",
+													"documentfilename" : "VAC_WhiteFoam_Brochure.pdf"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "VAC Therapy Dressing Techniques",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC Therapy Basic Dressing Change Guide",
+													"subtitle" : "",
+													"documentfilename" : "VAC_Therapy_Basic_Dressing_Change_Guide.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC Dressing Tech Guide",
+													"subtitle" : "Bridging Away",
+													"documentfilename" : "VAC_Dressing_Tech_Guide-Bridging_away.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC Dressing Tech Guide",
+													"subtitle" : "Bridging Between Two Wounds",
+													"documentfilename" : "VAC_Dressing_Tech_Guide-Bridging_between_two_wounds.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC Dressing Tech Guide",
+													"subtitle" : "Dressing Smaller Wounds",
+													"documentfilename" : "VAC_Dressing_Tech_Guide-Dressing_Smaller_wounds.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC GranuFoam Bridge Dressing Tips",
+													"subtitle" : "",
+													"documentfilename" : "VAC_GranuFoam_Bridge_Dressing_Tips.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC Dressing Tech Guide Simplace",
+													"subtitle" : "",
+													"documentfilename" : "VAC_Dressing_Tech_Guide_Simplace.pdf"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "VAC VERAFLO Case Studies",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC VERAFLO and Prontosan",
+													"subtitle" : "Case Series Booklet",
+													"documentfilename" : "VAC_Ulta_Case_Series_Booklet.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Cleanse Choice",
+													"subtitle" : "Case Study Sacral Pressure Ulcer",
+													"documentfilename" : "Cleanse_Choice_Case_Study_sacral_pressure_ulcer.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Cleanse Choice",
+													"subtitle" : "Case Study Flank Pressure Ulcer",
+													"documentfilename" : "cleanse_choice_Case_Study_Flank_Pressure_Ulcer_DSL16-1234.US_REV12-16.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Cleanse Choice",
+													"subtitle" : "Case Study Surgical Dehiscence",
+													"documentfilename" : "cleanse_choice_Case_Study_Surgical_Dehiscence.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Cleanse Choice",
+													"subtitle" : "Case Study Traumatic Wound",
+													"documentfilename" : "cleanse_choice_Case_Study_traumatic_wound.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC VERAFLO 2014",
+													"subtitle" : "Collection Case Studies",
+													"documentfilename" : "VAC_VERAFLO_2014_Collection_Case_Studies.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VeraFlo Case Study",
+													"subtitle" : "Lower Extremity",
+													"documentfilename" : "VeraFlo_Case_Study_Lower_Extremity.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VeraFlo Case Study",
+													"subtitle" : "Study Abdominal",
+													"documentfilename" : "VeraFlo_Case_Study_Abdominal.pdf"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "VAC VERAFLO Clinical Paper Summaries",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "Kim-Comparison",
+													"subtitle" : "Normal Saline and PHMB Clinical Summary",
+													"documentfilename" : "VeraFlo_Clinical_Summary_Comparison_Normal_Saline_PHMB.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Kim-Georgetown",
+													"subtitle" : "Clinical Summary 2014",
+													"documentfilename" : "Georgetown_Clinical_Summary_2014.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Gabriel-Comparsion",
+													"subtitle" : "VAC Veraflo Saline PHMB Clinical Summary",
+													"documentfilename" : "Gabriel-Comparsion_VAC_Veraflo_saline_PHMB_ClinicalSummary.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Teot Cleanse Choice",
+													"subtitle" : "",
+													"documentfilename" : "VeraFlo_Teot_Cleanse_Choice_clinical_summary.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Case Summary Brinkert",
+													"subtitle" : "",
+													"documentfilename" : "VERAFLO_Case_Summary_Brinkert.pdf"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "VAC ULTA",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC Ulta OR Poster",
+													"subtitle" : "",
+													"documentfilename" : "VAC_Ulta_OR_Poster.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Ulta Troubleshooting Guide",
+													"subtitle" : "",
+													"documentfilename" : "Ulta_Troubleshooting_Guide.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC Ulta Brochure",
+													"subtitle" : "",
+													"documentfilename" : "VAC_Ulta_Brochure.pdf"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "VAC VERAFLO",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC VERAFLO Therapy Guide",
+													"subtitle" : "",
+													"documentfilename" : "VAC_VERAFLO_Therapy_Guide.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Ulta",
+													"subtitle" : "CLEANSE CHOICE Brochure",
+													"documentfilename" : "CLEANSE_CHOICE_brochure.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Ulta-VeraFlo Monograph Booklet",
+													"subtitle" : "",
+													"documentfilename" : "Ulta-VeraFlo_Monograph_Booklet.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC VeraFlo Topical Solutions",
+													"subtitle" : "",
+													"documentfilename" : "VAC_VeraFlo_Topical_Solutions.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC VeraFlo BioBurden Brochure",
+													"subtitle" : "",
+													"documentfilename" : "VAC_VeraFlo_BioBurden_Broch.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC VERAFLO Dressing Selection Guide",
+													"subtitle" : "",
+													"documentfilename" : "VAC_VERAFLO_Dressing_Selection_Guide.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC Ulta-VeraFlo Therapy OR Cards",
+													"subtitle" : "",
+													"documentfilename" : "VAC_Ulta-VeraFlo_Therapy_OR_Cards.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VeraFlo Complex Wounds AU",
+													"subtitle" : "",
+													"documentfilename" : "VeraFlo_Complex_Wounds_AU.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "CLEANSE CHOICE Application Summary",
+													"subtitle" : "",
+													"documentfilename" : "CLEANSE_CHOICE_Application_Summary.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Prontosan and VERAFLO Evidence",
+													"subtitle" : "",
+													"documentfilename" : "Prontosan_And_VERAFLOEvidence.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Solution Capacity of VAC Veraflo Foams",
+													"subtitle" : "",
+													"documentfilename" : "Solution_capacity_of_VAC_Veraflo_Foams.pdf"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "VAC Via",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC Via Application Guide",
+													"subtitle" : "",
+													"documentfilename" : "VAC_Via_App_Guide.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC Via Brochure",
+													"subtitle" : "",
+													"documentfilename" : "VAC_VIA_Brochure.pdf"
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type" : "SectionHeader",
+							"caption" : "Videos",
+							"elements" : [
+								{
+									"type" : "ElementRoot",
+									"title" : "Videos",
+									"image" : "Video.png",
+									"sections" : [
+										{
+											"type" : "SectionHeader",
+											"caption" : "Videos",
+											"elements" : [
+												{	
+													"type" : "ElementVideo", 
+													"title" : "NPT System | ABThera Mechanism of Action",
+													"image" : "Video.png",
+													"documentfilename" : "NPTSystemABTheraMechanismOfAction.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo", 
+													"title" : "Prevena Animation Video - Mechanism of Action",
+													"image" : "Video.png",
+													"documentfilename" : "PrevenaAnimationVideoMechanismOfAction.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo", 
+													"title" : "Surgeon Overview: Prevena™ Therapy",
+													"image" : "Video.png",
+													"documentfilename" : "SurgeonOverviewPrevenaTherapy.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo", 
+													"title" : "CelluTome Application",
+													"image" : "Video.png",
+													"documentfilename" : "CelluTomeApplication.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo", 
+													"title" : "Bioskills",
+													"subtitle" : "3 Minute Version",
+													"image" : "Video.png",
+													"documentfilename" : "Bioskills_3_minute_version.mov",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo", 
+													"title" : "CELLUTOME MOA",
+													"subtitle" : "",
+													"image" : "Video.png",
+													"documentfilename" : "CELLUTOME_MOA_DSL_15_0072.US.REV 3_15.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo", 
+													"title" : "CLEANSE CHOICE MOA",
+													"subtitle" : "",
+													"image" : "Video.png",
+													"documentfilename" : "CLEANSE_CHOICE_MOA.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo", 
+													"title" : "PREVENA and PICO",
+													"subtitle" : "",
+													"image" : "Video.png",
+													"documentfilename" : "PREVENA_and_PICO.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo", 
+													"title" : "V.A.C. Therpay",
+													"subtitle" : "Basic Application",
+													"image" : "Video.png",
+													"documentfilename" : "V.A.C._Therapy_basic_Application.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo", 
+													"title" : "V.A.C. VERAFLO System",
+													"subtitle" : "",
+													"image" : "Video.png",
+													"documentfilename" : "V.A.C._VERAFLO_System.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo", 
+													"title" : "V.A.C. Therpay MOA",
+													"subtitle" : "",
+													"image" : "Video.png",
+													"documentfilename" : "VA.C._Therapy_MOA.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo", 
+													"title" : "Nanova Fluid Handling Demonstration",
+													"subtitle" : "",
+													"image" : "Video.png",
+													"documentfilename" : "Nanova_Fluid_Handling_Demonstration.m4v",
+													"other" : "nonemailable"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "YouTube Channel Link",
+											"elements" : [
+												{	
+													"type" : "ElementWebView",
+													"title" : "YouTube Channel Link",
+													"image" : "Youtube.png",
+													"other" : "http://www.youtube.com/kciwoundcare"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type" : "ElementRoot",
+					"title" : "Systagenix Sales Collateral",
+					"subtitle" : "Brochures, PDFs, & Videos",
+					"image" : "AHSThumbnail.png",
+					"sections" : [
+						{
+							"type" : "SectionHeader",
+							"caption" : "Brochures & PDFs",
+							"elements" : [
+								{	
+									"type" : "ElementDocument",
+									"title" : "Dressing selection specific to skin tears",
+									"subtitle" : "AWD Skin Tears Protocol",
+									"documentfilename" : "PRA1677_AWD_Skin_tears_protocol.pdf"
+								},
+								{	
+									"type" : "ElementDocument",
+									"title" : "Adaptic",
+									"subtitle" : "Detail Aid",
+									"documentfilename" : "4240_ADAPTIC_DA_AUS_AW_NC.pdf"
+								},
+								{	
+									"type" : "ElementDocument",
+									"title" : "Adaptic",
+									"subtitle" : "Leave Piece",
+									"documentfilename" : "4241_ADAPTIC_LP_AUS_AW_NC.pdf"
+								},
+								{	
+									"type" : "ElementDocument",
+									"title" : "Tielle Xtra",
+									"subtitle" : "Leave Piece",
+									"documentfilename" : "4242_TIELLE_XTRA_LP_AUS_AW_NC.pdf"
+								},
+								{	
+									"type" : "ElementDocument",
+									"title" : "Tielle Plus",
+									"subtitle" : "Leave Piece",
+									"documentfilename" : "4243_TIELLE_PLUS_LP_AUS_AW_NC.pdf"
+								},
+								{	
+									"type" : "ElementDocument",
+									"title" : "Silvercel NA",
+									"subtitle" : "Detail Aid",
+									"documentfilename" : "4244_SILVERCEL_NA_DA_AUS_AW_NC.pdf"
+								},
+								{	
+									"type" : "ElementDocument",
+									"title" : "Silvercel NA",
+									"subtitle" : "Leave Piece",
+									"documentfilename" : "4245_SILVERCEL_NA_LP_AUS_AW_NC.pdf"
+								},
+								{	
+									"type" : "ElementDocument",
+									"title" : "Silvercel",
+									"subtitle" : "Detail Aid",
+									"documentfilename" : "4246_SILVERCEL DA_AUS_AW_NC.pdf"
+								},
+								{	
+									"type" : "ElementDocument",
+									"title" : "Silvercel",
+									"subtitle" : "Leave Piece",
+									"documentfilename" : "4247_SILVERCEL LP_AUS_AW_NC.pdf"
+								},
+								{	
+									"type" : "ElementDocument",
+									"title" : "Silvercel NA",
+									"subtitle" : "User Guide",
+									"documentfilename" : "4248_SILVERCEL_NON_ADHERENT_USER_GUIDE_AUS_AW_NC.pdf"
+								},
+								{	
+									"type" : "ElementDocument",
+									"title" : "Promogran",
+									"documentfilename" : "4249_PROMOGRAN_P_PRISMA_LP_4pp_AUS_AW_NC.pdf"
+								},
+								{	
+									"type" : "ElementDocument",
+									"title" : "Inadine",
+									"subtitle" : "Detail Aid",
+									"documentfilename" : "4250_Inadine_DA_AUS_AW_NC.pdf"
+								},
+								{	
+									"type" : "ElementDocument",
+									"title" : "Inadine",
+									"subtitle" : "Detail Leave Piece",
+									"documentfilename" : "4251_Inadine_LP_AUS_AW_NC.pdf"
+								},
+								{	
+									"type" : "ElementDocument",
+									"title" : "Actisorb +25",
+									"subtitle" : "Detail Aid",
+									"documentfilename" : "4258_ACTISORB_PLUS_25_DA_AUS_AW_NC.pdf"
+								},
+								{	
+									"type" : "ElementDocument",
+									"title" : "Adaptic Digit",
+									"subtitle" : "Leave Piece",
+									"documentfilename" : "4259_ADAPTIC_DIGIT_LP_AUS_AW_NC.pdf"
+								},
+								{	
+									"type" : "ElementDocument",
+									"title" : "Tielle Lite",
+									"subtitle" : "Leave Piece",
+									"documentfilename" : "4279_TIELLE_LITE_LP_AUS_AW_NC.pdf"
+								},
+								{	
+									"type" : "ElementDocument",
+									"title" : "Adaptic Touch",
+									"subtitle" : "Detail Aid",
+									"documentfilename" : "4424_ADAPTIC_TOUCH_DA_AUS_AW_NC.pdf"
+								},
+								{	
+									"type" : "ElementDocument",
+									"title" : "Adaptic Touch",
+									"subtitle" : "Leave Piece",
+									"documentfilename" : "4425_ADAPTIC_TOUCH_LP_AUS_AW_NC.pdf"
+								},
+								{	
+									"type" : "ElementDocument",
+									"title" : "Nugel",
+									"subtitle" : "Leave Piece",
+									"documentfilename" : "4583_NUGEL_Hydrogel_LP_AUS_AW_NC.pdf"
+								},
+								{	
+									"type" : "ElementDocument",
+									"title" : "Nuderm",
+									"subtitle" : "Leave Piece",
+									"documentfilename" : "4584_NU_DERM_Hydrocolloid_LP_AUS_AW_NC.pdf"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"type" : "SectionHeader",
+			"caption" : "My Favorites / My Files",
+			"elements" : [
+				{
+					"type" : "ElementRoot",
+					"title" : "My Favorites",
+					"subtitle" : "View Files from Favorites Lists",
+					"image" : "Favorited.png",
+					"sections" : [
+						{
+							"type" : "SectionHeader",
+							"caption" : "My Favorites Lists"
+						}
+					]
+				},
+				{
+					"type" : "ElementRoot",
+					"title" : "My Files",
+					"subtitle" : "View User Installed Files",
+					"image" : "Myfiles.png",
+					"sections" : [
+						{
+							"type" : "SectionHeader",
+							"caption" : "My Files"
+						}
+					]
+				},
+				{
+					"type" : "ElementRoot",
+					"title" : "App Files",
+					"subtitle" : "View App Files",
+					"image" : "Myfiles.png",
+					"sections" : [
+						{
+							"type" : "SectionHeader",
+							"caption" : "App Files"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type" : "SectionHeader",
+			"caption" : "Support / Documentation",
+			"elements" : [
+				{
+					"type" : "ElementPhone",
+					"title" : "KCI IT Service Desk",
+					"subtitle" : "1-800-080-214",
+					"other" : "1800080214"  
+				},
+				{
+					"type" : "ElementEmail",
+					"title" : "Submit Feedback",
+					"subtitle" : "Email Comments & Suggestions",
+					"documentfilename" : "servicedesk@kci1.com",
+					"other" : "KCI AHS Sales App Feedback"
+				},
+				{
+					"type" : "CreditsFooter",
+					"caption" : "2011 KCI Licensing, Inc. All rights reserved.\r All trademarks designated herein are\r property to KCI Licensing, Inc., its\r affiliates and/or licensors. 4/11."
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,2212 @@
+{
+	"title" : "KCI Sales",
+	"sections" : [
+		{
+			"type" : "SectionHeader",
+			"caption" : "KCI Sales Collateral",
+			"elements" : [
+				{
+					"type" : "ElementRoot",
+					"title" : "KCI Sales Collateral",
+					"subtitle" : "Brochures, PDFs, & Videos",
+					"image" : "AHSThumbnail.png",
+					"sections" : [
+						{
+							"type" : "SectionHeader",
+							"caption" : "Brochures & PDFs",
+							"elements" : [
+								{
+									"type" : "ElementRoot",
+									"title" : "ABThera & Prevena",
+									"image" : "AHSThumbnail.png",
+									"sections" : [
+										{
+											"type" : "SectionHeader",
+											"caption" : "ABThera",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "Monograph",
+													"subtitle" : "Compilation of Evidence",
+													"documentfilename" : "ABThera_Monograph.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "ABThera Case Series",
+													"subtitle" : "12-0780",
+													"documentfilename" : "ABThera_Case_Series_LIT29-D-299_DSL12-0780_US_REV12-12.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "ABThera Competitive Positioning Sales Aid",
+													"subtitle" : "09-06-333",
+													"documentfilename" : "ABThera_Competitve_Positioning_Sales_Aid.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "ABThera Spec Sheet",
+													"subtitle" : "11-0501.US 8/11",
+													"documentfilename" : "ABTheraSpecSheet110926.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "ABTAC Customer Presentation",
+													"subtitle" : "12-0787 (1/13)",
+													"documentfilename" : "ABThera_Customer_Presentation.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "ABThera Brochure",
+													"subtitle" : "Primary Product Brochure",
+													"documentfilename" : "ABThera_Product_Brochure.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "ABThera Economic Sell Sheet",
+													"subtitle" : "Cost Effectiveness",
+													"documentfilename" : "ABThera_Economic_Sell_Sheet.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "ABTAC Clinical Summary",
+													"subtitle" : "ABTAC Study Key Points",
+													"documentfilename" : "ABTAC_Clinical_Summary.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Frazee Clinical Study",
+													"subtitle" : "Cost Effectiveness Key Points",
+													"documentfilename" : "ABThera_Frazee_Clinical_Summary.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "ABThera CME / CE Program",
+													"subtitle" : "Offer to Customers",
+													"documentfilename" : "ABThera_NACCME_Invitation.pdf"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "Prevena",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "Prevena Brochure",
+													"subtitle" : "12-07171",
+													"documentfilename" : "Prevena_1_pager_DSL12_07171_US_LIT29_A_220_REV12_12.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Prevena Clinician Guide",
+													"subtitle" : "11-390153 Rev B 6/10",
+													"documentfilename" : "Prevena_Clinician_Guide_6-10.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Prevena Monograph",
+													"subtitle" : "13-0046 US",
+													"documentfilename" : "Prevena_Monograph_DSL13_0046_US_LIT29_A_198_REV1_13.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Prevena Patient Guide",
+													"subtitle" : "11-390152 Rev C 4/11",
+													"documentfilename" : "Prevena_Patient_Guide_4-11.pdf"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type" : "ElementRoot",
+									"title" : "Cellutome",
+									"image" : "AHSThumbnail.png",
+									"sections" : [
+										{
+											"type" : "SectionHeader",
+											"caption" : "Case Reports",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "DIABETIC FOOT ULCER",
+													"subtitle" : "Stephanie Wu DPM",
+													"documentfilename" : "CelluTome_Wu_Case_DFU_DSL13_0426_US_4_LIT29_D_322_REV7_13.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "FOOT I&D ABSCESS",
+													"subtitle" : "Randal Cook MD",
+													"documentfilename" : "CelluTome_Cook_Case_Study_DSL13_0426_US_3_LIT29_D_321_REV7_13.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "POST MOHS SURGERY EAR DEFECT",
+													"subtitle" : "Ashish Bhatia MD",
+													"documentfilename" : "CelluTome_Bhatia_Case_Study_DSL13_0426_US_1_LIT29_D_319_REV7_13.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VENOUS LEG ULCER",
+													"subtitle" : "Stephanie Wu DPM",
+													"documentfilename" : "CelluTome_Wu_Case_VLU_DSL13_0426_US_5_LIT29_D_323_REV7_13.pdf"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "Clinical Presentations",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "Epidermal Grafting",
+													"subtitle" : "Dr. Serena",
+													"documentfilename" : "13_0335_Dr_Serenas_Epidermal_Grafting_Case_Studies.pdf",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Epidermal Harvesting",
+													"subtitle" : "Dr. Krisner",
+													"documentfilename" : "13_0330_Epidermal_Harvesting_The_First_Cut_Kirsner2.pdf",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Epidermal Micrografting",
+													"subtitle" : "Internal Only",
+													"documentfilename" : "13_0286_EpidermalMicrografting.pdf",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Physician Training Module",
+													"documentfilename" : "13_0258_US_CelluTome_Physician_Training_Module.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Replacing Missing or Damaged Skin",
+													"subtitle" : "Internal Only",
+													"documentfilename" : "13_0234_10_US_Replacing_Missing_or_Damaged_Skin.pdf",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Science of Epidermal Harvesting",
+													"subtitle" : "Internal Only",
+													"documentfilename" : "13_0257_US_Science_and_Evidence_Clinical_Harvesting.pdf",
+													"other" : "nonemailable"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "Customer Contracts",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "CelluTome FPE with Harvester Purchase",
+													"subtitle" : "Free Product Evaluation with Harvester Purchase Agreement",
+													"documentfilename" : "13_0122_CT_FPE_FINAL_with_Harvester_Purchase.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "CelluTome Paid Evaluation Agreement",
+													"documentfilename" : "13_0384_US_CelluTome_Evaluation_Agreement_1.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "CelluTome Placement Agreement",
+													"documentfilename" : "13_0407_US_Cellutome_Placement_Agreement_1.pdf"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "PDFs & Brochures",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "CelluTome Coding Guide",
+													"documentfilename" : "13-0094_CelluTome_Coding_Guide.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "CelluTome FAQ",
+													"subtitle" : "Internal Only",
+													"documentfilename" : "13_0182_US_CelluTome_FAQ.pdf",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "CelluTome IFU",
+													"documentfilename" : "414517_CelluTome_IFU.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "CelluTome Monograph",
+													"subtitle" : "Clinical Monograph",
+													"documentfilename" : "13_0235_CelluTome_Monograph.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "CelluTome Pricing Guide",
+													"documentfilename" : "13_0386_CelluTome_Pricing_Guides_Combined.pdf",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "CelluTome Procedure Chart",
+													"documentfilename" : "13_0359_US_Cellutome_Procedure_Chart.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "CelluTome Sales Guide",
+													"subtitle" : "Detail Aid",
+													"documentfilename" : "13_0265_US_CelluTome_Detail_Aid.pdf"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "Videos",
+											"elements" : [
+												{	
+													"type" : "ElementVideo",
+													"title" : "CelluTome Animation - Narrated",
+													"documentfilename" : "13_0322_Cellutome_Animated_Video_Narrated.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "CelluTome Animation - Text",
+													"subtitle" : "Closed-Captioned",
+													"documentfilename" : "13_0322_Cellutome_Animated_Video_Text.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "CelluTome Application Video",
+													"documentfilename" : "13_0256_CelluTome_Application_Video_Short_iPad.mp4",
+													"other" : "nonemailable"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type" : "ElementRoot",
+									"title" : "Competition",
+									"image" : "AHSThumbnail.png",
+									"sections" : [
+										{
+											"type" : "SectionHeader",
+											"caption" : "PDFs & Brochures",
+											"elements" : [
+												{	
+													"type" : "ElementVideo",
+													"title" : "Competitive Bench Test",
+													"subtitle" : "KCI ActiVAC vs SNN GO",
+													"documentfilename" : "Competitive_Bench_Test_KCI_Acti_vs_SNN_GO_03112013.mp4",
+													"other" : "nonemailable"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "NPWT Dev Comp Guidelines",
+													"subtitle" : "10-0719.C",
+													"documentfilename" : "NPWT_Device_Comparison_Guidelines.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "U.S. Accurate Pressure Delivery 2012-1119",
+													"subtitle" : "12-0648.US(11/12)",
+													"documentfilename" : "U.S._Accurate_Pressure_Delivery_2012-1119.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "U.S. Advanced Technology 2012-1119",
+													"subtitle" : "12-0721.US(11/12)",
+													"documentfilename" : "U.S._Advanced_Technology_2012-1119.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "U.S. Continuity of Care Solution 2012-1119",
+													"subtitle" : "12-0723.US(11/12)",
+													"documentfilename" : "U.S._Continuity_of_Care_Solution_2012-1119.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "U.S. Lower Cost of Total Care 2012-1119",
+													"subtitle" : "12-0722.US(11/12)",
+													"documentfilename" : "U.S._Lower_Cost_of_Total_Care_2012-1119.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC GF Dressing vs. Gauze",
+													"subtitle" : "10-0072",
+													"documentfilename" : "V.A.C._GranuFoam_Dressing_vs._Gauze.pdf"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type" : "ElementRoot",
+									"title" : "Graftjacket",
+									"image" : "AHSThumbnail.png",
+									"sections" : [
+										{
+											"type" : "SectionHeader",
+											"caption" : "Brochures",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "Graftjacket® Product Monograph",
+													"subtitle" : "DSL13-0223",
+													"documentfilename" : "Graftjacket_Products_Monograph_DSL13_0223_US_REV8_13_Final.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Graftjacket® RTM Brochure",
+													"subtitle" : "DSL12-0771",
+													"documentfilename" : "Graftjacket_RTM_brochure_DSL12_0771_REV12_12.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Graftjacket® RTM Fact Sheet",
+													"subtitle" : "DSL12-0771 FS",
+													"documentfilename" : "Graftjacket_RTM_Fact_Sheet_DSL12_0771_FS_REV12_12.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Graftjacket® Xpress FSTS Brochure",
+													"subtitle" : "DSL12-0772",
+													"documentfilename" : "Graftjacket_Xpress_brochure_DSL12_0772_rev12_12.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Graftjacket® Xpress FSTS Fact sheet",
+													"subtitle" : "DSL12-0772 FS",
+													"documentfilename" : "Graftjacket_Xpress_Fact_Sheet_DSL12_0772_FS_REV12_12.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Graftjacket® Clinical Presentation Poster",
+													"subtitle" : "DSL11-0835",
+													"documentfilename" : "Graftjacket_Clinical_Presentation_Poster_DSL11_0835_REV7_12.pdf"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "Case Studies",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "Venous Leg Ulcer",
+													"subtitle" : "Dr. Stacey, MD",
+													"documentfilename" : "Graftjacket_VLU_Case_Study_DSL13_0400_US_CS_REV6_13_LIT29_D_317_FINAL.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Necrotizing Fasciitis",
+													"subtitle" : "Dr. Williams, DPM",
+													"documentfilename" : "Graftjacket_Necrotizing_Fasciitis_Case_Study_DSL13_0397_IN_REV6_13_LIT29_D_318_FINAL.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Pressure Ulcers",
+													"subtitle" : "Dr. Duke II, DO",
+													"documentfilename" : "Graftjacket_Pressure_Ulcer_Case_Study_DSL13_0465_US_REV7_13_FINAL.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Hand Trauma",
+													"subtitle" : "Dr. Desvigne, MD",
+													"documentfilename" : "Graftjacket_Hand_Trauma_Case_Study_DSL13_0515_US_REV7_13_Final.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Burn Poster",
+													"subtitle" : "Dr. Hassan, et al.",
+													"documentfilename" : "Poster_Reprint_Hassan_DSL12_0709.P.US_REV3_13_FINAL.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Exposed Bone & Tendon Poster",
+													"subtitle" : "Dr. Stacey, MD",
+													"documentfilename" : "Poster_Reprint_Heath_Stacey_DSL13_0473.SAWCS13_P_BR_FINAL.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Chronic & Trauma Wounds Poster",
+													"subtitle" : "Dr. Williams, DPM",
+													"documentfilename" : "Poster_Reprint_Marie_Williams_DSL13_0790_SAWCS13_P_B_REV7_13_FINAL.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "GJ RTM with GJ Xpress Tunneling Poster",
+													"subtitle" : "Dr. Williams, DPM",
+													"documentfilename" : "Poster_Reprint_Marie_Williams_DSL12_0791_SAWCS13_P_B_REV7_13_FINAL.pdf"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "Clinical Studies",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "Reyzelman KAP",
+													"subtitle" : "Graftjacket® RT",
+													"documentfilename" : "Graftjacket_RTM_Rezelman_KAP_DSL12_0437_REV7_12.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Winters KAP",
+													"subtitle" : "Graftjacket® RTM",
+													"documentfilename" : "Graftjacket_RTM_Winters_KAP_DSL12_0438_REV7_12.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Brigido KAP",
+													"subtitle" : "Graftjacket® Xpress FSTS",
+													"documentfilename" : "Graftjacket_Xpress_Brigido_KAP_DSL12_0436_REV7_12.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Winters Full Study",
+													"subtitle" : "Graftjacket® RTM",
+													"documentfilename" : "Graftjacket_RTM_Winters_full.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Brigido Full Study",
+													"subtitle" : "Graftjacket® Xpress FSTS",
+													"documentfilename" : "Graftjacket_Xpress_Brigido_full.pdf"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "Economic Tools",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "Graftjacket® RTM Coding Guide",
+													"subtitle" : "DSL13-0058",
+													"documentfilename" : "Graftjacket_Coding_Guide_DSL13_0058.Q4_REV9_13.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Single Application Economics",
+													"subtitle" : "DSL13-0584",
+													"documentfilename" : "Graftjacket_Single_Application_Economic_Impact_DSL13_0584_US_REV8_13_FINAL.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "KCI Reimbursement eCard",
+													"subtitle" : "DSL12-0764",
+													"documentfilename" : "KCI_Reimbursement_eCard_DSL12_0764_3_REV2_13.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Graftjacket® Price List",
+													"documentfilename" : "2013_Graftjacket_Products_List_Pricing.pdf"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "Videos",
+											"elements" : [
+												{	
+													"type" : "ElementVideo",
+													"title" : "Graftjacket® RTM Application",
+													"documentfilename" : "Graftjacket_RTM_Application_iPad.mp4"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Graftjacket® RTM MOA",
+													"documentfilename" : "Graftjacket_RTM_MOA_11-0473_iPad.mp4"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Graftjacket® RTM Preparation",
+													"documentfilename" : "Graftjacket_RTM_Prep_iPad_1280x720.mp4"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Graftjacket® Xpress MOA",
+													"documentfilename" : "Graftjacket_Xpress_MOA_11-0475_05_12.mp4"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Graftjacket® Xpress Preparation",
+													"documentfilename" : "Graftjacket_Xpress_Prep_iPad_1280x720_h264_2400.mp4"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type" : "ElementRoot",
+									"title" : "MCOs",
+									"image" : "AHSThumbnail.png",
+									"sections" : [
+										{
+											"type" : "SectionHeader",
+											"caption" : "PDFs & Brochures",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "GJ MCO Plan Flyer",
+													"subtitle" : "DSL13 0434.US REV7 13",
+													"documentfilename" : "GJ_MCO_Plan_Flyer_DSL13_0434.US_REV7_13.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "GJ MCO UHC Plan Flyer",
+													"subtitle" : "DSL13_0434_US REV7_13",
+													"documentfilename" : "GJ_MCO_UHC_Plan_Flyer_DSL13_0434_US_REV7_13.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "KCI Competitive Bidding Anouncement",
+													"subtitle" : "13-0456 Rev 7-13",
+													"documentfilename" : "KCI_Competitive_Bidding_Anouncement_DSL13_0456_US_REV7_13_2.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "MCO Broch",
+													"subtitle" : "11-0176 (9/11)",
+													"documentfilename" : "MCOBrochure.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "U.S. SNF Ordering",
+													"subtitle" : "11-0575 (8/11)",
+													"documentfilename" : "US_SNF_Ordering_Process_2011_11_16.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "V.A.C. Contract Announcement",
+													"subtitle" : "DSL13-02-9 US Molina Tx 2013",
+													"documentfilename" : "VAC_Contract_Announcement_DSL13_02_9_US_Molina_Tx_2013.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "V.A.C. Discharge Sheet",
+													"subtitle" : "DSL13_0073_REV_4_13",
+													"documentfilename" : "VAC_Discharge_sheet_DSL13_0073_REV_4_13.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "V.A.C. Economic Matters",
+													"documentfilename" : "VAC_Economic_Matters_DSL13_0618.US_REV11_13_LIT29_A_235.pdf"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type" : "ElementRoot",
+									"title" : "NPWT Products",
+									"image" : "AHSThumbnail.png",
+									"sections" : [
+										{
+											"type" : "SectionHeader",
+											"caption" : "VAC Ulta Therapy System",
+											"elements" : [
+												{	
+													"type" : "ElementRoot",
+													"title" : "V.A.C.Ulta™ Therapy System",
+													"image" : "AHSThumbnail.png",
+													"sections" : [
+														{
+															"type" : "SectionHeader",
+															"caption" : "PDFs & Brochures",
+															"elements" : [
+																{	
+																	"type" : "ElementDocument",
+																	"title" : "V.A.C. VeraFlo™ Clinician Protocol",
+																	"subtitle" : "414782 Rev A 04/13",
+																	"documentfilename" : "VAC_VeraFlo_Facility_Protocol.pdf"
+																},
+																{	
+																	"type" : "ElementDocument",
+																	"title" : "Bioburden Brochure",
+																	"subtitle" : "12-0679",
+																	"documentfilename" : "12_0679_Bioburden_Brochure_US_FINAL_12_19_12.pdf"
+																},
+																{	
+																	"type" : "ElementDocument",
+																	"title" : "Dr. Teot Clinical Summary Sheet",
+																	"subtitle" : "13-0512.CS.US (9/13)",
+																	"documentfilename" : "13_0512_Dr_Teot_Clinical_Summary_Sheet.pdf"
+																},
+																{	
+																	"type" : "ElementDocument",
+																	"title" : "Solution Capacity of V.A.C. VeraFlo™ Foams",
+																	"subtitle" : "12-0484.US (8/12)",
+																	"documentfilename" : "Solution_Capacity_VAC_VeraFlo_Foams.pdf"
+																},
+																{	
+																	"type" : "ElementDocument",
+																	"title" : "V.A.C.Ulta™ Advertorial: Customizing Wound Healing",
+																	"subtitle" : "13-0090.US (3/13)",
+																	"documentfilename" : "VAC_Ulta_Advetorial_DSL13_0090_US_032713.pdf"
+																},
+																{	
+																	"type" : "ElementDocument",
+																	"title" : "V.A.C.Ulta™ Brochure",
+																	"subtitle" : "12-0350.US (10/13)",
+																	"documentfilename" : "VAC_Ulta_Brochure_DSL13_0350_US_LIT_29_A_211_Rev10_13.pdf"
+																},
+																{	
+																	"type" : "ElementDocument",
+																	"title" : "V.A.C.Ulta™ Case Series",
+																	"subtitle" : "12-0426.US (8/12)",
+																	"documentfilename" : "VAC_Ulta_Case_Series_REV_8_12.pdf"
+																},
+																{	
+																	"type" : "ElementDocument",
+																	"title" : "V.A.C.Ulta™ Collection of Case Studies",
+																	"subtitle" : "12-0469.US (10/12)",
+																	"documentfilename" : "VAC_Ulta_Collection_Case_Studies_REV_10_12.pdf"
+																},
+																{	
+																	"type" : "ElementDocument",
+																	"title" : "V.A.C.Ulta™ Georgetown Economic Presentation",
+																	"subtitle" : "13-0345.US.EC (5/13)",
+																	"documentfilename" : "13_0345_US_EC_FINAL_5_21_13.pptm"
+																},
+																{	
+																	"type" : "ElementDocument",
+																	"title" : "V.A.C.Ulta™ Georgetown Study Brochure",
+																	"subtitle" : "DSL13-0345-SAWC-REV5-13-LIT29-H-223",
+																	"documentfilename" : "VAC_Ulta_Georgetown_Study_Brochure_DSL13_0345_SAWC_REV5_13_LIT29_H_223.pdf"
+																},
+																{	
+																	"type" : "ElementDocument",
+																	"title" : "V.A.C.Ulta™ IFU",
+																	"subtitle" : "10-350168.B Rev. 8/10",
+																	"documentfilename" : "VACUlta_User_Manual1-11.pdf"
+																},
+																{	
+																	"type" : "ElementDocument",
+																	"title" : "V.A.C.Ulta™ Monograph",
+																	"subtitle" : "12-0118.US • LIT29-A-215 (11/12)",
+																	"documentfilename" : "VAC_Ulta_Monograph.pdf"
+																},
+																{	
+																	"type" : "ElementDocument",
+																	"title" : "V.A.C.Ulta™ OR Poster",
+																	"subtitle" : "12-0699",
+																	"documentfilename" : "VAC_Ulta_OR_Poster_DSL12_0699_US_LIT29_H_220_REV1_13_Print_Final.pdf"
+																},
+																{	
+																	"type" : "ElementDocument",
+																	"title" : "V.A.C.Ulta™ Pharmacy Solution Guide",
+																	"subtitle" : "13-0069",
+																	"documentfilename" : "VAC_Ulta_Pharmacy_Solution_Guide_DSL13_0069_US_REV2_13.pdf"
+																},
+																{	
+																	"type" : "ElementDocument",
+																	"title" : "V.A.C.Ulta™ Quick Reference Guide",
+																	"subtitle" : "11-350161.A Rev. 11/10",
+																	"documentfilename" : "VACUlta_User_Manual1-11.pdf"
+																},
+																{	
+																	"type" : "ElementDocument",
+																	"title" : "V.A.C.Ulta™ Safety Information and V.A.C. VERAFLO™ IFU",
+																	"subtitle" : "11-350159.US Rev. 8/11",
+																	"documentfilename" : "VAC_VeraFlo_Cleanse_IFU_8-11.pdf"
+																},
+																{	
+																	"type" : "ElementDocument",
+																	"title" : "V.A.C.Ulta™ Sales Aid",
+																	"subtitle" : "11-0805.US Rev. 1/12",
+																	"documentfilename" : "VAC_Ulta_Sales_Aid_1-12.pdf"
+																},
+																{	
+																	"type" : "ElementDocument",
+																	"title" : "V.A.C.Ulta™ Specification Sheet",
+																	"subtitle" : "11-0038",
+																	"documentfilename" : "VAC_Ulta_Spec_Sheet_DSL_11_0038_REV8_11.pdf"
+																},
+																{	
+																	"type" : "ElementDocument",
+																	"title" : "V.A.C.Ulta™ Topical Solutions Brochure",
+																	"subtitle" : "12-0118.US Rev. 1/12",
+																	"documentfilename" : "VACUlta_Topical_Solutions_Brochure_1-12.pdf"
+																},
+																{	
+																	"type" : "ElementDocument",
+																	"title" : "V.A.C.Ulta™ Troubleshooting Guide",
+																	"subtitle" : "13-0079.US (3/13)",
+																	"documentfilename" : "Ulta_Troubleshooting_Guide_13_0079_US_REV3_13_FINAL.pdf"
+																},
+																{	
+																	"type" : "ElementDocument",
+																	"title" : "V.A.C.Ulta™ User Manual",
+																	"subtitle" : "11-350160.B Rev. 1/11",
+																	"documentfilename" : "VACUlta_User_Manual1-11.pdf"
+																},
+																{	
+																	"type" : "ElementDocument",
+																	"title" : "V.A.C.Ulta™ VeraFlo Solution Capacity",
+																	"subtitle" : "12-0484",
+																	"documentfilename" : "VAC_Ulta_VeraFlo_Solution_Capacity_DSL12_0484_US_REV8-12.pdf"
+																},
+																{	
+																	"type" : "ElementDocument",
+																	"title" : "V.A.C.VeraFlo IFU",
+																	"subtitle" : "11-350251.D Rev. 8/11",
+																	"documentfilename" : "V.A.C._Ulta_IFU_8-10.pdf"
+																},
+																{	
+																	"type" : "ElementDocument",
+																	"title" : "VeraFlo Large Dressing Flyer",
+																	"subtitle" : "13-0510.US (7/13)",
+																	"documentfilename" : "VeraFlo_Large_Dressing_Flyer_DSL13_0510_US_REV7_13.pdf"
+																}
+															]
+														}
+													]
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "VAC Ulta Therapy System",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "HBO and V.A.C.® Therapy Brochure",
+													"subtitle" : "12-0074 Rev. 2/12",
+													"documentfilename" : "HBO_and_VAC_Therapy_Brochure_2-12.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "KCI NPT Poster",
+													"subtitle" : "11-0692 Rev. 10/11",
+													"documentfilename" : "KCI_NPT_Poster_1-12.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "V.A.C. Therapy Clinical Guidelines",
+													"subtitle" : "2-b-128 rev f 12/2012",
+													"documentfilename" : "VAC_Clinical_Guidelines_RevF_2_B_128.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "V.A.C. Therapy Safety Information",
+													"subtitle" : "340106 Rev B 8/07",
+													"documentfilename" : "V.A.C._Therapy_Safety_Information_ENG.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "V.A.C. Therapy Patient Guide",
+													"subtitle" : "11-0423.US 12/11",
+													"documentfilename" : "VAC_Therapy_Patient_Guide_12-11.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "V.A.C. Therapy Patient Guide (Spanish)",
+													"subtitle" : "11-0423 REV 10-12",
+													"documentfilename" : "VAC_Patient_Guide_Spanish_LIT29_A_219_DSL11_0423_REV10_12.pdf"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "ActiVAC",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "ActiVAC Broch",
+													"subtitle" : "11-0426 8/11",
+													"documentfilename" : "ActiVAC_Brochure_2011_11_16.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "ActiVAC Quick Reference Guide",
+													"subtitle" : "340403.C 6/11",
+													"documentfilename" : "ActiVAC_QRG_6-11.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "ActiVAC Spec Sheet",
+													"subtitle" : "11-0426.S 8/11",
+													"documentfilename" : "ActiVAC_Spec_Sheet_2011_11_16.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "ActiVAC Therapy Information Guide",
+													"subtitle" : "26-L-002.B 6/11",
+													"documentfilename" : "ActiVAC_Therapy_Information_Guide_6-11.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "ActiVAC Troubleshooting",
+													"subtitle" : "11-0545.A 12/11",
+													"documentfilename" : "ActiVAC_Troubleshooting_Card_2011_12.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "ActiVAC User Manual",
+													"subtitle" : "340399.B 3/11",
+													"documentfilename" : "ActiVAC_User_Manual_6-11.pdf"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "VAC Disposables",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "Basic Application Guide V.A.C. Dressings",
+													"subtitle" : "11-0713 12/11",
+													"documentfilename" : "Basic_Application_Guide_V.A.C._Dressings_12-11.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC Assessment Tool",
+													"subtitle" : "11-0494 8/11",
+													"documentfilename" : "VACTherapyAssessmentTool.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC Dressings Guide",
+													"subtitle" : "11-0494.A 8/11",
+													"documentfilename" : "VACTherapyDressingGuide.pdf"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "VAC Disposables / Bridge",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "Bridge Dressing Application Tips",
+													"subtitle" : "11-0673 12/11",
+													"documentfilename" : "Bridge_Dressing_Application_Tips_12-11.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Bridge Dressing Brochure",
+													"subtitle" : "11-0672 12/11",
+													"documentfilename" : "Bridge_Dressing_Brochure_12-11.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Bridge XG Poster",
+													"subtitle" : "12-0760",
+													"documentfilename" : "Bridge_XG_Time_Study_of_Bridging_Techniques_Poster_DSL12-0760_US_LIT29-A-222_REV12-12.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC GF Bridge Dress PU Broch",
+													"subtitle" : "10-0508",
+													"documentfilename" : "V.A.C._GranuFoam_Bridge_Dressing_Pressure_Ulcer_Brochure.pdf"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "Chronic and Infected Wounds",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "Infection Campaign Brochure",
+													"subtitle" : "12-0475.US",
+													"documentfilename" : "Infection_Campaign_Brochure_8_12.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Instillation Article Summary",
+													"subtitle" : "12-0443.US.CS",
+													"documentfilename" : "Instillation_Article_Summary.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Schweiki Article VAC Therapy on Infected Wounds",
+													"subtitle" : "12-0442.CS.US",
+													"documentfilename" : "Schweiki_article_VAC_Therapy_on_Infected_Wounds.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Suissa Chronic Wound Article Summary",
+													"subtitle" : "12-0174.US.CS",
+													"documentfilename" : "Suissa_Chronic_Wound_Article_Summary.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "V.A.C. Chronic Wounds Brochure",
+													"subtitle" : "12-0461 REV9-12",
+													"documentfilename" : "VAC_Chronic_Wounds_Brochure_DSL12_0461_REV9_12.pdf"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "Silver",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "Silver Dressing Brochure",
+													"subtitle" : "11-0371.US 9/11",
+													"documentfilename" : "VACGranuFoamSilverDressingBrochure_9-11.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "V.A.C. GranuFoam Silver® Dressings Whitepaper",
+													"subtitle" : "11-0751 US",
+													"documentfilename" : "VAC_GranuFoam_Silver_Whitepaper_DSL11_0751_US.pdf"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "VAC Freedom & VAC ATS",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC Freedom & ATS Broch",
+													"subtitle" : "11-0198 8/11",
+													"documentfilename" : "VAC_Freedom_ATS_Brochure_2011_11_16.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC Freedom Troubleshooting",
+													"subtitle" : "11-0545 Rev. 8/11",
+													"documentfilename" : "VAC_Freedom_Alarm_Card_2011_11_16.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC Freedom User Manual",
+													"subtitle" : "09-320327 Rev B 9/09",
+													"documentfilename" : "VAC_Freedom_User_Manual_9-09.pdf"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "VAC VIA",
+											"elements" : [
+												{	
+													"type" : "ElementRoot",
+													"title" : "VAC VIA",
+													"image" : "AHSThumbnail.png",
+													"sections" : [
+														{
+															"type" : "SectionHeader",
+															"caption" : "PDFs & Brochures",
+															"elements" : [
+																{	
+																	"type" : "ElementDocument",
+																	"title" : "V.A.C.Via IFU",
+																	"subtitle" : "11-360063.D 9/11",
+																	"documentfilename" : "V.A.C.Via_IFU_ENG_9-11.pdf"
+																},
+																{	
+																	"type" : "ElementDocument",
+																	"title" : "V.A.C.Via Main Brochure",
+																	"subtitle" : "13-0523.US",
+																	"documentfilename" : "V.A.C.Via_Main_Brochure_DSL13_0523.US_REV8_13.pdf"
+																},
+																{	
+																	"type" : "ElementDocument",
+																	"title" : "V.A.C.Via Quick Reference Guide",
+																	"subtitle" : "11-360064.C 9/11",
+																	"documentfilename" : "V.A.C.Via_QRG_9-11.pdf"
+																},
+																{	
+																	"type" : "ElementDocument",
+																	"title" : "VAC VIA Econ Ben Discussion",
+																	"subtitle" : "10-0311.1",
+																	"documentfilename" : "V.A.C.Via_Therapy_System_Economic_Benefit_Discussion_Doc.pdf"
+																},
+																{	
+																	"type" : "ElementDocument",
+																	"title" : "VAC VIA Integra Study (Gabriel)",
+																	"subtitle" : "10-0705.PC",
+																	"documentfilename" : "V.A.C.Via_Integra_Study_Gabriel.pdf"
+																},
+																{	
+																	"type" : "ElementDocument",
+																	"title" : "VAC VIA Monograph",
+																	"subtitle" : "11-0039.US",
+																	"documentfilename" : "V.A.C.Via_Therapy_System_Monograph.pdf"
+																},
+																{	
+																	"type" : "ElementDocument",
+																	"title" : "VAC VIA Patient Guide",
+																	"subtitle" : "11-0242.US",
+																	"documentfilename" : "V.A.C.Via_Therapy_System_Patient_Guide.pdf"
+																},
+																{	
+																	"type" : "ElementDocument",
+																	"title" : "VAC VIA Spec Sheet",
+																	"subtitle" : "10-0438.US",
+																	"documentfilename" : "V.A.C.Via_Therapy_System_Specifications_Sheet.pdf"
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{	
+									"type" : "ElementRoot",
+									"title" : "Ordering KCI Products & Therapies",
+									"image" : "AHSThumbnail.png",
+									"sections" : [
+										{
+											"type" : "SectionHeader",
+											"caption" : "PDFs & Brochures",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "Allscripts Collaboration Broch",
+													"subtitle" : "10-0163",
+													"documentfilename" : "portal_allscripts_brochure.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "E-Prescription for V.A.C.® Therapy",
+													"subtitle" : "12-0680 US REV 12-12",
+													"documentfilename" : "E_Prescription_VAC_Esignature_Steps_Benefits_DSL12_0680_US_REV12_12.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Free Product Eval Form",
+													"documentfilename" : "Free_Product_Eval._Form.doc"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "GJ RTM Coding Guide",
+													"subtitle" : "12-0007.Q2",
+													"documentfilename" : "Graftjacket_Coding_Guide_2012-Q2.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "KCI Express Acute Broch",
+													"subtitle" : "10-0635",
+													"documentfilename" : "KCI_Express_AHS_Acute_Brochure.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC Discharge Sheet",
+													"subtitle" : "13-0073.US (2/13)",
+													"documentfilename" : "VAC_Discharge_Sheet.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC Therapy-Related HCPCS Codes",
+													"subtitle" : "12-0057 1/12",
+													"documentfilename" : "VAC_Therapy_Related_HCPCS_Codes_1-12.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC VIA Prod Place Card",
+													"subtitle" : "360115",
+													"documentfilename" : "V.A.C.Via_Therapy_System_Product_Placement_Card.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC VIA Rebate Rx Pad",
+													"subtitle" : "10-0543.Rx",
+													"documentfilename" : "V.A.C.Via_Therapy_System_Rebate-Script_Pad.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "WoundExpert Broch",
+													"subtitle" : "10-0024.C",
+													"documentfilename" : "WoundExpert_Brochure.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "WoundExpert QRG",
+													"subtitle" : "10-0551",
+													"documentfilename" : "WoundExpert_Quick_Reference_Guide.pdf"
+												}
+											]
+										}
+									]
+								},
+								{	
+									"type" : "ElementRoot",
+									"title" : "Outcomes Mgmt Prog",
+									"image" : "AHSThumbnail.png",
+									"sections" : [
+										{
+											"type" : "SectionHeader",
+											"caption" : "PDFs & Brochures",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "Outcomes Mgmt Customer Presentation",
+													"subtitle" : "12-0528 (Rev. 8/12)",
+													"documentfilename" : "12_0528_Outcomes_Management_Customer_Presentation_Final_Field_08_10_12.pdf"
+												}
+											]
+										}
+									]
+								},
+								{	
+									"type" : "ElementRoot",
+									"title" : "Professional Education",
+									"image" : "AHSThumbnail.png",
+									"sections" : [
+										{
+											"type" : "SectionHeader",
+											"caption" : "PDFs & Brochures",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "KCI Educational Brochure",
+													"subtitle" : "12-0056.US (Rev. 12/12)",
+													"documentfilename" : "KCI_Educational_Brochure_Brochure_12172012.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "KCI Educational Brochure Card",
+													"subtitle" : "12-0056.US (Rev. 12/12)",
+													"documentfilename" : "KCI_Educational_Brochure_Card_12172012.pdf"
+												}
+											]
+										}
+									]
+								},
+								{	
+									"type" : "ElementRoot",
+									"title" : "Skilled Nursing Facilities (SNFs)",
+									"image" : "AHSThumbnail.png",
+									"sections" : [
+										{
+											"type" : "SectionHeader",
+											"caption" : "PDFs & Brochures",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "Asset Mgmt Prog Order-Dischg Proc",
+													"subtitle" : "10-0210.P",
+													"documentfilename" : "Asset_Mgmt._Prog._Order-Discharge_Process_Poster.pdf"
+												}
+											]
+										}
+									]
+								},
+								{	
+									"type" : "ElementRoot",
+									"title" : "Value Proposition",
+									"image" : "AHSThumbnail.png",
+									"sections" : [
+										{
+											"type" : "SectionHeader",
+											"caption" : "PDFs & Brochures",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "KCI Company Fact Sheet",
+													"subtitle" : "DSL#12-0272 (Rev. 6/12/12)",
+													"documentfilename" : "KCI_Fact_Sheet_9_13_12.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "US KCI Value Deck",
+													"subtitle" : "DSL#12-0693.US (Rev. 12/26/2012)",
+													"documentfilename" : "US_KCI_Value_Deck_Rev_12_26_12.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "US KCI Value Deck (PowerPoint)",
+													"subtitle" : "12-0693.US (Rev. 12/26/2012)",
+													"documentfilename" : "US_KCI_Value_Deck_Rev_12_26_12.pptx"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "V.A.C. Economic Matters",
+													"documentfilename" : "VAC_Economic_Matters_DSL13_0618.US_REV11_13_LIT29_A_235.pdf"
+												}
+											]
+										}
+									]
+								},
+								{	
+									"type" : "ElementRoot",
+									"title" : "Venous Leg Ulcer (VLU) Campaign",
+									"image" : "AHSThumbnail.png",
+									"sections" : [
+										{
+											"type" : "SectionHeader",
+											"caption" : "PDFs & Brochures",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "VAC VLU Broch",
+													"subtitle" : "10-0196",
+													"documentfilename" : "V.A.C._Therapy_Venous_Leg_Ulcer_VLU_Brochure.pdf"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "Vuerstaek RCT",
+											"elements" : [
+												{	
+													"type" : "ElementEmail",
+													"title" : "Email Link to Vuerstaek RCT",
+													"subtitle" : "10-0716",
+													"other" : "The literature referenced below discusses the use of the V.A.C.® Therapy System with venous stasis ulcers. The article is freely available through the journal website archives at:\r\n
+																http://www.jvascsurg.org/\r\n
+																Vuerstaek JD, Vainas T, Wuite J, Nelemans P, Neumann MH, Veraart JC. State-of-the-art treatment of chronic leg ulcers: A randomized controlled trial comparing vacuum-assisted closure (V.A.C.) with modern wound dressings. Journal of Vascular Surgery. 2006 Nov;44(5):1029-37.\r\n
+																Please note that this article may report uses not cleared by the Food and Drug Administration. This article is for educational use only and does not constitute recommendations as to the appropriateness of the use for a particular patient. The article should be reviewed in its entirety to determine whether the use of V.A.C.® Therapy is appropriate for that patient.\r\n
+																Thank you for your interest in the V.A.C.® Therapy System.\r\n"
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type" : "SectionHeader",
+							"caption" : "Videos",
+							"elements" : [
+								{
+									"type" : "ElementRoot",
+									"title" : "Videos",
+									"image" : "Video.png",
+									"sections" : [
+										{
+											"type" : "SectionHeader",
+											"caption" : "Videos",
+											"elements" : [
+												{	
+													"type" : "ElementVideo",
+													"title" : "ABThera Application Video",
+													"documentfilename" : "ABThera_Application_Video-iPad.mp4"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "ABThera MOA Video",
+													"documentfilename" : "ABThera_MOA_Video-iPad.mp4"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Basic Dressing App Video",
+													"subtitle" : "11-0063.US 9/11",
+													"documentfilename" : "BasicVACDressingApplicationVideo_360revised.mp4"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Bridge XG Sacral Pressure Ulcer Video",
+													"subtitle" : "10-0429",
+													"documentfilename" : "BridgeXGSacralPressureUlcerVideo.m4v"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Bridge XG VLU Video",
+													"subtitle" : "10-0685",
+													"documentfilename" : "BridgeXGVLUVideo.m4v"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Graftjacket® RTM Application",
+													"documentfilename" : "Graftjacket_RTM_Application_iPad.mp4"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Graftjacket® RTM MOA Video",
+													"subtitle" : "11-04373 7/11",
+													"documentfilename" : "Graftjacket_RTM_MOA_11-0473_iPad.mp4"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Graftjacket® RTM Preparation Video",
+													"subtitle" : "11-0800",
+													"documentfilename" : "Graftjacket_RTM_Prep_iPad_1280x720.mp4"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Graftjacket® Xpress MOA Video",
+													"subtitle" : "11-0475 5/12",
+													"documentfilename" : "Graftjacket_Xpress_MOA_11-0475_05_12.mp4"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Graftjacket® Xpress Preparation Video",
+													"subtitle" : "11-0800",
+													"documentfilename" : "Graftjacket_Xpress_Prep_iPad_1280x720_h264_2400.mp4"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Prevena Incision Mgmt System Video",
+													"subtitle" : "10-0353.US",
+													"documentfilename" : "PrevenaIncisionManagementSystem.m4v"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "SensaTRAC Technology Video",
+													"subtitle" : "09-10-542.1",
+													"documentfilename" : "SensaTRACTechnology.m4v"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Simplace Dressing Application",
+													"documentfilename" : "Simplace_Dressing_Application_iPad.mp4"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Simplace Dressing Bridge Application",
+													"documentfilename" : "Simplace_Drsg_Bridge_Application_iPad.mp4"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "VAC MOA Video",
+													"subtitle" : "11-078.US 9/11",
+													"documentfilename" : "VACMOA_video_2011_11_30.m4v"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "VAC Ulta Application Video",
+													"subtitle" : "10-0474.US 3/11",
+													"documentfilename" : "Ulta_iPhone.m4v"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "VAC VIA - Dr. Gabriel Video",
+													"subtitle" : "11-0505",
+													"documentfilename" : "Dr_Gabriel.mp4"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "VAC VIA Application Video",
+													"subtitle" : "10-0444.SZ",
+													"documentfilename" : "VACViaApplicationVideo.m4v"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "VAC VIA Therapy System Video",
+													"subtitle" : "10-0444.AP",
+													"documentfilename" : "VACViaTherapySystemVideo.m4v"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "WoundExpert Customer Training Video",
+													"subtitle" : "10-0024.CTV",
+													"documentfilename" : "WoundExpertTutorialVideo.m4v"
+												}
+											]
+										},
+										{
+											"type" : "SectionHeader",
+											"caption" : "YouTube Channel Link",
+											"elements" : [
+												{	
+													"type" : "ElementWebView",
+													"title" : "YouTube Channel Link",
+													"image" : "Youtube.png",
+													"other" : "http://www.youtube.com/kciwoundcare"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"type" : "SectionHeader",
+			"caption" : "Product Information",
+			"elements" : [
+				{
+					"type" : "ElementRoot",
+					"title" : "Product Information",
+					"subtitle" : "General information about all products",
+					"image" : "AHSThumbnail.png",
+					"sections" : [
+						{
+							"type" : "SectionHeader",
+							"caption" : "Select a Product",
+							"elements" : [
+								{
+									"type" : "ElementRoot",
+									"title" : "ABThera",
+									"image" : "AHSThumbnail.png",
+									"sections" : [
+										{
+											"type" : "SectionHeader",
+											"caption" : "ABThera OA NPT",
+											"elements" : [
+												{
+													"type" : "ElementWebView",
+													"title" : "ABThera OA NPT Description",
+													"documentfilename" : "abthera_description.html"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "ABThera SensaTRAC IFU",
+													"documentfilename" : "ABThera_SensaTRAC_IFU_Current.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "ABThera Spec Sheet",
+													"documentfilename" : "ABTheraSpecSheet110926.pdf"
+												},
+												{
+													"type" : "ElementWebView",
+													"title" : "ABThera OA NPT CPT",
+													"documentfilename" : "abthera_CPT_codes110929.html"
+												},
+												{
+													"type" : "ElementWebView",
+													"title" : "ABThera OA NPT HCPCS",
+													"documentfilename" : "abthera_hcpcs_codes.html"
+												},
+												{
+													"type" : "ElementWebView",
+													"title" : "ABThera OA NPT Product SKUs",
+													"documentfilename" : "abthera_product_SKUs_r20111010_2.html"
+												},
+												{
+													"type" : "ElementPicture",
+													"title" : "ABThera Picture",
+													"documentfilename" : "ABThera_SensaTRAC_Components.jpeg"
+												},
+												{
+													"type" : "ElementPhone",
+													"title" : "Call to Order",
+													"subtitle" : "(800) 275-4524",
+													"other" : "8002754524"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type" : "ElementRoot",
+									"title" : "Graftjacket RTM",
+									"image" : "AHSThumbnail.png",
+									"sections" : [
+										{
+											"type" : "SectionHeader",
+											"caption" : "Graftjacket RTM",
+											"elements" : [
+												{
+													"type" : "ElementWebView",
+													"title" : "GJ RTM Description",
+													"documentfilename" : "graftjacket_description.html"
+												},
+												{	
+													"type" : "ElementWebView",
+													"title" : "GJ RTM CPT",
+													"documentfilename" : "graftjacket_CPT_codes.html"
+												},
+												{	
+													"type" : "ElementWebView",
+													"title" : "GJ RTM HCPCS",
+													"documentfilename" : "graftjacket_hcpcs_codes.html"
+												},
+												{
+													"type" : "ElementPicture",
+													"title" : "GJ RTM Picture",
+													"documentfilename" : "Graftjacket-Product_lowres_960.jpg"
+												},
+												{
+													"type" : "ElementWebView",
+													"title" : "GJ RTM Product SKUs",
+													"documentfilename" : "graftjacket_product_SKUs.html"
+												},
+												{
+													"type" : "ElementPhone",
+													"title" : "Call to Order",
+													"subtitle" : "(800) 275-4524",
+													"other" : "8002754524"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type" : "ElementRoot",
+									"title" : "Graftjacket Xpress FSTS",
+									"image" : "AHSThumbnail.png",
+									"sections" : [
+										{
+											"type" : "SectionHeader",
+											"caption" : "Graftjacket Xpress FSTS",
+											"elements" : [
+												{
+													"type" : "ElementWebView",
+													"title" : "GJX FSTS Description",
+													"documentfilename" : "graftjacket_xpress_description.html"
+												},
+												{	
+													"type" : "ElementWebView",
+													"title" : "GJX FSTS HCPCS",
+													"documentfilename" : "graftjacket_xpress_hcpcs_codes.html"
+												},
+												{
+													"type" : "ElementPicture",
+													"title" : "GJX FSTS Picture",
+													"documentfilename" : "Graftjacket-Xpress-Syringe_Expressing_lowres_960.jpg"
+												},
+												{
+													"type" : "ElementWebView",
+													"title" : "GJX FSTS Product SKUs",
+													"documentfilename" : "graftjacket_xpress_product_SKUs.html"
+												},
+												{
+													"type" : "ElementPhone",
+													"title" : "Call to Order",
+													"subtitle" : "(800) 275-4524",
+													"other" : "8002754524"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type" : "ElementRoot",
+									"title" : "InfoVAC",
+									"image" : "AHSThumbnail.png",
+									"sections" : [
+										{
+											"type" : "SectionHeader",
+											"caption" : "InfoVAC",
+											"elements" : [
+												{
+													"type" : "ElementWebView",
+													"title" : "InfoVAC Description",
+													"documentfilename" : "infovac_description.html"
+												},
+												{	
+													"type" : "ElementWebView",
+													"title" : "InfoVAC CPT",
+													"documentfilename" : "infovac_CPT_codes.html"
+												},
+												{	
+													"type" : "ElementWebView",
+													"title" : "InfoVAC HCPCS",
+													"documentfilename" : "infovac_hcpcs_codes.html"
+												},
+												{
+													"type" : "ElementPicture",
+													"title" : "InfoVAC Picture",
+													"documentfilename" : "infovac_picture.jpg"
+												},
+												{
+													"type" : "ElementWebView",
+													"title" : "InfoVAC Product SKUs",
+													"documentfilename" : "infovac_product_SKUs.html"
+												},
+												{
+													"type" : "ElementPhone",
+													"title" : "Call to Order",
+													"subtitle" : "(800) 275-4524",
+													"other" : "8002754524"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type" : "ElementRoot",
+									"title" : "Prevena",
+									"image" : "AHSThumbnail.png",
+									"sections" : [
+										{
+											"type" : "SectionHeader",
+											"caption" : "Prevena",
+											"elements" : [
+												{
+													"type" : "ElementWebView",
+													"title" : "Prevena Description",
+													"documentfilename" : "prevena_description.html"
+												},
+												{
+													"type" : "ElementPicture",
+													"title" : "Prevena Picture",
+													"documentfilename" : "Prevena36000.jpg"
+												},
+												{
+													"type" : "ElementWebView",
+													"title" : "Prevena Product SKUs",
+													"documentfilename" : "prevena_product_SKUs.html"
+												},
+												{
+													"type" : "ElementPhone",
+													"title" : "Call to Order",
+													"subtitle" : "(800) 275-4524",
+													"other" : "8002754524"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type" : "ElementRoot",
+									"title" : "VAC VIA",
+									"image" : "AHSThumbnail.png",
+									"sections" : [
+										{
+											"type" : "SectionHeader",
+											"caption" : "VAC VIA",
+											"elements" : [
+												{
+													"type" : "ElementWebView",
+													"title" : "VAC VIA Description",
+													"documentfilename" : "vacvia_description.html"
+												},
+												{
+													"type" : "ElementPicture",
+													"title" : "VAC VIA Picture",
+													"documentfilename" : "VAC_VIA_SYSTEM.jpg"
+												},
+												{
+													"type" : "ElementWebView",
+													"title" : "VAC VIA Product SKUs",
+													"documentfilename" : "vacvia_product_SKUs.html"
+												},
+												{
+													"type" : "ElementPhone",
+													"title" : "Call to Order",
+													"subtitle" : "(800) 275-4524",
+													"other" : "8002754524"
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type" : "SectionHeader",
+							"caption" : "Payor / Coverage Information",
+							"elements" : [
+								{
+									"type" : "ElementRoot",
+									"title" : "Graftjacket® Product Coverage",
+									"subtitle" : "View Coverage Criteria by State",
+									"image" : "GraftJacket.png"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"type" : "SectionHeader",
+			"caption" : "My Favorites / My Files",
+			"elements" : [
+				{
+					"type" : "ElementRoot",
+					"title" : "My Favorites",
+					"subtitle" : "View Files from Favorites Lists",
+					"image" : "Favorited.png",
+					"sections" : [
+						{
+							"type" : "SectionHeader",
+							"caption" : "My Favorites Lists"
+						}
+					]
+				},
+				{
+					"type" : "ElementRoot",
+					"title" : "My Files",
+					"subtitle" : "View User Installed Files",
+					"image" : "Myfiles.png",
+					"sections" : [
+						{
+							"type" : "SectionHeader",
+							"caption" : "My Files"
+						}
+					]
+				},
+				{
+					"type" : "ElementRoot",
+					"title" : "App Files",
+					"subtitle" : "View App Files",
+					"image" : "Myfiles.png",
+					"sections" : [
+						{
+							"type" : "SectionHeader",
+							"caption" : "App Files"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type" : "SectionHeader",
+			"caption" : "Support / Documentation",
+			"elements" : [
+				{
+					"type" : "ElementRoot",
+					"title" : "KCI Advantage Center",
+					"subtitle" : "Contact KCI",
+					"image" : "Aidkit.png",
+					"sections" : [
+						{
+							"type" : "SectionHeader",
+							"caption" : "Ship Pending Order Status",
+							"elements" : [
+								{
+									"type" : "ElementRoot",
+									"title" : "Ship Pending Order Status",
+									"subtitle" : "View Home Order Status",
+									"image" : "Notepad.png"
+								}
+							]
+						},  
+						{
+							"type" : "SectionHeader",
+							"caption" : "VICS CSR Lookup",
+							"elements" : [
+								{
+									"type" : "ElementRoot",
+									"title" : "VICS CSR Lookup",
+									"subtitle" : "View Post-Acute CSR Information",
+									"image" : "Search.png"
+								}
+							]
+						}, 
+						{
+							"type" : "SectionHeader",
+							"caption" : "KCI VTIAF",
+							"elements" : [
+								{
+									"type" : "ElementDocument",
+									"title" : "KCI VTIAF",
+									"subtitle" : "V.A.C.® Therapy Auth/Order Form 3/12",
+									"documentfilename" : "VAC_Therapy_Insurance_Authorization_Form_Writeable_3-12.pdf"
+								}
+							]
+						},
+						{
+							"type" : "SectionHeader",
+							"caption" : "KCI National Contact Center",
+							"elements" : [
+								{
+									"type" : "ElementPhone",
+									"title" : "National Contact Center",
+									"subtitle" : "(800) 275-4524",
+									"other" : "8002754524"
+								},
+								{
+									"type" : "ElementPhone",
+									"title" : "KCI Express® Support Team",
+									"subtitle" : "(800) 275-4524 x65080",
+									"other" : "18002754524,65080"
+								},
+								{
+									"type" : "ElementPhone",
+									"title" : "Support Center Team",
+									"subtitle" : "(800) 275-4524 x55858",
+									"other" : "18002754524,55858"
+								}
+							]
+						},
+						{
+							"type" : "SectionHeader",
+							"caption" : "Billing Phone Numbers",
+							"elements" : [
+								{
+									"type" : "ElementPhone",
+									"title" : "Patient Billing Issues / Support",
+									"subtitle" : "(866) 994-4099",
+									"other" : "18669944099"
+								},
+								{
+									"type" : "ElementPhone",
+									"title" : "Facility Billing Issues / Support",
+									"subtitle" : "(210) 406-4618",
+									"other" : "12104064618"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type" : "ElementPhone",
+					"title" : "KCI IT Service Desk",
+					"subtitle" : "(800) 531-5396 x56123",
+					"other" : "18005315396,56123"
+				},
+				{
+					"type" : "ElementRoot",
+					"title" : "Help Documents & Videos",
+					"subtitle" : "App How-To Documents & Videos",
+					"image" : "Book.png",
+					"sections" : [
+						{
+							"type" : "SectionHeader",
+							"caption" : "Help Documents",
+							"elements" : [
+								{
+									"type" : "ElementRoot",
+									"title" : "View Help Documents",
+									"subtitle" : "Help Documents",
+									"image" : "Book.png",
+									"sections" : [
+										{
+											"type" : "SectionHeader",
+											"caption" : "Help Documents",
+											"elements" : [
+												{	
+													"type" : "ElementDocument",
+													"title" : "Installation",
+													"subtitle" : "Installation Instructions",
+													"documentfilename" : "docs_00_Installation.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Quickstart Guide",
+													"subtitle" : "AHS App Quickstart",
+													"documentfilename" : "docs_01_AHS_QuickStart.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "What's New",
+													"subtitle" : "New App Features",
+													"documentfilename" : "docs_02_Whats_New.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Downloading Files",
+													"subtitle" : "How to Download Files",
+													"documentfilename" : "docs_03_Downloading_Files.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Viewing / Emailing Files",
+													"subtitle" : "Viewing & Emailing App Files",
+													"documentfilename" : "docs_04_Viewing_And_Emailing_Files.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Viewing Web Pages",
+													"subtitle" : "How to View Web Pages",
+													"documentfilename" : "docs_05_Viewing_Web_Page.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Viewing Videos",
+													"subtitle" : "How to View Videos",
+													"documentfilename" : "docs_06_Viewing_Video.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Advantage Center",
+													"subtitle" : "Contacting the Advantage Center",
+													"documentfilename" : "docs_07_Contacting_Advantage_Center.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Favorites",
+													"subtitle" : "Working with Favorites",
+													"documentfilename" : "docs_08_Favorites.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "My Files",
+													"subtitle" : "Custom Files",
+													"documentfilename" : "docs_09_My_Files.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Deleting KCI Files",
+													"subtitle" : "Removing KCI Media Files",
+													"documentfilename" : "docs_10_Deleting_KCI_Files.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Deleting My Files",
+													"subtitle" : "Removing Custom Files",
+													"documentfilename" : "docs_11_Deleting_My_Files.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Updates",
+													"subtitle" : "Checking for Updates",
+													"documentfilename" : "docs_12_Checking_for_Updates.pdf"
+												},
+												{	
+													"type" : "ElementDocument",
+													"title" : "Troubleshooting",
+													"subtitle" : "Troubleshoot Common Issues",
+													"documentfilename" : "docs_13_Troubleshooting.pdf"
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type" : "SectionHeader",
+							"caption" : "Help Videos",
+							"elements" : [
+								{
+									"type" : "ElementRoot",
+									"title" : "View Help Videos",
+									"subtitle" : "Help Videos",
+									"image" : "Video.png",
+									"sections" : [
+										{
+											"type" : "SectionHeader",
+											"caption" : "Help Videos",
+											"elements" : [
+												{	
+													"type" : "ElementVideo",
+													"title" : "Quick Start",
+													"subtitle" : "Quick Start Video",
+													"documentfilename" : "video_02_Quick_Start_iPhone-1.m4v"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "What's New",
+													"subtitle" : "New App Features",
+													"documentfilename" : "video_03_Whats_New2.m4v"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Downloading Files",
+													"subtitle" : "How to Download Files",
+													"documentfilename" : "video_04_Downloading_Files_2.m4v"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Viewing / Emailing Files",
+													"subtitle" : "Viewing & Emailing App Files",
+													"documentfilename" : "video_05_Viewing_Emailing_Docs_2.m4v"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Viewing Web Pages",
+													"subtitle" : "How to View Web Pages",
+													"documentfilename" : "video_06_Viewing_Web_Page_2.m4v"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Viewing Videos",
+													"subtitle" : "How to View Videos",
+													"documentfilename" : "video_07_Viewing_A_Video_2.m4v"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Favorites Lists",
+													"subtitle" : "How to Use Favorites",
+													"documentfilename" : "video_09_Favorites_Customizing_2.m4v"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Adding to Favorites",
+													"subtitle" : "Adding to Favorites Lists",
+													"documentfilename" : "video_10_Favorites_Add_To_2.m4v"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Editing Favorites",
+													"subtitle" : "Removing Files from Favorites",
+													"documentfilename" : "video_10_Favorites_Deleting_Files_2.m4v"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Adding User Files",
+													"subtitle" : "Adding Files from Email",
+													"documentfilename" : "video_11_Add_A_File_From_Email_2.m4v"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Removing KCI Files",
+													"subtitle" : "Removing KCI Media Files",
+													"documentfilename" : "video_12_Deleting_KCI_Files_2.m4v"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Removing User Files",
+													"subtitle" : "Removing User Files",
+													"documentfilename" : "video_13_Deleting_User_Files_2.m4v"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Checking for Updates",
+													"subtitle" : "Checking for App Updates",
+													"documentfilename" : "video_14_Check_for_Updates_2.m4v"
+												},
+												{	
+													"type" : "ElementVideo",
+													"title" : "Working with Wi-Fi",
+													"subtitle" : "Enabling Wi-Fi on Your Phone",
+													"documentfilename" : "video_15_Wifi_Connect_2.m4v"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type" : "ElementRoot",
+					"title" : "KCI Training Resources",
+					"subtitle" : "App How-To Documents & Videos",
+					"image" : "Mic.png",
+					"sections" : [
+						{
+							"type" : "SectionHeader",
+							"caption" : "Value Based Selling",
+							"elements" : [
+								{	
+									"type" : "ElementDocument",
+									"title" : "Chronic Wound Tool",
+									"subtitle" : "Value Based Selling Aid",
+									"documentfilename" : "Chronic_Wound_Tool_DSL13_0665.US_REV10.pdf"
+								},
+								{	
+									"type" : "ElementDocument",
+									"title" : "Infection Focus",
+									"subtitle" : "Value Based Selling Aid",
+									"documentfilename" : "Value_Based_Sellling_Infection_Focus_FINAL.pdf"
+								}
+							]
+						},
+						{
+							"type" : "SectionHeader",
+							"caption" : "ABThera Recordings",
+							"elements" : [
+								{	
+									"type" : "ElementDocument",
+									"title" : "Length of Therapy",
+									"subtitle" : "Tara Kloska",
+									"documentfilename" : "Kloska_Length_of_therapy.mp3"
+								},
+								{	
+									"type" : "ElementDocument",
+									"title" : "Patients Requiring OA",
+									"subtitle" : "Jeff Burger",
+									"documentfilename" : "Burger_Determining_which_patients_require_abdomen_to_remain_open.mp3"
+								},
+								{	
+									"type" : "ElementDocument",
+									"title" : "Sepsis Training",
+									"subtitle" : "Cindy Miller-Mikolajczyk",
+									"documentfilename" : "Miller_Sepsis_training.mp3"
+								},
+								{	
+									"type" : "ElementDocument",
+									"title" : "Septic Abdomen",
+									"subtitle" : "Todd Fies",
+									"documentfilename" : "Fies_Septic_abdomen.mp3"
+								},
+								{	
+									"type" : "ElementDocument",
+									"title" : "Show ABThera Dressing",
+									"subtitle" : "Nicole Moser",
+									"documentfilename" : "Moser_Show_ABThera_dressing.mp3"
+								},
+								{	
+									"type" : "ElementDocument",
+									"title" : "Use for Washout",
+									"subtitle" : "Jeff Burger",
+									"documentfilename" : "Burger_Keeping_abdomen_open_for_wash_out.mp3"
+								}
+							]
+						},
+						{
+							"type" : "SectionHeader",
+							"caption" : "Ulta / VeraFlo Recordings",
+							"elements" : [
+								{	
+									"type" : "ElementDocument",
+									"title" : "Georgetown Pharmacy Interview",
+									"subtitle" : "VeraFlo",
+									"documentfilename" : "VeraFlo_Pharmacy_Call_20120905_1940_1.mp3"
+								},
+								{	
+									"type" : "ElementVideo",
+									"title" : "WOCN Case Study: Infected Wound",
+									"subtitle" : "DSL 13-0643.VD",
+									"documentfilename" : "WOCN_Case_Study_Infected_Wound.m4v"
+								},
+								{	
+									"type" : "ElementDocument",
+									"title" : "Dr. Kim V.A.C. VeraFlo – Ch. 1",
+									"subtitle" : "Ulta",
+									"documentfilename" : "VAC_Ulta_Dr_Kim_Interview_20120713_1802_1_Ch1.mp3"
+								},
+								{	
+									"type" : "ElementDocument",
+									"title" : "Dr. Kim V.A.C. VeraFlo – Ch. 2",
+									"subtitle" : "Ulta",
+									"documentfilename" : "VAC_Ulta_Dr_Kim_Interview_20120713_1802_1_Ch2.mp3"
+								},
+								{	
+									"type" : "ElementDocument",
+									"title" : "Dr. Kim V.A.C. VeraFlo – Ch. 3",
+									"subtitle" : "Ulta",
+									"documentfilename" : "VAC_Ulta_Dr_Kim_Interview_20120713_1802_1_Ch3.mp3"
+								},
+								{	
+									"type" : "ElementDocument",
+									"title" : "Dr. Kim V.A.C. VeraFlo – Ch. 4",
+									"subtitle" : "Ulta",
+									"documentfilename" : "VAC_Ulta_Dr_Kim_Interview_20120713_1802_1_Ch4.mp3"
+								},
+								{	
+									"type" : "ElementDocument",
+									"title" : "Dr. Lantis V.A.C. VeraFlo – Ch. 1",
+									"subtitle" : "Ulta",
+									"documentfilename" : "VAC_Ulta_Dr_Lantis_Interview_20120713_2133_1_Ch1.mp3"
+								},
+								{	
+									"type" : "ElementDocument",
+									"title" : "Dr. Lantis V.A.C. VeraFlo – Ch. 2",
+									"subtitle" : "Ulta",
+									"documentfilename" : "VAC_Ulta_Dr_Lantis_Interview_20120713_2133_1_Ch2.mp3"
+								},
+								{	
+									"type" : "ElementDocument",
+									"title" : "Dr. Lantis V.A.C. VeraFlo – Ch. 3",
+									"subtitle" : "Ulta",
+									"documentfilename" : "VAC_Ulta_Dr_Lantis_Interview_20120713_2133_1_Ch3.mp3"
+								},
+								{	
+									"type" : "ElementDocument",
+									"title" : "Dr. Lantis V.A.C. VeraFlo – Ch. 4",
+									"subtitle" : "Ulta",
+									"documentfilename" : "VAC_Ulta_Dr_Lantis_Interview_20120713_2133_1_Ch4.mp3"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type" : "ElementEmail",
+					"title" : "Submit Feedback",
+					"subtitle" : "Email Comments & Suggestions",
+					"documentfilename" : "sfdcus@kci1.com",
+					"other" : "KCI AHS Sales App Feedback"
+				},
+				{
+					"type" : "CreditsFooter",
+					"caption" : "2011 KCI Licensing, Inc. All rights reserved.\r All trademarks designated herein are\r property to KCI Licensing, Inc., its\r affiliates and/or licensors. 4/11."
+				}
+			]
+		}
+	]
+}

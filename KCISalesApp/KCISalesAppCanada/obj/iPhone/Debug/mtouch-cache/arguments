@@ -1,0 +1,41 @@
+# Version: 8.6.1.20 (3b3ef43)
+# [first argument, ignore] # /Users/GustavoGalan/Projects/TFS2008Projects/XamarinMobileApps/AHSSalesApp/KCISalesAppCanada/bin/iPhone/Debug/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/8.6.1.20/bin/mtouch-64 \
+	-sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Users/GustavoGalan/Projects/TFS2008Projects/XamarinMobileApps/AHSSalesApp/KCISalesAppCanada/obj/iPhone/Debug/mtouch-cache \
+	--executable \
+	KCISalesAppCanada \
+	--nomanifest \
+	--nosign \
+	-dev \
+	/Users/GustavoGalan/Projects/TFS2008Projects/XamarinMobileApps/AHSSalesApp/KCISalesAppCanada/bin/iPhone/Debug/KCISalesAppCanada.app \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/monotouch.dll \
+	-r \
+	/Users/GustavoGalan/Projects/TFS2008Projects/XamarinMobileApps/AHSSalesApp/Components/json.net-4.5.11/lib/ios/Newtonsoft.Json.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/MonoTouch.Dialog-1.dll \
+	-r \
+	/Users/GustavoGalan/Projects/TFS2008Projects/XamarinMobileApps/AHSSalesApp/Components/mbprogresshud-0.8/lib/ios/MBProgressHUD.dll \
+	-r \
+	/Users/GustavoGalan/Projects/TFS2008Projects/XamarinMobileApps/AHSSalesApp/Components/calabash-10.1.1/lib/ios/Calabash.dll \
+	-r \
+	/Users/GustavoGalan/Projects/TFS2008Projects/XamarinMobileApps/AHSSalesApp/packages/Xamarin.Insights.1.7.2.97/lib/MonoTouch10/Xamarin.Insights.dll \
+	-r \
+	/Users/GustavoGalan/Projects/TFS2008Projects/XamarinMobileApps/AHSSalesApp/packages/Xamarin.Insights.1.7.2.97/lib/MonoTouch10/PLCrashReporter.dll \
+	-debug \
+	-linksdkonly \
+	-sdk \
+	8.1 \
+	-targetver \
+	7.0 \
+	--abi=armv7 \
+	/Users/GustavoGalan/Projects/TFS2008Projects/XamarinMobileApps/AHSSalesApp/KCISalesAppCanada/bin/iPhone/Debug/KCISalesAppCanada.exe \
