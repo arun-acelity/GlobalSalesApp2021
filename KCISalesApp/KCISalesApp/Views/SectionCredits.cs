@@ -31,7 +31,7 @@ namespace KCISalesApp
 			caption = new UITextView ();
 			caption.Text = _caption;
 
-			caption.Font = UIFont.FromName (caption.Font.Name , 9f);
+			caption.Font = UIFont.FromName ("Arial", 9f);
 			caption.TextAlignment = UITextAlignment.Center;
 			caption.TextColor = UIColor.White;
 			caption.BackgroundColor = UIColor.Clear;

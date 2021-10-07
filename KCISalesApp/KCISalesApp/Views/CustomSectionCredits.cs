@@ -13,6 +13,8 @@ using CoreGraphics;
 using AVFoundation;
 using QuickLook;
 using MessageUI;
+using MediaPlayer;
+using CoreAnimation;
 
 namespace KCISalesApp
 {
@@ -50,23 +52,28 @@ namespace KCISalesApp
 		}
 		public nfloat GetHeight(UITableView tableView, NSIndexPath indexPath)
 		{
-			return 85;
+			return 145;
 		}
 		public class CustomSectionCell : UITableViewCell
 		{
 			public string MyCaption;
 			public UITextView MyLblCaption;
+			public UIImageView compLogo;
 			public CustomSectionCell (string reuseIdentifier): base(UITableViewCellStyle.Default, reuseIdentifier)
 			{
 				MyLblCaption = new UITextView ();
 				MyLblCaption.Text = MyCaption;
 				MyLblCaption.TextAlignment = UITextAlignment.Center;
-				MyLblCaption.TextColor = UIColor.White;
+				MyLblCaption.TextColor = UIColor.Black;
 				MyLblCaption.BackgroundColor = UIColor.Clear;
-				MyLblCaption.UserInteractionEnabled = false;
+				MyLblCaption.UserInteractionEnabled = false;				
 				ContentView.BackgroundColor = UIColor.Clear;
 				ContentView.AddSubview (MyLblCaption);
-				BackgroundColor = UIColor.Clear;
+				compLogo = new UIImageView();
+
+				compLogo.Image = AppDelegate.img3MKCIlogo;
+				ContentView.AddSubview(compLogo);
+                BackgroundColor = UIColor.Clear;
 			}
 			public override void LayoutSubviews ()
 			{
@@ -74,7 +81,12 @@ namespace KCISalesApp
 				MyLblCaption.Text = MyCaption;
 				Accessory = UITableViewCellAccessory.None;
 				MyLblCaption.Frame = new CGRect (0, 10, ContentView.Bounds.Width, ContentView.Bounds.Height);
-				MyLblCaption.Font = UIFont.FromName (MyLblCaption.Font.Name , 10f);
+                
+				compLogo.Frame = new CGRect(0, 28, 125, 28);
+				compLogo.Center = new CGPoint(ContentView.Bounds.Width / 2, ContentView.Bounds.Height / 2);
+				compLogo.SetNeedsDisplay();
+
+				MyLblCaption.Font = UIFont.FromName ("Arial" , 10f);
 				BackgroundColor = UIColor.Clear;
 			}
 		}

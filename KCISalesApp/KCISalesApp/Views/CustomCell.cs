@@ -53,8 +53,8 @@ namespace KCISalesApp
 		}
 		public CustomCell (string reuseIdentifier): base(UITableViewCellStyle.Default, reuseIdentifier)
 		{
-			MyLblTitle = new UILabel { Font =  UIFont.FromName(TextLabel.Font.Name, 16.0f ), BackgroundColor = UIColor.Clear, TextColor = UIColor.DarkTextColor  };
-			MyLblSubtitle = new UILabel { Font =  UIFont.FromName(TextLabel.Font.Name, 12.0f ), BackgroundColor = UIColor.Clear, TextColor = UIColor.DarkTextColor  };
+			MyLblTitle = new UILabel { Font =  UIFont.FromName("Arial", 16.0f ), BackgroundColor = UIColor.Clear, TextColor = UIColor.DarkTextColor  };
+			MyLblSubtitle = new UILabel { Font =  UIFont.FromName("Arial", 12.0f ), BackgroundColor = UIColor.Clear, TextColor = UIColor.DarkTextColor  };
 			ContentView.AddSubview (MyLblTitle);
 			ContentView.AddSubview (MyLblSubtitle);
 
