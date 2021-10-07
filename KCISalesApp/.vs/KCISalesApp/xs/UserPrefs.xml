@@ -1,34 +1,33 @@
-﻿<Properties StartupConfiguration="{9FBDB0A0-EA1F-4533-81CA-529E4EB23B91}|Default">
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{376DB999-7A7E-429F-BF94-DDDFA745940C}|Default">
   <MonoDevelop.Ide.ItemProperties.KCISalesAppChina automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="KCISalesApp/Views/CustomWebView.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="KCISalesAppJapan/Info.plist" />
-      <File FileName="KCISalesApp/Views/CustomWebView.cs" Line="20" Column="13" />
-      <File FileName="KCISalesAppAustralia/Info.plist" />
-      <File FileName="KCISalesAppSingapore/Info.plist" />
-      <File FileName="KCISalesAppChina/Info.plist" />
+      <File FileName="KCISalesApp/AppDelegate.cs" Line="760" Column="1" />
+      <File FileName="KCISalesApp/Views/CustomCell.cs" />
+      <File FileName="KCISalesApp/SalesContent.json" />
+      <File FileName="KCISalesApp/SalesContent.json_CDN" />
+      <File FileName="KCISalesAppJapan/SalesContentDEV.json_CDN" />
+      <File FileName="KCISalesAppJapan/SalesContentDEV.json" />
+      <File FileName="KCISalesAppJapan/SalesContent.json_CDN" />
+      <File FileName="KCISalesAppJapan/SalesContent.json" />
+      <File FileName="KCISalesApp/Main.cs" />
+      <File FileName="KCISalesApp/Views/CustomDialogViewController.cs" />
       <File FileName="KCISalesAppIndia/KCISalesAppIndia/Info.plist" />
-      <File FileName="KCISalesAppCanada/Info.plist" />
-      <File FileName="KCISalesApp/SalesContent.json" Line="1" Column="1" />
-      <File FileName="KCISalesAppJapan/SalesContent.json" Line="1" Column="1" />
+      <File FileName="KCISalesAppJapan/Info.plist" />
+      <File FileName="KCISalesAppAustralia/Info.plist" />
+      <File FileName="KCISalesApp/CustomClasses/RackSpaceCDN.cs" />
+      <File FileName="KCISalesApp/CustomClasses/DownloadFileMgr.cs" />
+      <File FileName="KCISalesAppChina/Info.plist" />
+      <File FileName="KCISalesApp/Views/CustomElementWebView.cs" />
+      <File FileName="KCISalesApp/Views/CustomWebView.cs" />
+      <File FileName="../../../../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/iOS/Xamarin.Shared.targets" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="KCISalesApp" expanded="True">
-            <Node name="KCISalesApp" expanded="True">
-              <Node name="References" expanded="True">
-                <Node name="From Packages" expanded="True" />
-              </Node>
-            </Node>
-            <Node name="KCISalesAppJapan" expanded="True">
-              <Node name="References" expanded="True">
-                <Node name="From Packages" expanded="True">
-                  <Node name="Xamarin.Insights" selected="True" />
-                </Node>
-              </Node>
-              <Node name="Packages" expanded="True" />
-            </Node>
+            <Node name="KCISalesApp" expanded="True" />
+            <Node name="KCISalesAppJapan" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -37,13 +36,18 @@
   <MonoDevelop.Ide.ItemProperties.KCISalesApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C0A7E5A7-55BA-4EFA-A7F4-29D3F9B6046C" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.KCISalesAppCanada automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
-  <MonoDevelop.Ide.ItemProperties.KCISalesAppIndia automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
-  <MonoDevelop.Ide.ItemProperties.KCISalesAppSingapore automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="AppStore|iPhone" />
-  <MonoDevelop.Ide.ItemProperties.KCISalesAppAustralia automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
-  <MonoDevelop.Ide.ItemProperties.KCISalesAppJapan automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.ItemProperties.KCISalesAppIndia automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D971E811-7E12-4EDD-A9DF-61748C45D89C" />
+  <MonoDevelop.Ide.ItemProperties.KCISalesAppSingapore automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.37D8B592-E486-45B3-BDA1-51A16197CAD3" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.KCISalesAppAustralia automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D971E811-7E12-4EDD-A9DF-61748C45D89C" />
+  <MonoDevelop.Ide.ItemProperties.KCISalesAppJapan automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D971E811-7E12-4EDD-A9DF-61748C45D89C" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/m_444126/Desktop/Arundas/SalesAppNew/KCI-Global-Sales-App/KCISalesApp/KCISalesApp/AppDelegate.cs" relfile="KCISalesApp/AppDelegate.cs" line="480" column="1" />
+      <Breakpoint enabled="false" file="/Users/m_444126/Desktop/Arundas/SalesAppNew/KCI-Global-Sales-App/KCISalesApp/KCISalesApp/CustomClasses/RackSpaceCDN.cs" relfile="KCISalesApp/CustomClasses/RackSpaceCDN.cs" line="34" column="1" />
+      <Breakpoint file="/Users/m_444126/Desktop/Arundas/SalesAppNew/KCI-Global-Sales-App/KCISalesApp/KCISalesAppJapan/SalesContent.json_CDN" relfile="KCISalesAppJapan/SalesContent.json_CDN" line="1035" column="1" />
+      <Breakpoint file="/Users/m_444126/Desktop/Arundas/SalesAppNew/KCI-Global-Sales-App/KCISalesApp/KCISalesApp/Views/CustomWebView.cs" relfile="KCISalesApp/Views/CustomWebView.cs" line="42" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.KCISalesAppUSA PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
