@@ -35,6 +35,7 @@ namespace KCISalesApp
 		public static UIImage imgSelect;
 		public static UIImage imgSelected;
 		public static UIImage imgSelectedDelete;
+		public static UIImage img3MKCIlogo;
 		public static bool isDevicePhone;
 		public static string DocumentsFolder;
 		public const string CDNAuthUser = "kci1";
@@ -153,13 +154,13 @@ namespace KCISalesApp
 			//check for device type, screen size, and orientation
 			if (UIDevice.CurrentDevice.UserInterfaceIdiom == UIUserInterfaceIdiom.Phone) {
 				if (UIScreen.MainScreen.ApplicationFrame.Height > 480) {
-					AppDelegate.strBackgroundImage = "Images/Background.png";//ahs_background_iphone4in_v.jpg";
+					AppDelegate.strBackgroundImage = "Images/3MBG.png";//ahs_background_iphone4in_v.jpg";
 				} else {
-					AppDelegate.strBackgroundImage = "Images/Background.png";//ahs_background_iphone_v.jpg";
+					AppDelegate.strBackgroundImage = "Images/3MBG.png";//ahs_background_iphone_v.jpg";
 				}
 				isDevicePhone = true;
 			} else {
-				strBackgroundImage = "Images/Background.png";//ahs_background_ipad_v.jpg";
+				strBackgroundImage = "Images/3MBG.png";//ahs_background_ipad_v.jpg";
 				isDevicePhone = false;
 			}
 			imgBackgroundImage = UIImage.FromBundle (strBackgroundImage);
@@ -171,6 +172,7 @@ namespace KCISalesApp
 			imgSelected = UIImage.FromBundle ("Images/Selected.png");
 			imgSelectedDelete = UIImage.FromBundle ("Images/SelectedDelete.png");
 			strThumbnailImage = "Images/AHSThumbnail.png";
+			img3MKCIlogo = UIImage.FromBundle("Images/3MKCIlogo.png");
 			imgThumbnailImage = UIImage.FromBundle (strThumbnailImage);
 			DocumentsFolder = Environment.GetFolderPath (Environment.SpecialFolder.Personal);
 			BeingDownloadedFiles = new DownloadingFilesList ();
